@@ -1,0 +1,6 @@
+.env
+data/packs/
+reports/rendered/
+__pycache__/
+*.pyc
+.jetro/

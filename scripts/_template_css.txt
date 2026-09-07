@@ -1,0 +1,147 @@
+
+/* LIGHT ONLY, deliberately. This report is embedded in a Blogger iframe and
+   published to a general readership; a reader whose OS is set to dark was
+   getting a dark report inside a light blog, which read as broken rather than
+   adaptive. The palette below is the single committed look -- every colour is
+   painted explicitly, including body background, so the page never borrows the
+   host page tint. Do not reintroduce prefers-color-scheme here without also
+   solving the blog-vs-report mismatch. */
+:root{
+  --navy:#10263F; --navy-hi:#1B3550; --ground:#F4F5F2; --surface:#FFFFFF;
+  --ink:#17212B; --muted:#5D6B79; --line:#DCE1E4; --line-2:#EDF0F1;
+  --up:#0E7C5A; --dn:#C33A2E; --warn:#B4761A; --warn-bg:#FBF3E4;
+  --chip:#EAEEF1; --zebra:#FAFBFA; --link:#10263F;
+  /* rank gradients: 1 = strongest */
+  --g1:#BFE3D0; --g2:#D6EDE0; --g3:#E9F5EF;
+  --r1:#F6CFC9; --r2:#FAE0DC; --r3:#FDEFED;
+  --bar-up:#3E9C77; --bar-dn:#C9705F;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);
+  font-family:"IBM Plex Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px 72px}
+h1,h2,h3{font-family:"IBM Plex Sans Condensed","IBM Plex Sans",sans-serif;text-wrap:balance;margin:0}
+.mono{font-family:"IBM Plex Mono",ui-monospace,monospace;font-variant-numeric:tabular-nums}
+
+.mast{background:var(--navy);padding:22px 0 18px}
+.mast .wrap{padding-bottom:0;display:flex;justify-content:space-between;align-items:flex-start;gap:16px}
+.mast h1{font-size:1.9rem;font-weight:700;letter-spacing:-.01em;color:#FFF}
+.mast .sub{font-size:.82rem;color:#9FB4C7;margin-top:5px;font-family:"IBM Plex Mono",monospace}
+.pdfbtn{flex:0 0 auto;background:transparent;color:#9FB4C7;border:1px solid #3A5670;
+  border-radius:4px;padding:6px 12px;font-size:.75rem;font-family:inherit;cursor:pointer}
+.pdfbtn:hover{background:#1B3550;color:#FFF}
+
+nav{position:sticky;top:0;z-index:50;background:var(--surface);border-bottom:1px solid var(--line)}
+nav .wrap{padding:0 20px;display:flex;gap:2px;overflow-x:auto}
+nav a{flex:0 0 auto;padding:11px 12px;font-size:.78rem;font-weight:500;color:var(--muted);
+  text-decoration:none;border-bottom:2px solid transparent;white-space:nowrap}
+nav a:hover{color:var(--ink);background:var(--line-2)}
+nav a.on{color:var(--ink);border-bottom-color:var(--warn);font-weight:600}
+nav a:focus-visible{outline:2px solid var(--warn);outline-offset:-2px}
+nav .mv{flex:0 0 auto;padding:11px 6px 11px 12px;font-size:.64rem;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--muted);opacity:.6;align-self:center;font-weight:600}
+
+.topbar{background:var(--chip);border-bottom:1px solid var(--line);font-size:.78rem;color:var(--muted)}
+.topbar .wrap{padding:9px 20px;display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
+.expiry{background:var(--warn-bg);color:var(--warn);border:1px solid var(--warn);
+  padding:3px 10px;border-radius:3px;font-weight:600;font-size:.75rem;letter-spacing:.02em}
+
+.movement{margin:38px 0 4px;padding-bottom:6px;border-bottom:1px solid var(--line)}
+.movement .k{font-family:"IBM Plex Mono",monospace;font-size:.68rem;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--warn);font-weight:600}
+.movement .t{font-family:"IBM Plex Sans Condensed",sans-serif;font-size:1.05rem;font-weight:700;color:var(--muted)}
+
+section{padding-top:30px;scroll-margin-top:52px}
+.sec-h{display:flex;align-items:baseline;gap:11px;border-bottom:2px solid var(--muted);padding-bottom:7px;margin-bottom:16px}
+.sec-h .n{font-family:"IBM Plex Mono",monospace;font-size:.8rem;font-weight:600;color:var(--warn)}
+.sec-h h2{font-size:1.3rem;font-weight:700;letter-spacing:-.01em}
+h3{font-size:.95rem;font-weight:600;margin:20px 0 8px}
+.cap{font-size:.76rem;color:var(--muted);margin:7px 0 0;line-height:1.5}
+.cap em{font-style:italic}
+
+.score{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:12px}
+.tile{background:var(--surface);border:1px solid var(--line);border-radius:5px;padding:11px 13px}
+.tile .k{font-size:.67rem;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);font-weight:600}
+.tile .v{font-family:"IBM Plex Mono",monospace;font-size:1.2rem;font-weight:600;margin-top:3px;
+  letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+.tile .d{font-family:"IBM Plex Mono",monospace;font-size:.75rem;margin-top:1px}
+.rowlab{font-size:.7rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-weight:600;margin:16px 0 7px}
+
+.twrap{overflow-x:auto;border:1px solid var(--line);border-radius:5px;background:var(--surface)}
+table{width:100%;border-collapse:collapse;font-size:.82rem;min-width:560px}
+thead th{background:var(--navy);color:#EAF1F7;font-weight:700;text-align:left;padding:9px 11px;
+  font-size:.71rem;text-transform:uppercase;letter-spacing:.05em;white-space:nowrap}
+thead th.num{text-align:right}
+thead th.ctr{text-align:center}
+/* Wrapping headers let a wide table fit without horizontal scrolling: the
+   header is the widest cell in most numeric columns, so letting it break over
+   two or three lines is what actually narrows the table. */
+thead th.wrapv{white-space:normal;line-height:1.25;vertical-align:bottom;max-width:74px}
+table.compact{font-size:.76rem}
+table.compact thead th{padding:7px 7px;font-size:.66rem;letter-spacing:.03em}
+table.compact tbody td{padding:6px 7px}
+thead th[data-s]{cursor:pointer;user-select:none}
+thead th[data-s]:hover{background:var(--navy-hi)}
+thead th[data-s]::after{content:" ↕";opacity:.35;margin-left:5px;font-size:.85em}
+thead th.asc::after{content:" ↑";opacity:.95}
+thead th.desc::after{content:" ↓";opacity:.95}
+tbody td{padding:8px 11px;border-top:1px solid var(--line-2)}
+tbody tr:nth-child(even){background:var(--zebra)}
+td.num{text-align:right;white-space:nowrap;font-family:"IBM Plex Mono",monospace;font-variant-numeric:tabular-nums}
+td.sym{font-family:"IBM Plex Mono",monospace;font-weight:600;white-space:nowrap}
+.up{color:var(--up)} .dn{color:var(--dn)} .fl{color:var(--muted)} .na{color:var(--muted);opacity:.6}
+td.g1{background:var(--g1)!important} td.g2{background:var(--g2)!important} td.g3{background:var(--g3)!important}
+td.r1{background:var(--r1)!important} td.r2{background:var(--r2)!important} td.r3{background:var(--r3)!important}
+tr.hl{background:var(--warn-bg)!important}
+tr.hl td{font-weight:600}
+
+/* sector bars, one shared scale */
+.bar{position:relative;height:16px;min-width:120px}
+.bar .axis{position:absolute;left:50%;top:0;bottom:0;width:1px;background:var(--line)}
+.bar .fill{position:absolute;top:3px;height:10px;border-radius:1px}
+.bar .lbl{position:absolute;top:0;font-family:"IBM Plex Mono",monospace;font-size:.7rem;line-height:16px;color:var(--muted)}
+
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(310px,1fr));gap:13px}
+.grid3{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:13px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:5px;padding:14px 16px}
+.card h3{margin:0 0 7px;font-size:.9rem}
+.card .meta{font-size:.71rem;color:var(--muted);font-family:"IBM Plex Mono",monospace;margin-bottom:8px}
+.bul{margin:0;padding-left:17px}
+.bul li{margin:5px 0;font-size:.85rem}
+.narr li{margin:7px 0;font-size:.88rem}
+.callout{border-left:3px solid var(--warn);background:var(--warn-bg);padding:11px 14px;
+  border-radius:0 4px 4px 0;font-size:.85rem;margin:13px 0}
+.callout.gap{border-left-color:var(--muted);background:var(--chip);color:var(--muted)}
+.pill{display:inline-block;font-family:"IBM Plex Mono",monospace;font-size:.66rem;font-weight:600;
+  padding:2px 7px;border-radius:3px;background:var(--chip);color:var(--muted);letter-spacing:.03em}
+.pill.up{background:rgba(14,124,90,.14);color:var(--up)}
+.pill.dn{background:rgba(195,58,46,.14);color:var(--dn)}
+.pill.wn{background:var(--warn-bg);color:var(--warn)}
+.pending{border:1px dashed var(--line);border-radius:5px;padding:12px 14px;color:var(--muted);
+  font-size:.83rem;background:var(--surface)}
+a{color:var(--link)}
+.htr-section{margin-top:36px;padding:20px 24px;background:#F8FAFC;border:1px solid #CBD5E1;border-left:5px solid #2563EB;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.03);font-family:"IBM Plex Sans",-apple-system,sans-serif}
+.htr-badge{display:inline-block;font-family:"IBM Plex Mono",monospace;font-size:.60rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#1E40AF;background:#DBEAFE;padding:2px 8px;border-radius:4px;margin-bottom:6px}
+.htr-section h2{font-family:"Georgia","Times New Roman",serif;font-size:1.35rem;font-weight:700;color:#0F172A;margin-top:4px;margin-bottom:12px}
+.htr-lead{font-family:"Georgia","Times New Roman",serif;font-size:.88rem;font-style:italic;line-height:1.55;color:#1E293B;background:#FFFFFF;padding:14px 18px;border-radius:6px;border:1px dashed #94A3B8;margin-bottom:18px}
+.htr-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px}
+.htr-card{background:#FFFFFF;border:1px solid #E2E8F0;border-radius:6px;padding:12px 14px;box-shadow:0 1px 3px rgba(0,0,0,0.04)}
+.htr-step{font-family:"IBM Plex Mono",monospace;font-size:.60rem;font-weight:700;color:#2563EB;text-transform:uppercase;margin-bottom:3px}
+.htr-title{font-family:"IBM Plex Sans",sans-serif;font-size:.78rem;font-weight:700;color:#0F172A;margin:0 0 4px 0}
+.htr-body{font-family:"IBM Plex Sans",sans-serif;font-size:.68rem;line-height:1.45;color:#334155;margin:0}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+@media print{
+  .no-print{display:none!important}
+  nav{display:none!important}
+  body{background:#FFF!important;color:#111!important}
+  .mast{background:#10263F!important}
+  .twrap{overflow:visible!important;border-color:#CCC}
+  table{min-width:0!important;font-size:.72rem}
+  thead th{background:#10263F!important;color:#FFF!important;position:static!important}
+  tbody tr,.card,.callout,.tile{break-inside:avoid;page-break-inside:avoid}
+  section{break-inside:auto}
+  .sec-h{break-after:avoid}
+}
+

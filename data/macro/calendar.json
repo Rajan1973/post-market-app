@@ -1,0 +1,799 @@
+[
+  {
+    "id": "india_gst",
+    "name": "Gross GST Collections",
+    "category": "fiscal",
+    "frequency": "monthly",
+    "schedule_rule": { "type": "day_of_month", "day": 1, "window_days": 2 },
+    "release_time_ist": "07:00",
+    "source_url": "https://pib.gov.in",
+    "impact": ["equities", "sovereign_debt"],
+    "thresholds": [
+      { "above": 200000, "unit": "crore", "signal": "very_strong", "note": "Above 2 lakh crore — fiscal target easily met" },
+      { "above": 175000, "unit": "crore", "signal": "strong", "note": "Above 1.75 lakh crore — healthy formal economy activity" },
+      { "below": 150000, "unit": "crore", "signal": "weak", "note": "Below 1.5 lakh crore — formal economy slowdown concern" }
+    ],
+    "search_terms": ["GST collections {month} {year} India", "gross GST {month} {year} crore"],
+    "tijori_tool": "get_macro_indicators", "tijori_tab": "demand"
+  },
+  {
+    "id": "india_auto_dispatch",
+    "name": "Monthly Auto OEM Dispatch Numbers",
+    "category": "sectoral",
+    "frequency": "monthly",
+    "schedule_rule": { "type": "day_of_month", "day": 1, "window_days": 2 },
+    "release_time_ist": "08:00",
+    "source_url": "https://bseindia.com",
+    "impact": ["nifty_auto", "equities"],
+    "thresholds": [
+      { "metric": "two_wheeler_yoy_pct", "above": 10, "signal": "strong_rural_demand" },
+      { "metric": "cv_yoy_pct", "above": 8, "signal": "strong_industrial_freight" },
+      { "metric": "pv_yoy_pct", "below": 0, "signal": "urban_slowdown" }
+    ],
+    "search_terms": [
+      "Maruti sales {month} {year}", "Tata Motors dispatch {month} {year}",
+      "M&M monthly sales {month} {year}", "Hero MotoCorp sales {month} {year}",
+      "auto OEM dispatch data {month} {year} India"
+    ],
+    "tijori_tool": null
+  },
+  {
+    "id": "india_mfg_pmi",
+    "name": "S&P Global India Manufacturing PMI",
+    "category": "growth",
+    "frequency": "monthly",
+    "schedule_rule": { "type": "day_of_month", "day": 1, "window_days": 1, "business_day": true },
+    "release_time_ist": "10:30",
+    "source_url": "https://spglobal.com",
+    "impact": ["equities", "inr"],
+    "thresholds": [
+      { "above": 55, "signal": "robust_expansion", "note": "Strong factory orders and hiring" },
+      { "above": 50, "signal": "expansion" },
+      { "below": 50, "signal": "contraction", "note": "First contraction in months is significant" }
+    ],
+    "search_terms": ["India Manufacturing PMI {month} {year} S&P Global"],
+    "tijori_tool": null
+  },
+  {
+    "id": "india_eway_bill",
+    "name": "E-Way Bill Generation Volumes",
+    "category": "sectoral",
+    "frequency": "monthly",
+    "schedule_rule": { "type": "day_of_month", "day": 1, "window_days": 3 },
+    "release_time_ist": "12:00",
+    "source_url": "https://gstn.org.in",
+    "impact": ["equities_logistics", "fmcg", "equities"],
+    "thresholds": [
+      { "metric": "yoy_growth_pct", "above": 15, "signal": "strong_goods_movement" },
+      { "metric": "yoy_growth_pct", "below": 5, "signal": "logistics_slowdown" }
+    ],
+    "search_terms": ["E-way bill generation {month} {year} crore India"],
+    "tijori_tool": null
+  },
+  {
+    "id": "india_services_pmi",
+    "name": "S&P Global India Services PMI",
+    "category": "growth",
+    "frequency": "monthly",
+    "schedule_rule": { "type": "day_of_month", "day": 3, "window_days": 1, "business_day": true },
+    "release_time_ist": "10:30",
+    "source_url": "https://spglobal.com",
+    "impact": ["equities", "inr"],
+    "thresholds": [
+      { "above": 55, "signal": "robust_services_expansion" },
+      { "above": 50, "signal": "expansion" },
+      { "below": 50, "signal": "contraction" }
+    ],
+    "search_terms": ["India Services PMI {month} {year} S&P Global"],
+    "tijori_tool": null
+  },
+  {
+    "id": "amfi_mf_flows",
+    "name": "AMFI Mutual Fund Equity Inflows and SIP Totals",
+    "category": "flows",
+    "frequency": "monthly",
+    "schedule_rule": { "type": "day_range_of_month", "day_from": 8, "day_to": 10 },
+    "release_time_ist": "18:00",
+    "source_url": "https://amfiindia.com",
+    "impact": ["equities", "midcaps", "smallcaps"],
+    "thresholds": [
+      { "metric": "sip_crore", "above": 25000, "signal": "record_domestic_cushion" },
+      { "metric": "sip_crore", "above": 20000, "signal": "strong_domestic_cushion", "note": "SIP above 20k crore shields against FPI outflows" },
+      { "metric": "equity_net_crore", "below": 0, "signal": "mf_net_selling", "note": "Unusual and bearish if sustained" }
+    ],
+    "search_terms": ["AMFI mutual fund SIP {month} {year} crore", "equity mutual fund inflows {month} {year}"],
+    "tijori_tool": null
+  },
+  {
+    "id": "india_cpi",
+    "name": "India Consumer Price Index (CPI) Inflation",
+    "category": "inflation",
+    "frequency": "monthly",
+    "schedule_rule": { "type": "day_of_month", "day": 12, "fallback": "prev_friday" },
+    "release_time_ist": "17:30",
+    "source_url": "https://mospi.gov.in",
+    "impact": ["sovereign_debt", "equities", "inr"],
+    "thresholds": [
+      { "above": 5.5, "signal": "delay_rate_cut", "sector_impact": "negative: auto, realty, banking" },
+      { "above": 6.0, "signal": "rate_hike_risk" },
+      { "below": 4.0, "signal": "rate_cut_possible", "sector_impact": "positive: rate_sensitives" },
+      { "band": [2.0, 6.0], "signal": "within_rbi_tolerance" }
+    ],
+    "search_terms": ["India CPI inflation {month} {year}", "CPI data MoSPI {month} {year}"],
+    "tijori_tool": "get_macro_indicators", "tijori_tab": "demand"
+  },
+  {
+    "id": "india_iip",
+    "name": "India Index of Industrial Production (IIP)",
+    "category": "growth",
+    "frequency": "monthly",
+    "schedule_rule": { "type": "day_of_month", "day": 12, "fallback": "prev_friday" },
+    "release_time_ist": "17:30",
+    "source_url": "https://mospi.gov.in",
+    "impact": ["equities_manufacturing", "capital_goods", "mining"],
+    "thresholds": [
+      { "metric": "capital_goods_yoy_pct", "above": 10, "signal": "capex_cycle_active" },
+      { "metric": "overall_yoy_pct", "above": 5, "signal": "industrial_expansion" },
+      { "metric": "overall_yoy_pct", "below": 0, "signal": "industrial_contraction" }
+    ],
+    "search_terms": ["India IIP {month_lag1} {year} industrial production", "index of industrial production {month_lag1}"],
+    "tijori_tool": "get_macro_indicators", "tijori_tab": "industry"
+  },
+  {
+    "id": "india_wpi",
+    "name": "India Wholesale Price Index (WPI) Inflation",
+    "category": "inflation",
+    "frequency": "monthly",
+    "schedule_rule": { "type": "day_of_month", "day": 14 },
+    "release_time_ist": "12:00",
+    "source_url": "https://eaindustry.nic.in",
+    "impact": ["commodities", "corporate_margins"],
+    "thresholds": [
+      { "condition": "wpi_rises_faster_than_cpi", "signal": "margin_pressure", "note": "Companies cannot pass costs; margin contraction likely" }
+    ],
+    "search_terms": ["India WPI {month} {year} wholesale price index"],
+    "tijori_tool": null
+  },
+  {
+    "id": "india_trade_deficit",
+    "name": "India Merchandise Trade Deficit",
+    "category": "external",
+    "frequency": "monthly",
+    "schedule_rule": { "type": "day_of_month", "day": 15, "window_days": 3 },
+    "release_time_ist": "17:00",
+    "source_url": "https://commerce.gov.in",
+    "impact": ["inr", "current_account"],
+    "thresholds": [
+      { "metric": "deficit_usd_bn", "above": 25, "signal": "rupee_pressure", "note": "Importers scramble for dollars" },
+      { "metric": "exports_yoy_pct", "above": 10, "signal": "export_momentum" },
+      { "metric": "exports_yoy_pct", "below": -5, "signal": "export_slowdown" }
+    ],
+    "search_terms": ["India trade deficit exports imports {month} {year}", "India merchandise trade data {month}"],
+    "tijori_tool": "get_macro_indicators", "tijori_tab": "gdp"
+  },
+  {
+    "id": "advance_tax_q2",
+    "name": "Advance Tax Installment Q2 (September 15)",
+    "category": "fiscal",
+    "frequency": "quarterly",
+    "schedule_rule": { "type": "fixed_date", "month": 9, "day": 15 },
+    "release_time_ist": "eod",
+    "source_url": "https://incometaxindia.gov.in",
+    "impact": ["equities_corporate_earnings"],
+    "thresholds": [
+      { "metric": "yoy_growth_pct", "above": 15, "signal": "strong_earnings_q2" }
+    ],
+    "search_terms": ["advance tax September 15 {year} India corporate collections"],
+    "tijori_tool": null
+  },
+  {
+    "id": "advance_tax_q3",
+    "name": "Advance Tax Installment Q3 (December 15)",
+    "category": "fiscal",
+    "frequency": "quarterly",
+    "schedule_rule": { "type": "fixed_date", "month": 12, "day": 15 },
+    "release_time_ist": "eod",
+    "source_url": "https://incometaxindia.gov.in",
+    "impact": ["equities_corporate_earnings"],
+    "search_terms": ["advance tax December 15 {year} India corporate"],
+    "tijori_tool": null
+  },
+  {
+    "id": "china_lpr",
+    "name": "China PBOC Loan Prime Rate (LPR) Announcement",
+    "category": "global_rates",
+    "frequency": "monthly",
+    "schedule_rule": { "type": "day_of_month", "day": 20 },
+    "release_time_ist": "09:30",
+    "source_url": "https://pbc.gov.cn",
+    "impact": ["commodities_base_metals"],
+    "thresholds": [
+      { "condition": "cut", "signal": "metals_positive", "note": "Stimulates Chinese construction and manufacturing demand" }
+    ],
+    "search_terms": ["China PBOC LPR rate decision {month} {year}"],
+    "tijori_tool": null
+  },
+  {
+    "id": "nse_fo_expiry",
+    "name": "Monthly F&O Expiry and Rollover Data (NSE)",
+    "category": "sentiment",
+    "frequency": "monthly",
+    "schedule_rule": { "type": "last_thursday_of_month" },
+    "release_time_ist": "15:30",
+    "source_url": "https://nseindia.com",
+    "impact": ["equities_shortterm_volatility"],
+    "thresholds": [
+      { "metric": "rollover_vs_3m_avg", "above": 0, "signal": "institutional_long_commitment" }
+    ],
+    "search_terms": ["NSE F&O expiry rollover {month} {year} Nifty"],
+    "tijori_tool": null
+  },
+  {
+    "id": "us_pce",
+    "name": "US Core Personal Consumption Expenditures (PCE)",
+    "category": "global_rates",
+    "frequency": "monthly",
+    "schedule_rule": { "type": "last_friday_of_month" },
+    "release_time_ist": "18:30",
+    "source_url": "https://bea.gov",
+    "impact": ["global_bonds", "equity_valuations", "gold"],
+    "thresholds": [
+      { "metric": "mom_pct", "above": 0.3, "signal": "hawkish_fed", "note": "Triggers selloff in rate-sensitive assets" }
+    ],
+    "search_terms": ["US PCE inflation {month} {year} core personal consumption"],
+    "tijori_tool": null
+  },
+  {
+    "id": "india_core_industries",
+    "name": "India Eight Core Industries Output Index",
+    "category": "growth",
+    "frequency": "monthly",
+    "schedule_rule": { "type": "last_working_day_of_month" },
+    "release_time_ist": "17:00",
+    "source_url": "https://eaindustry.nic.in",
+    "impact": ["equities_infrastructure", "cement", "steel", "oil"],
+    "thresholds": [
+      { "metric": "cement_yoy_pct", "above": 8, "signal": "construction_boom" },
+      { "metric": "steel_yoy_pct", "above": 8, "signal": "infra_execution_strong" }
+    ],
+    "search_terms": ["India eight core industries {month_lag1} {year} ICI index"],
+    "tijori_tool": null
+  },
+  {
+    "id": "india_fiscal_deficit",
+    "name": "Union Government Monthly Fiscal Deficit Data (CGA)",
+    "category": "fiscal",
+    "frequency": "monthly",
+    "schedule_rule": { "type": "last_working_day_of_month" },
+    "release_time_ist": "17:00",
+    "source_url": "https://cga.nic.in",
+    "impact": ["sovereign_bond_yields"],
+    "thresholds": [
+      { "metric": "cumulative_pct_of_budget", "above": 60, "signal": "fiscal_slippage_risk", "note": "At 60%+ of full year by September, risk of unplanned borrowings" }
+    ],
+    "search_terms": ["India fiscal deficit {month} {year} CGA government finances"],
+    "tijori_tool": null
+  },
+  {
+    "id": "india_gdp",
+    "name": "India Quarterly GDP and GVA",
+    "category": "growth",
+    "frequency": "quarterly",
+    "schedule_rule": {
+      "type": "last_working_day_of_quarter_month",
+      "months": [5, 8, 11, 2],
+      "note": "May=Q4, Aug=Q1, Nov=Q2, Feb=Q3"
+    },
+    "release_time_ist": "17:30",
+    "source_url": "https://mospi.gov.in",
+    "impact": ["equities", "sovereign_debt", "inr"],
+    "thresholds": [
+      { "metric": "yoy_pct", "above": 7.0, "signal": "strong_growth", "note": "Attracts sovereign wealth funds" },
+      { "metric": "yoy_pct", "below": 5.5, "signal": "slowdown_concern" }
+    ],
+    "search_terms": ["India GDP Q{quarter} {year_short} MoSPI gross domestic product"],
+    "tijori_tool": "get_macro_indicators", "tijori_tab": "gdp"
+  },
+  {
+    "id": "india_cad_bop",
+    "name": "India Current Account Deficit (CAD) and Balance of Payments",
+    "category": "external",
+    "frequency": "quarterly",
+    "schedule_rule": {
+      "type": "end_of_quarter",
+      "months": [6, 9, 12, 3],
+      "note": "Jun=Q4, Sep=Q1, Dec=Q2, Mar=Q3"
+    },
+    "release_time_ist": "17:00",
+    "source_url": "https://rbi.org.in",
+    "impact": ["inr", "sovereign_debt"],
+    "thresholds": [
+      { "metric": "cad_pct_gdp", "above": 2.5, "signal": "currency_structural_stress" },
+      { "metric": "cad_pct_gdp", "below": 1.5, "signal": "comfortable_external_position" }
+    ],
+    "search_terms": ["India current account deficit Q{quarter} {year} RBI balance of payments"],
+    "tijori_tool": null
+  },
+  {
+    "id": "rbi_repo_rate",
+    "name": "RBI Repo Rate and MPC Policy Decision",
+    "category": "monetary",
+    "frequency": "bimonthly",
+    "schedule_rule": {
+      "type": "scheduled_event",
+      "note": "Feb, Apr, Jun, Aug, Oct, Dec — Friday announcement at 10:00 IST. Next: Oct 7 2026",
+      "known_dates_2026": ["2026-02-07", "2026-04-09", "2026-06-06", "2026-08-08", "2026-10-07", "2026-12-05"]
+    },
+    "release_time_ist": "10:00",
+    "source_url": "https://rbi.org.in",
+    "impact": ["sovereign_debt", "equities", "inr"],
+    "thresholds": [
+      { "condition": "cut", "signal": "positive_rate_sensitives", "note": "Lower borrowing costs, expand PE multiples" },
+      { "condition": "hike", "signal": "negative_bond_prices" },
+      { "condition": "hold_hawkish", "signal": "negative_rate_sensitives" }
+    ],
+    "search_terms": ["RBI MPC policy decision {date} repo rate", "RBI monetary policy {month} {year}"],
+    "tijori_tool": null
+  },
+  {
+    "id": "rbi_liquidity_laf",
+    "name": "RBI Daily Systemic Liquidity (Net LAF Operations)",
+    "category": "monetary",
+    "frequency": "daily",
+    "schedule_rule": { "type": "daily", "time_ist": "09:00" },
+    "release_time_ist": "09:00",
+    "source_url": "https://rbi.org.in",
+    "impact": ["debt_shortterm", "inr"],
+    "thresholds": [
+      { "metric": "net_laf_deficit_crore", "above": 100000, "signal": "systemic_liquidity_stress", "note": "Short-term rates trade above repo; banks compete for deposits" }
+    ],
+    "search_terms": ["RBI LAF liquidity {date} overnight VRRR repo injection"],
+    "tijori_tool": null
+  },
+  {
+    "id": "india_vix_us_10y",
+    "name": "India VIX and US 10-Year Treasury Benchmark Yield",
+    "category": "sentiment",
+    "frequency": "daily",
+    "schedule_rule": { "type": "daily" },
+    "release_time_ist": "continuous",
+    "source_url": "https://nseindia.com",
+    "impact": ["equities", "inr", "risk_sentiment"],
+    "thresholds": [
+      { "metric": "india_vix", "above": 18, "signal": "elevated_near_term_risk" },
+      { "metric": "india_vix", "below": 12, "signal": "complacency_watch" },
+      { "metric": "us_10y_yield", "above": 4.5, "signal": "EM_outflow_risk" }
+    ],
+    "search_terms": [],
+    "tijori_tool": null
+  },
+  {
+    "id": "fpi_dii_daily",
+    "name": "Daily FPI and DII Cash Market Net Flows",
+    "category": "flows",
+    "frequency": "daily",
+    "schedule_rule": { "type": "daily", "time_ist": "18:30" },
+    "release_time_ist": "18:30",
+    "source_url": "https://nseindia.com",
+    "impact": ["equities"],
+    "thresholds": [
+      { "metric": "fpi_net_crore", "below": -3000, "signal": "heavy_fpi_selling", "note": "Caps index rallies" },
+      { "metric": "dii_net_crore", "above": 3000, "signal": "strong_dii_cushion" }
+    ],
+    "search_terms": [],
+    "tijori_tool": null
+  },
+  {
+    "id": "fpi_long_short_ratio",
+    "name": "FPI Long-Short Ratio in Index Futures",
+    "category": "sentiment",
+    "frequency": "daily",
+    "schedule_rule": { "type": "daily", "time_ist": "20:00" },
+    "release_time_ist": "20:00",
+    "source_url": "https://nseindia.com",
+    "impact": ["equities_nifty_trend"],
+    "thresholds": [
+      { "metric": "long_short_ratio_pct", "below": 15, "signal": "extreme_short_covering_setup" },
+      { "metric": "long_short_ratio_pct", "above": 80, "signal": "overbought_warning" }
+    ],
+    "search_terms": ["FPI index futures long short ratio {date} NSE"],
+    "tijori_tool": null
+  },
+  {
+    "id": "bdi_lme",
+    "name": "Baltic Dry Index and LME Metal Inventory Reports",
+    "category": "commodities",
+    "frequency": "daily",
+    "schedule_rule": { "type": "daily", "time_ist": "17:30" },
+    "release_time_ist": "17:30",
+    "source_url": "https://balticexchange.com",
+    "impact": ["commodities", "shipping"],
+    "thresholds": [
+      { "metric": "bdi_change_pct", "below": -10, "signal": "global_trade_slowdown", "window": "week" }
+    ],
+    "search_terms": ["Baltic Dry Index {date}", "LME metals inventory copper aluminium {date}"],
+    "tijori_tool": "get_raw_materials", "tijori_tab": "metals"
+  },
+  {
+    "id": "us_eia_crude",
+    "name": "US EIA Crude Oil Inventory Data",
+    "category": "commodities",
+    "frequency": "weekly",
+    "schedule_rule": { "type": "every_wednesday", "time_ist": "20:00" },
+    "release_time_ist": "20:00",
+    "source_url": "https://eia.gov",
+    "impact": ["crude_oil", "omcs", "aviation"],
+    "thresholds": [
+      { "metric": "inventory_change_mbbl", "above": 3, "signal": "crude_bearish" },
+      { "metric": "inventory_change_mbbl", "below": -3, "signal": "crude_bullish" }
+    ],
+    "search_terms": ["EIA crude oil inventory weekly {date} barrels draw build"],
+    "tijori_tool": null
+  },
+  {
+    "id": "rbi_bank_credit_deposit",
+    "name": "Fortnightly Bank Credit and Deposit Growth (WSS)",
+    "category": "monetary",
+    "frequency": "fortnightly",
+    "schedule_rule": { "type": "alternate_fridays", "time_ist": "17:00" },
+    "release_time_ist": "17:00",
+    "source_url": "https://rbi.org.in",
+    "impact": ["equities_banking"],
+    "thresholds": [
+      { "condition": "credit_growth_minus_deposit_growth_above_4pct", "signal": "nim_pressure", "note": "Banks must hike deposit rates to fund loan books" }
+    ],
+    "search_terms": ["RBI bank credit deposit growth fortnightly {date} WSS"],
+    "tijori_tool": null
+  },
+  {
+    "id": "india_forex_reserves",
+    "name": "India Foreign Exchange Reserves (Weekly)",
+    "category": "external",
+    "frequency": "weekly",
+    "schedule_rule": { "type": "every_friday", "time_ist": "17:00" },
+    "release_time_ist": "17:00",
+    "source_url": "https://rbi.org.in",
+    "impact": ["inr", "sovereign_risk"],
+    "thresholds": [
+      { "metric": "reserves_usd_bn", "below": 560, "signal": "rbi_intervention_capacity_watch" },
+      { "metric": "weekly_change_usd_bn", "below": -5, "signal": "heavy_rbi_intervention" }
+    ],
+    "search_terms": ["India forex reserves {date} RBI billion dollars"],
+    "tijori_tool": null
+  },
+  {
+    "id": "india_gsec_auction",
+    "name": "GoI Weekly Sovereign Bond Auction Results",
+    "category": "fiscal",
+    "frequency": "weekly",
+    "schedule_rule": { "type": "every_friday_morning" },
+    "release_time_ist": "11:30",
+    "source_url": "https://rbi.org.in",
+    "impact": ["sovereign_yields"],
+    "thresholds": [
+      { "metric": "bid_cover_ratio", "below": 1.2, "signal": "weak_appetite_yields_rise" }
+    ],
+    "search_terms": ["India G-Sec bond auction {date} cutoff yield bid cover"],
+    "tijori_tool": null
+  },
+  {
+    "id": "imd_monsoon",
+    "name": "IMD Southwest Monsoon Rainfall Progress",
+    "category": "sectoral",
+    "frequency": "weekly",
+    "schedule_rule": { "type": "weekly_thu_fri", "months": [6, 7, 8, 9] },
+    "release_time_ist": "17:00",
+    "source_url": "https://mausam.imd.gov.in",
+    "impact": ["agri_commodities", "fmcg", "fertilizers", "tractors"],
+    "thresholds": [
+      { "metric": "cumulative_deficit_pct", "below": -10, "signal": "food_inflation_risk" },
+      { "metric": "cumulative_surplus_pct", "above": 10, "signal": "bumper_kharif_likely" }
+    ],
+    "search_terms": ["IMD monsoon rainfall progress {date} India cumulative deficit surplus"],
+    "tijori_tool": null
+  },
+  {
+    "id": "nifty_pe_pb",
+    "name": "Nifty 50 PE and PB Valuation",
+    "category": "sentiment",
+    "frequency": "daily",
+    "schedule_rule": { "type": "daily", "time_ist": "16:00" },
+    "source_url": "https://nseindia.com",
+    "impact": ["equities_longterm_allocation"],
+    "thresholds": [
+      { "metric": "pe", "above": 24, "signal": "expensive_trim_beta" },
+      { "metric": "pe", "below": 18, "signal": "attractive_entry" }
+    ],
+    "search_terms": [],
+    "tijori_tool": null
+  },
+  {
+    "id": "nifty_breadth",
+    "name": "NSE Advance-Decline Ratio and %>20D SMA Breadth",
+    "category": "sentiment",
+    "frequency": "daily",
+    "schedule_rule": { "type": "daily", "time_ist": "16:00" },
+    "source_url": "https://nseindia.com",
+    "impact": ["equities_market_health"],
+    "thresholds": [
+      { "metric": "ad_ratio", "below": 0.7, "signal": "narrow_market_index_management" },
+      { "metric": "pct_above_20sma", "below": 40, "signal": "weak_participation" }
+    ],
+    "search_terms": [],
+    "tijori_tool": null
+  },
+  {
+    "id": "us_fomc",
+    "name": "US Federal Reserve FOMC Interest Rate Decision",
+    "category": "global_rates",
+    "frequency": "bimonthly",
+    "schedule_rule": {
+      "type": "scheduled_event",
+      "note": "8 times per year, Wednesday announcement",
+      "known_dates_2026": ["2026-01-28", "2026-03-18", "2026-05-06", "2026-06-17", "2026-07-29", "2026-09-16", "2026-11-04", "2026-12-16"]
+    },
+    "release_time_ist": "23:30",
+    "source_url": "https://federalreserve.gov",
+    "impact": ["global_equities", "sovereign_debt", "inr", "gold"],
+    "thresholds": [
+      { "condition": "hawkish_hold_or_hike", "signal": "em_outflows", "note": "Strengthens USD, draws capital from EMs" },
+      { "condition": "cut", "signal": "em_positive" }
+    ],
+    "search_terms": ["Fed FOMC decision {date} interest rate", "Federal Reserve rate {month} {year}"],
+    "tijori_tool": null
+  },
+  {
+    "id": "us_cpi",
+    "name": "US Consumer Price Index (CPI) Inflation",
+    "category": "global_rates",
+    "frequency": "monthly",
+    "schedule_rule": { "type": "day_range_of_month", "day_from": 10, "day_to": 13 },
+    "release_time_ist": "18:30",
+    "source_url": "https://bls.gov",
+    "impact": ["global_equities", "bond_yields", "inr"],
+    "thresholds": [
+      { "metric": "yoy_pct", "above": 3.5, "signal": "fed_stay_hawkish" },
+      { "metric": "mom_pct", "above": 0.4, "signal": "immediate_selloff_trigger" }
+    ],
+    "search_terms": ["US CPI inflation {month} {year} BLS consumer price index"],
+    "tijori_tool": null
+  },
+  {
+    "id": "us_nfp",
+    "name": "US Non-Farm Payrolls and Unemployment Rate",
+    "category": "global_rates",
+    "frequency": "monthly",
+    "schedule_rule": { "type": "first_friday_of_month" },
+    "release_time_ist": "18:00",
+    "source_url": "https://bls.gov",
+    "impact": ["global_equities", "inr", "gold"],
+    "thresholds": [
+      { "metric": "jobs_added_k", "above": 220, "signal": "hot_labour_delays_cuts", "note": "Pushes US yields higher, dampens Asian risk appetite" },
+      { "metric": "jobs_added_k", "below": 150, "signal": "slowdown_cut_likely" }
+    ],
+    "search_terms": ["US non-farm payrolls {month} {year} jobs added unemployment"],
+    "tijori_tool": null
+  },
+  {
+    "id": "brent_crude",
+    "name": "Brent Crude Oil Benchmark Price",
+    "category": "commodities",
+    "frequency": "daily",
+    "schedule_rule": { "type": "daily" },
+    "source_url": "https://theice.com",
+    "impact": ["inr", "aviation", "omcs", "paints", "tyres", "retail_inflation"],
+    "thresholds": [
+      { "metric": "price_usd", "above": 97, "signal": "significant_escalation", "note": "Every $10 above $85 adds ~35-40bps to India CPI" },
+      { "metric": "price_usd", "above": 90, "signal": "elevated_watch" },
+      { "metric": "price_usd", "below": 75, "signal": "relief_for_india" }
+    ],
+    "search_terms": [],
+    "tijori_tool": "get_raw_materials", "tijori_tab": "spreads"
+  },
+  {
+    "id": "opec_policy",
+    "name": "OPEC+ Ministerial Production Quotas",
+    "category": "commodities",
+    "frequency": "event",
+    "schedule_rule": { "type": "event", "note": "Bi-monthly ministerial meetings; monitor OPEC+ press releases" },
+    "source_url": "https://opec.org",
+    "impact": ["crude_oil", "inr"],
+    "search_terms": ["OPEC+ production cut quota {month} {year} barrels", "OPEC ministerial meeting {date}"],
+    "tijori_tool": null
+  },
+  {
+    "id": "china_mfg_pmi",
+    "name": "China Manufacturing PMI (NBS and Caixin)",
+    "category": "global_macro",
+    "frequency": "monthly",
+    "schedule_rule": {
+      "type": "multiple",
+      "entries": [
+        { "name": "NBS", "rule": "last_day_of_month" },
+        { "name": "Caixin", "rule": "first_working_day_of_month" }
+      ]
+    },
+    "source_url": "https://stats.gov.cn",
+    "impact": ["commodities_base_metals", "tata_steel", "hindalco", "jsw_steel"],
+    "thresholds": [
+      { "metric": "caixin_pmi", "below": 49, "signal": "china_dump_risk", "note": "Chinese steelmakers dump abroad, depresses Indian steel prices" },
+      { "metric": "nbs_pmi", "above": 51, "signal": "china_metals_demand_positive" }
+    ],
+    "search_terms": ["China NBS manufacturing PMI {month} {year}", "Caixin China PMI {month} {year}"],
+    "tijori_tool": null
+  },
+  {
+    "id": "cboe_vix",
+    "name": "CBOE Volatility Index (US VIX)",
+    "category": "sentiment",
+    "frequency": "daily",
+    "schedule_rule": { "type": "daily" },
+    "source_url": "https://cboe.com",
+    "impact": ["global_risk_appetite", "india_equities"],
+    "thresholds": [
+      { "metric": "level", "above": 25, "signal": "global_risk_off", "note": "Algorithmic liquidations in EM equities" },
+      { "metric": "level", "below": 15, "signal": "low_vol_complacency" }
+    ],
+    "search_terms": [],
+    "tijori_tool": null
+  },
+  {
+    "id": "usd_inr",
+    "name": "USD/INR Exchange Rate",
+    "category": "external",
+    "frequency": "daily",
+    "schedule_rule": { "type": "daily" },
+    "source_url": "https://rbi.org.in",
+    "impact": ["inr", "it_exporters", "pharma_exporters"],
+    "thresholds": [
+      { "metric": "usd_inr", "above": 85, "signal": "moderate_weakness" },
+      { "metric": "usd_inr", "above": 87, "signal": "rbi_intervention_likely" }
+    ],
+    "search_terms": [],
+    "tijori_tool": null
+  },
+  {
+    "id": "dxy",
+    "name": "US Dollar Index (DXY)",
+    "category": "global_rates",
+    "frequency": "daily",
+    "schedule_rule": { "type": "daily" },
+    "source_url": "https://theice.com",
+    "impact": ["inr", "commodities", "em_equities"],
+    "thresholds": [
+      { "metric": "dxy", "above": 104, "signal": "rupee_pressure_em_headwind", "note": "Depresses dollar-priced commodities and EMs simultaneously" }
+    ],
+    "search_terms": [],
+    "tijori_tool": null
+  },
+  {
+    "id": "us_10y_yield",
+    "name": "US 10-Year Treasury Benchmark Yield",
+    "category": "global_rates",
+    "frequency": "daily",
+    "schedule_rule": { "type": "daily" },
+    "source_url": "https://treasury.gov",
+    "impact": ["sovereign_debt", "equities", "foreign_inflows"],
+    "thresholds": [
+      { "metric": "yield_pct", "above": 4.5, "signal": "india_us_spread_narrows", "note": "Triggers foreign outflows from Indian bonds" },
+      { "metric": "change_bps", "above": 15, "signal": "sudden_tightening_risk" }
+    ],
+    "search_terms": [],
+    "tijori_tool": null
+  },
+  {
+    "id": "india_10y_gsec",
+    "name": "India 10-Year Benchmark G-Sec Yield",
+    "category": "monetary",
+    "frequency": "daily",
+    "schedule_rule": { "type": "daily" },
+    "source_url": "https://ccilindia.com",
+    "impact": ["sovereign_debt", "equity_valuations", "corporate_borrowing"],
+    "thresholds": [
+      { "metric": "yield_pct", "above": 7.2, "signal": "tight_monetary_conditions", "note": "Compresses equity PE multiples" }
+    ],
+    "search_terms": [],
+    "tijori_tool": null
+  },
+  {
+    "id": "boj_policy",
+    "name": "Bank of Japan (BoJ) Monetary Policy",
+    "category": "global_rates",
+    "frequency": "bimonthly",
+    "schedule_rule": { "type": "scheduled_event", "note": "8 meetings per year, 08:30-10:30 IST announcement" },
+    "source_url": "https://boj.or.jp",
+    "impact": ["global_liquidity", "india_equities"],
+    "thresholds": [
+      { "condition": "rate_hike", "signal": "yen_carry_unwind_risk", "note": "Hedge funds unwind JPY borrow; EM liquidation cascade" }
+    ],
+    "search_terms": ["Bank of Japan BOJ policy decision {date} rate yield curve"],
+    "tijori_tool": null
+  },
+  {
+    "id": "ecb_policy",
+    "name": "European Central Bank (ECB) Rate Decision",
+    "category": "global_rates",
+    "frequency": "bimonthly",
+    "schedule_rule": { "type": "scheduled_event", "note": "8 meetings/year, Thursdays 17:45 IST" },
+    "source_url": "https://ecb.europa.eu",
+    "impact": ["global_bonds", "eur_inr"],
+    "search_terms": ["ECB rate decision {date} European Central Bank"],
+    "tijori_tool": null
+  },
+  {
+    "id": "india_credit_rating",
+    "name": "India Sovereign Credit Rating Updates",
+    "category": "external",
+    "frequency": "event",
+    "schedule_rule": { "type": "event", "note": "Semi-annual reviews by S&P, Moody's, Fitch; ad-hoc" },
+    "source_url": "https://mofapp.nic.in",
+    "impact": ["sovereign_debt", "inr", "fdi"],
+    "search_terms": ["India sovereign credit rating {agency} {year} outlook"],
+    "tijori_tool": null
+  },
+  {
+    "id": "india_bond_index_inclusion",
+    "name": "Global Bond Index Inclusions (JPM, Bloomberg)",
+    "category": "flows",
+    "frequency": "monthly",
+    "schedule_rule": { "type": "monthly_rebalance", "note": "Monthly phased inclusions; quarterly weight rebalancing" },
+    "source_url": "https://index.jpmorgan.com",
+    "impact": ["sovereign_debt_far", "inr"],
+    "thresholds": [
+      { "condition": "weight_increase", "signal": "passive_dollar_inflows_scheduled" }
+    ],
+    "search_terms": ["India FAR bonds JPMorgan index inclusion {month} {year} weight"],
+    "tijori_tool": null
+  },
+  {
+    "id": "india_gold_silver_imports",
+    "name": "Gold and Silver Import Volumes (CBIC Tariff Values)",
+    "category": "external",
+    "frequency": "fortnightly",
+    "schedule_rule": { "type": "fortnightly", "note": "CBIC tariff value revisions; monthly full data ~15th" },
+    "source_url": "https://cbic.gov.in",
+    "impact": ["commodities_bullion", "inr", "trade_deficit"],
+    "thresholds": [
+      { "condition": "import_spike", "signal": "trade_deficit_widening" }
+    ],
+    "search_terms": ["India gold imports {month} {year} tonnes CBIC customs", "silver imports India {month}"],
+    "tijori_tool": null
+  },
+  {
+    "id": "india_railway_freight",
+    "name": "Indian Railways Monthly Freight Loading and Earnings",
+    "category": "sectoral",
+    "frequency": "monthly",
+    "schedule_rule": { "type": "first_week_of_month" },
+    "release_time_ist": "17:00",
+    "source_url": "https://pib.gov.in",
+    "impact": ["logistics", "cement", "coal"],
+    "thresholds": [
+      { "metric": "tonnage_yoy_pct", "below": -5, "signal": "early_economic_deceleration" }
+    ],
+    "search_terms": ["Indian Railways freight loading {month} {year} tonnes earnings"],
+    "tijori_tool": null
+  },
+  {
+    "id": "india_power_demand",
+    "name": "National Daily Power Demand and Peak Deficit",
+    "category": "sectoral",
+    "frequency": "daily",
+    "schedule_rule": { "type": "daily" },
+    "source_url": "https://grid-india.in",
+    "impact": ["power_generation", "coal", "utilities"],
+    "search_terms": ["India peak power demand {month} {year} MW record Grid Controller"],
+    "tijori_tool": null
+  },
+  {
+    "id": "india_fmcg_volume",
+    "name": "Rural vs Urban FMCG Volume Growth Metrics",
+    "category": "sectoral",
+    "frequency": "quarterly",
+    "schedule_rule": { "type": "quarterly_earnings", "note": "NielsenIQ/Kantar data in quarterly earnings calls" },
+    "source_url": "https://bseindia.com",
+    "impact": ["nifty_fmcg"],
+    "search_terms": ["India FMCG rural urban volume growth Q{quarter} {year} Nielsen Kantar"],
+    "tijori_tool": null
+  }
+]

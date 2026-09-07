@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>India RRG — User Manual</title>
+<style>
+:root{--ink:#172235;--muted:#637188;--line:#dbe3ec;--paper:#fff;--bg:#eef2f6;--blue:#2563eb;--purple:#6d28d9}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.65 Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}header{background:#142033;color:#fff;padding:30px max(22px,calc((100% - 980px)/2));}header p{margin:6px 0 0;color:#b9c5d4;max-width:700px}main{max-width:980px;margin:24px auto;padding:0 22px 44px}.paper{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:28px 32px;box-shadow:0 10px 30px rgba(21,37,58,.07)}h1{margin:0;font-size:30px;letter-spacing:-.03em}h2{font-size:20px;margin:30px 0 8px;padding-top:8px;border-top:1px solid var(--line)}h2:first-child{margin-top:0;border-top:0}h3{font-size:15px;margin:20px 0 4px;color:#263750}p{margin:6px 0;color:#4d5d73}ul{margin:8px 0 12px;padding-left:22px;color:#4d5d73}.lead{font-size:16px;color:#3f5067}.tip{background:#f4f7fb;border-left:3px solid var(--blue);padding:10px 14px;margin:14px 0;color:#40516a}.warn{background:#fff8e9;border-left-color:#d68000}.nav{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 26px}.nav a{color:var(--blue);text-decoration:none;border:1px solid #c9d9f8;border-radius:999px;padding:5px 10px;font-size:12px}.nav a:hover{text-decoration:underline}.back{display:inline-block;margin-top:22px;color:var(--blue);text-decoration:none;font-weight:650}@media(max-width:650px){.paper{padding:22px 18px}h1{font-size:25px}}
+</style>
+</head>
+<body>
+<header><h1>India RRG — User Manual</h1><p>A concise guide to reading weekly relative rotation, exploring indices and constituents, and using the app responsibly.</p></header>
+<main><article class="paper">
+<nav class="nav" aria-label="Manual sections"><a href="#intro">Introduction</a><a href="#workflow">Quick start</a><a href="#features">Features</a><a href="#watchlists">Watchlists</a><a href="#charts">Detail charts</a><a href="#method">Method & limits</a></nav>
+<h2 id="intro">What is an RRG chart?</h2>
+<p class="lead">A Relative Rotation Graph (RRG) compares instruments with a benchmark on two dimensions: relative strength and the momentum of that relative strength.</p>
+<p>For traders and investors, this makes market structure easier to scan. Instead of reviewing many charts one by one, you can see which sectors, indices, or stocks are outperforming, losing momentum, underperforming, or beginning to improve. The result is a research and education tool for forming better questions—not a standalone trading signal.</p>
+<h2 id="workflow">Quick start</h2>
+<ol><li>Choose a benchmark in the left panel: <strong>Nifty 50</strong> (default) or <strong>Nifty 500</strong>.</li><li>Stay on the weekly view. The app uses completed Friday week-ending snapshots.</li><li>Choose <strong>All Nifty indices</strong> for the index universe, or click a Nifty index to drill down to its constituents.</li><li>Use the instrument chips above the slider to show or hide individual names.</li><li>Move the 8-week slider to compare the available Friday snapshots. Use the Tail control to change the visible rotation history.</li><li>Read the four cards below the graph for the current quadrant membership and click an instrument name to open its detail chart.</li></ol>
+<h2 id="features">Features and how to use them</h2>
+<h3>Benchmark selector</h3><p>Select Nifty 50 or Nifty 500. The benchmark changes the comparison baseline for the RRG calculation; it does not change the underlying price data source.</p>
+<h3>Nifty index drill-down</h3><p><strong>All Nifty indices</strong> displays the index-level universe. Selecting an index such as Nifty Auto changes the graph to that index’s stock constituents. The chips and quadrant cards update to match the selected universe.</p>
+<h3>Instrument selector</h3><p>The two-line chip area above the history slider lists every instrument currently available for the graph. Click a chip to include or exclude it. <strong>Show all</strong> and <strong>Hide all</strong> control the complete set.</p>
+<h3>Eight-week history slider</h3><p>The slider moves between the past eight available weekly RRG snapshots. Dates are Friday week-ending dates. It works for both index-level analysis and stock-level drill-down; the selected date appears at the right of the slider.</p>
+<h3>Tail length</h3><p>Use the Tail slider in the left panel to control how many recent weekly points appear behind each current point. A longer tail shows more rotation history and can make a busy chart harder to read.</p>
+<h3>Quadrant filters</h3><p>Use the four checkboxes—Leading, Improving, Weakening, and Lagging—to hide or show categories on the graph. The quadrant cards remain available as a summary of the current snapshot.</p>
+<h3>Zoom controls and axes</h3><p>Inside the graph, use the <strong>Zoom +</strong>, <strong>Zoom −</strong>, and <strong>Reset</strong> buttons. Zoom is button-controlled; mouse-wheel scrolling is not used for chart zoom. The horizontal axis is RS-Ratio (relative strength) and the vertical axis is RS-Momentum. Major tick intervals and the 100 baseline help anchor interpretation.</p>
+<h3>Quadrant cards</h3><p>The four cards group the instruments in the current snapshot into meaningful categories: <strong>Money Flowing In</strong> (Improving), <strong>Building Strength</strong> (Leading), <strong>Losing Momentum</strong> (Weakening), and <strong>Underperforming</strong> (Lagging). Each item shows a compact score and relative return indicator. Click any item to open its chart.</p>
+<h2 id="watchlists">User watchlists</h2>
+<p>Create up to three personal watchlists in the left panel. Select Watchlist-1, Watchlist-2, or Watchlist-3, optionally rename it, and enter NSE symbols separated by commas—for example <strong>PCBL, JBMA, NTPC</strong>.</p>
+<ol><li>Click <strong>Check codes</strong> to separate database matches from codes that are not found.</li><li>Edit or replace incorrect codes, then click <strong>Confirm &amp; save</strong>.</li><li>Click a saved watchlist in the sidebar to display its stocks in the RRG graph and cards.</li><li>Enable <strong>Include watchlist during Index Analysis</strong> when the saved names should be added to the all-indices view.</li><li>Use <strong>Export CSV</strong> to keep a local copy or edit it outside the app. Use <strong>Import CSV</strong> to bring the three watchlists back in.</li></ol>
+<h2 id="charts">Instrument detail charts</h2>
+<p>Click an instrument in a quadrant card to open the right-side chart drawer. The drawer uses the instrument’s BSE code where available, because the current TradingView Lite embed does not reliably render NSE symbols. It opens with weekly candles and the configured RSI, MACD, and Volume studies. Close it with the <strong>×</strong> button at the top-left of the drawer.</p>
+<div class="tip"><strong>Important:</strong> the TradingView panel is a visual reference. The RRG positions, quadrants, and history come from the read-only RRG V2 dataset and are not calculated by TradingView.</div>
+<h2 id="method">Calculation, data, and limitations</h2>
+<p>The app reads RRG V2 records from the separate RRG-Data Supabase project. The current public formulation uses weekly Friday-close data:</p>
+<ul><li><strong>Relative strength:</strong> asset close relative to benchmark close, normalised around 100.</li><li><strong>RS-Ratio:</strong> a 10-period EMA normalisation of the relative-strength line, centred around 100.</li><li><strong>RS-Momentum:</strong> the relative rate of change of RS-Ratio, also centred around 100.</li><li><strong>Quadrants:</strong> Leading is above 100 on both axes; Improving is below ratio 100 and above momentum 100; Weakening is above ratio 100 and below momentum 100; Lagging is below 100 on both axes.</li></ul>
+<p>Availability depends on the latest completed data loaded into Supabase. Missing constituents, stale records, symbol mappings, market holidays, and incomplete history can affect what appears. The graph is descriptive and does not account for liquidity, corporate actions, risk, valuation, costs, or personal circumstances.</p>
+<div class="tip warn"><strong>Use responsibly:</strong> this app is for market research and education only. It is not investment advice or a recommendation to buy, sell, or hold any security.</div>
+<a class="back" href="rrg_app_updated.html">← Return to India RRG</a>
+</article></main>
+</body>
+</html>

@@ -1,0 +1,335 @@
+{
+  "report_date": "2026-09-03",
+  "headline": "NIFTY & BEYOND",
+  "standfirst": "Thursday's market was split right down the middle — the Nifty fell, but the broader market did not · NSE · 3 September 2026",
+
+  "s1_bullets": [
+    { "emoji": "📉", "label": "Nifty 50", "text": "Fell 41 points (−0.17%) to close at 23,873, settling in the <b>lower third of the day's range</b> after a high of 24,025. Fourth session of slippage, smallest of the four." },
+    { "emoji": "🏦", "label": "Bank Nifty", "text": "The standout divergence of the day: +209 pts (+0.36%) to 57,381. Pvt Bank breadth gained 20 points of participation over five sessions — the <b>sharpest 5-session swing in the 24-session window</b>." },
+    { "emoji": "🔄", "label": "Breadth", "text": "299 advances vs 198 declines on Nifty 500 — <b>A/D 1.51</b>, top 28% of 246 sessions. The headline index fell; 60% of the broader market did not." },
+    { "emoji": "🌐", "label": "FII / DII", "text": "FIIs sold ₹2,346 crore (7th largest sell in 38 sessions) and flipped direction from Tuesday. DIIs absorbed it all and then some — ₹4,977 crore, <b>212% of FII selling</b>, 33rd largest buy in the window." },
+    { "emoji": "🕯️", "label": "India VIX", "text": "Eased to 11.34 (−2.16%), near a multi-month low. Low VIX with the index below its 200-day average and two defensives losing participation is <b>borrowed calm, not structural calm</b>." }
+  ],
+
+  "s1_commodities": [
+    { "name": "Brent crude", "value": "$95.63", "change": "+0.8%", "dir": "up" },
+    { "name": "Gold (spot)", "value": "$4,300", "change": "+0.4%", "dir": "up" },
+    { "name": "USD / INR", "value": "₹94.80", "change": "+0.2%", "dir": "up" },
+    { "name": "US 10Y yield", "value": "4.32%", "change": "−4 bps", "dir": "down" }
+  ],
+
+  "s1_commodities_source": "Brent: ICE Sep 2 settlement · Gold: LBMA PM fix Sep 2 · USD/INR: RBI reference rate · US 10Y: FRED / US Treasury",
+
+  "s1_metals": [
+    { "name": "Silver (spot)", "value": "$66.10 / oz", "change": "+1.2%", "dir": "up" },
+    { "name": "Copper (LME)", "value": "$14,350 / t", "change": "+0.6%", "dir": "up" },
+    { "name": "Aluminium (LME)", "value": "$3,255 / t", "change": "+1.2%", "dir": "up" },
+    { "name": "Zinc (LME)", "value": "$3,998 / t", "change": "flat", "dir": "flat" }
+  ],
+
+  "s1_metals_source": "LME official cash prices Sep 3 2026 (USD/tonne; Silver USD/oz) · MCX INR prices: Silver ₹2,37,245/kg · Copper +0.62% · Aluminium ₹350.55 · Zinc ₹418.25",
+
+  "s2_glosses": {
+    "Breadth": "42.6% of Nifty 500 stocks trade above their 50-day average — worse than roughly 75% of the last 250 sessions. Three out of four stocks are technically below their medium-term trend. The index is being held up by a minority.",
+    "Trend": "Nifty 50 is 3.04% below its 200-day average. The index has been on the wrong side of that line for most of August and September. Below the 200-day average means the structural trend is down — that does not mean a crash, but the burden of proof sits with the bulls at every level.",
+    "Momentum": "Advance/decline was 1.51 today — advances outnumbered declines by roughly 3:2. That puts today's A/D in the top 30% of all sessions over the last year. Strong breadth momentum, weak index momentum — that contradiction is the session in one line.",
+    "InstitutionalFlow": "FIIs were among the heavier sellers in the 38-session window (7th largest sell day). DIIs were near the heaviest buyers (33rd largest buy day). They are pulling in sharply opposite directions, harder than usual.",
+    "Volatility": "Nifty ATR is 0.76% of price — calmer than 75% of the last 250 sessions. When volatility is this compressed while the index is below its 200-day average, the asymmetry tilts toward a move. Calm markets tend to resolve; they do not drift indefinitely."
+  },
+
+  "s2_composition_note": "Today's regime score of 52.6 (Neutral) is the average of a 34.8 Trend reading and a 75.4 Volatility reading — a spread of <b>40.6 points</b> between the weakest and strongest inputs. Exclude Volatility and the score drops to 50.1. The headline number conceals a market that is technically weak but statistically calm. That is a specific combination: not broken enough to sell aggressively, not strong enough to buy with conviction.",
+
+  "s3_anomalies": [
+    {
+      "title": "BRIGADE — 11.3% on 6.43× volume · RSI 75 · 13.7% above 20SMA",
+      "text": "The largest move in the Nifty 500 today. Brigade rode a sector-wide realty rally but outperformed it by roughly 2x. Analyst consensus price target is ₹833 (Strong Buy); stock was trading at ₹712 — still 14% below target. Brigade holds a ₹9,000 crore pre-sales target for FY27 with 12.36 million sq ft in pipeline. The volume spike follows a September 1 investor dialogue. At RSI 75 and 13.7% above 20SMA, the move is extended — consolidation before the next leg is more likely than immediate continuation."
+    },
+    {
+      "title": "ANANTRAJ — 6.7% on 8.81× volume · RSI 59 · 2.2% above 20SMA",
+      "text": "Anant Raj is the more interesting of the two realty movers: volume at 8.81× the 63-day average is extreme, yet the stock is only 2.2% above its 20-day average — there was room to run technically. FY26 revenue was ₹25.1 billion (+22%) and PAT ₹5.57 billion (+31%). The data centre segment is a differentiated angle in a market where most realty names are pure residential. Analyst target ~₹710 vs today's close of ₹628; strong institutional buying confirmed."
+    },
+    {
+      "title": "ELECON — 4.64% on 11.52× volume · RSI 50 · order book ₹1,518 Cr",
+      "text": "The highest volume multiple of the session at 11.52×. The trigger: a scheduled investor/analyst meeting in Mumbai today. Elecon's order book grew 37% year-on-year to ₹1,518 crore as of June 30. Management targets 22–24% EBITDA margins in MHE and 24% in Gears. RSI at 49.9 and 0.8% above 20SMA means the stock entered this move without baggage — a clean entry signal if the meeting delivers positive updates."
+    },
+    {
+      "title": "FII net −₹2,346 Cr vs DII net +₹4,977 Cr — absorption 212%",
+      "text": "FIIs ranked 7th of 38 sessions for selling — heavy. DIIs ranked 33rd of 38 for buying — very heavy. DII absorbed 212% of FII selling. Despite this, the Nifty fell 41 points — meaning the selling was in liquid, index-heavy names and the buying was in breadth names. That is not a contradiction; it is how the index can fall while 60% of stocks rise."
+    },
+    {
+      "title": "FIRSTCRY — 4.6% on 8.33× volume · RSI 28.5 · −9.3% below 20SMA",
+      "text": "An oversold snap-back, not a fundamental event. RSI of 28.5 before the move and −9.3% below 20SMA tell you how steep the prior decline was. Volume at 8.33× suggests short-covering or value buying, not institutional accumulation. No specific dated catalyst found. Stock remains well below its moving average — one day of volume does not change that."
+    },
+    {
+      "title": "JYOTICNC — 7.45% on 2.58× volume · ADX 38 · capacity expansion milestone",
+      "text": "Jyoti CNC hit an intraday high of ₹1,039. The move is trend-confirming rather than trend-initiating: ADX 38.2, RSI 66.8, 10.6% above 20SMA. The catalyst — 16,000-machine annual capacity going live this month — had been known; the market is now pricing it in. Order book: ₹4,732–4,848 crore across aerospace, defence and automotive. PTC Industries investor meetings on Sep 4–7 may keep adjacent defence/capital goods names in play."
+    },
+    {
+      "title": "RBLBANK — 4.8% on 6× volume · 52-week high ₹409 · FCNR-B disclosure",
+      "text": "The clearest, most actionable catalyst of the day: RBL Bank disclosed it mobilised ₹32,472 crore ($3.4 billion) in FCNR(B) deposits under the RBI's special forex swap facility. The RBI faces an estimated $10.6–12.7 billion cost on these swaps over five years — that cost is the RBI's, not RBL's. For the bank, FCNR-B deposits are cheap, stable foreign-currency liabilities. RSI at 70.4 is stretched but ADX at 17.8 says the trend has not established — further upside needs a fresh catalyst."
+    },
+    {
+      "title": "NIFTY 50 ATR — 0.76% of price · 62nd percentile of 250 sessions",
+      "text": "Nifty is calmer than 62% of the last 250 trading days. An ATR of 0.76% means the average daily range is under 185 points. The market does not stay this compressed when the index is 3% below its 200-day average. Low volatility at a technically weak level is a setup — the direction of resolution is what the bulls and bears are fighting about."
+    },
+    {
+      "title": "NIFTY 500 A/D — 1.51 · 72nd percentile of 246 sessions",
+      "text": "A breadth reading in the top 28% of sessions on a day the headline index fell. This is the central statistical fact of September 3. The Nifty 50 went down; the Nifty 500 did not. Large-cap selling with broad-market buying is rotation, not capitulation. The GST August data released today (₹1.99 lakh crore, +14.8% YoY) likely helped mid and small cap sentiment independently of index direction."
+    },
+    {
+      "title": "NIFTY PVT BANK breadth swing — +20 pts in 5 sessions · sharpest in 24-session window",
+      "text": "The fastest acceleration of participation in the private bank sector in the recent data window. Bank Nifty +209 points on a day the Nifty fell confirms the number is real. Two interpretations exist: short-covering ahead of the October MPC meeting, or genuine rotation into financials as the RBI's FCNR swap story (which benefits banks with dollar liabilities) gets digested. The next two sessions will indicate which."
+    }
+  ],
+
+  "s4_macro_cards": [
+    {
+      "title": "GST collections — ₹1.99 lakh crore in August, +14.8% YoY",
+      "pill": "Strong",
+      "pill_class": "up",
+      "meta": "Released Sep 1, 2026 · Ministry of Finance",
+      "bullets": [
+        "August gross GST: ₹1,99,853 crore — the third straight month above ₹1.9 lakh crore.",
+        "Import-related GST surged 29% YoY; domestic transactions grew 9.3%.",
+        "Net collections (post refunds) grew 8.3% to ₹1.68 lakh crore — refunds rose 68%, flagged for GST Council review.",
+        "Strong collections reduce fiscal slippage risk and support sentiment for rate-sensitive sectors."
+      ]
+    },
+    {
+      "title": "SEBI proposes MF net settlement in cash market",
+      "pill": "Regulatory",
+      "pill_class": "wn",
+      "meta": "Consultation paper released Sep 3, 2026 · Comments due Sep 24",
+      "bullets": [
+        "SEBI proposes mutual funds may net fund flows (buy vs sell) within the same settlement cycle in the cash market.",
+        "Securities settlement stays gross — delivery-backed, unchanged.",
+        "Goal: reduce temporary liquidity pressure during high-churn periods (index rebalancing, large redemptions).",
+        "If adopted, this reduces intraday volume spikes during rebalancing events — a structural change to how peak-day volumes are interpreted."
+      ]
+    },
+    {
+      "title": "NSE IPO — price band expected Sep 11, listing Sep 25",
+      "pill": "Event",
+      "pill_class": "wn",
+      "meta": "Sources · Sep 3–4, 2026",
+      "bullets": [
+        "NSE is expected to announce its price band around September 11, with listing targeted for September 25.",
+        "100% OFS structure: ~14.89 crore shares (~6% of paid-up capital). No fresh issue.",
+        "Indicative valuation: ₹5.2 lakh crore — one of the largest Indian IPOs ever, potentially rivalling LIC.",
+        "NSE equity listing will create a new benchmark position — ETFs and index-linked funds will be forced buyers. Expect pre-listing momentum in brokerage and fintech adjacents."
+      ]
+    },
+    {
+      "title": "RBI holds repo at 5.25% — FCNR swap cost estimated at $10.6–12.7 bn",
+      "pill": "Neutral",
+      "pill_class": "fl",
+      "meta": "MPC Aug 3–5 · Next meeting Oct 5–7",
+      "bullets": [
+        "Repo unchanged at 5.25%, neutral stance. No rate action until at least October.",
+        "Q1 FY27 GDP: 7.8% — above RBI's 7.0% estimate. Full-year revised to 6.7%.",
+        "CPI 4.45% in July — within tolerance band but trending up. Food and energy remain the swing factors.",
+        "New data point: RBI's special FCNR-B swap facility will cost the central bank an estimated $10.6–12.7 billion over five years. This is a sovereign cost, not a bank cost — but it signals the rupee stabilisation effort was expensive."
+      ]
+    },
+    {
+      "title": "IIP at 6.7% in July 2026 — manufacturing leads",
+      "pill": "Positive",
+      "pill_class": "up",
+      "meta": "Released Aug 2026 · Ministry of Statistics",
+      "bullets": [
+        "Industrial production grew 6.7% in July, driven by manufacturing (+7.3%) and electricity (+8.7%).",
+        "Mining contracted (−0.9%) — a segment to watch given Metal sector outperformance on the month.",
+        "Strong IIP + strong GDP + strong GST is a three-way confirmation of domestic demand. The market's underperformance relative to fundamentals is a global risk premium story, not a domestic growth concern."
+      ]
+    }
+  ],
+
+  "s5_global": [
+    { "instrument": "Dow Jones", "level": "53,062", "change": "+1.18%", "dir": "up", "signal": "Snapped 3-day losing streak; Treasury yields eased 4 bps and tech led the recovery" },
+    { "instrument": "S&P 500", "level": "7,667", "change": "+0.53%", "dir": "up", "signal": "Broad advance; Nasdaq +1.39% outperformed as rate-cut probability edged up" },
+    { "instrument": "Nasdaq Composite", "level": "26,218", "change": "+1.39%", "dir": "up", "signal": "Tech-driven rebound; investors reassessing Fed path ahead of Friday payrolls" },
+    { "instrument": "Hang Seng (Sep 4 open)", "level": "~+2.0%", "change": "up", "dir": "up", "signal": "Asia opened sharply higher Thursday; US recovery + China stimulus optimism" },
+    { "instrument": "Brent crude", "level": "$95.63", "change": "+0.8%", "dir": "up", "signal": "Holding top of $94–96 range; West Asia risk premium intact; WTI ~$92" },
+    { "instrument": "Gold (spot)", "level": "$4,300", "change": "+0.4%", "dir": "up", "signal": "Near all-time highs; central bank buying + softer dollar supporting" },
+    { "instrument": "USD / INR", "level": "₹94.80", "change": "+0.2%", "dir": "up", "signal": "Mild rupee weakness; RBI likely intervening near ₹95 ceiling" }
+  ],
+
+  "s5_timing_note": "US markets closed decisively higher on the evening of September 3 — Nifty is set for a gap-up open on September 4. Asian markets (Hang Seng +2%, KOSPI +1.3%, Nikkei +1.1%) confirmed the risk-on signal. <b>The key risk to this setup is Friday's US non-farm payrolls</b> — a strong jobs print could reverse the Treasury yield decline that drove the US rally, which would remove the tailwind before Indian markets have fully digested it.",
+
+  "s6_note": "Nifty Smallcap 100 is the only major index positive on both the day (+1.2%) and over one month (+2.4%). Every large-cap index is down over one month. When small-caps outperform large-caps this persistently, it typically means institutional selling is concentrated in the liquid, index-heavy names — not a broad retreat.",
+
+  "s7_note": "NIFTY FMCG with zero constituents above their 20-day average is a new reading in the window. This matters in context: FMCG is typically a defensive. When defensive participation collapses simultaneously with institutional selling in large-caps, it often signals cash-raising rather than rotation. If DII buying is the only thing holding the index floor, its sustainability matters more than usual.",
+
+  "s8_in": [
+    "NIFTY PVT BANK — +20 points of participation over five sessions, ranked 6th of 14 on the month. Today's +209 point gain in Bank Nifty confirmed the number. FCNR-B deposit story (RBL Bank, ₹32,472 crore) adds a sector-level catalyst — banks with dollar liability books benefit from the RBI's swap facility.",
+    "NIFTY OIL & GAS — +13 points of participation, ranked 11th on the month. Brent at $95.63 helps upstream names; downstream refiners still carry the margin risk. Rotation in on a relative basis despite difficult absolute positioning.",
+    "NIFTY REALTY — +10 points of participation, ranked 3rd on the month. BRIGADE +11.3% and ANANTRAJ +6.7% were the two largest stock moves in the Nifty 500. Brigade's ₹9,000 crore FY27 pre-sales target and Anant Raj's data centre angle give the sector two differentiated stories running simultaneously.",
+    "NIFTY IT — +10 points of participation, but A/D was only 0.11 today — near-total decline within the sector despite the aggregate participation improving. This is likely a base effect: participation was so depressed it could only go up. Not a confirmed rotation."
+  ],
+
+  "s8_out": [
+    "NIFTY AUTO — −47 points of participation over five sessions, ranked 13th of 14 on the month. The steepest participation drop in the window by a wide margin. Strong IIP data (+7.3% manufacturing) has not translated into Auto sector buying.",
+    "NIFTY METAL — −27 points from the top-ranked 1-month position. Classic 'leadership fading': Metal leads by 1-month return but participation is draining. When the best-performing sector starts losing breadth, it often signals the momentum is maturing.",
+    "NIFTY HEALTHCARE — −25 points, ranked 7th. Healthcare is a defensive. Defensive participation contracting in a weak market usually means one thing: institutions are raising cash, not rotating to cyclicals.",
+    "NIFTY PHARMA — −20 points, ranked 4th on the month. Both defensives (Healthcare and Pharma) losing participation simultaneously is uncommon. When two unrelated sectors both shed breadth in the same direction, the common driver is usually fund flows, not sector news."
+  ],
+
+  "s8_implication": "The rotation story today has two layers. On the surface: Banks in, Auto out. Underneath: two defensives (Healthcare, Pharma) shedding participation at speed. When defensives sell off in a weak large-cap market, it is often a cash-raising signal, not sector rotation. The sustainability of DII buying at ₹4,977 crore — absorbing 212% of FII selling — is the number that determines whether this is a floor or a pause before the next leg down.",
+
+  "s9_note": "Capital Goods fills 5 of the top 10 gainer slots (JYOTICNC, FINCABLES, APARINDS, ACE, ELECON) — 2.5× its universe share. WELCORP's $1.8 billion record US order (announced August 2026) and JYOTICNC's capacity milestone keep the sector news cycle active. Defence sub-theme: SOLARINDS (₹21,350 crore order book, Pinaka rockets) and PTCIL (Airbus supply, BrahMos orders, 52-week high Sep 2) both in Continued Momentum — the defence order story has multi-month legs.",
+
+  "s10_triggers": [
+    {
+      "symbols": "BRIGADE",
+      "text": "Realty sector rally + September 1 investor dialogue at Elara India conference. Analyst consensus ₹833 target (Strong Buy). ₹9,000 crore FY27 pre-sales target, 12.36 msf pipeline. At ₹712, stock is 14% below the average target — move partially closes the gap."
+    },
+    {
+      "symbols": "ANANTRAJ",
+      "text": "Sector tailwind + data centre narrative gaining traction. FY26 PAT +31%. Analyst target ~₹710 vs today's ₹628 close. Institutional buying confirmed at elevated volume. No single catalyst — broad sector demand."
+    },
+    {
+      "symbols": "BALRAMCHIN",
+      "text": "Sugar/ethanol play. Government sugar stock holding limit reduces to September 15 — negative overhang. Long-term catalyst: bio-polymer (PLA) plant commissioning in Q3 FY27. Today's 5.17% move on 0.85× volume (below average) is unusual — may be technical or position-driven rather than news-driven."
+    },
+    {
+      "symbols": "CAPLIPOINT",
+      "text": "No specific dated catalyst found. Pharma name, RSI and momentum driven entry. Falls in the same session where NIFTY PHARMA is losing participation — worth monitoring whether this is a sector outlier or miscategorised by the filter."
+    },
+    {
+      "symbols": "CGCL (Capri Global Capital)",
+      "text": "NBFC with AUM crossing ₹40,112 crore (+62% YoY). Debut $300 million US dollar bond issuance in early September, oversubscribed 2.3×. The bond success signals international institutional confidence. Today's +5.88% likely driven by the bond placement news."
+    },
+    {
+      "symbols": "RBLBANK",
+      "text": "Specific dated catalyst: disclosure of ₹32,472 crore FCNR(B) deposit mobilisation under RBI swap facility. 52-week high ₹409. Liquidity and liability management positive — stable, cheap foreign currency funding."
+    },
+    {
+      "symbols": "WELCORP",
+      "text": "Record $1.8 billion US pipe order (August 2026) pushed global order book to $4.4 billion — multi-year revenue visibility through FY29. Today's continuation +4.68% is post-announcement follow-through, not a fresh catalyst. Stock in both Fresh Entry and Continued Momentum (overlap)."
+    },
+    {
+      "symbols": "FIRSTCRY",
+      "text": "No specific dated catalyst found. Technical snap-back from oversold (RSI was 28.5 pre-move, −9.3% below 20SMA). Short-covering or value buying, not fundamental news."
+    },
+    {
+      "symbols": "SOLARINDS",
+      "text": "Order book ₹21,350 crore (as of Jun 30), including Pinaka rocket contracts. FY27 revenue guidance ₹14,000 crore. ICICI Securities maintains BUY. Defence segment growing as high-margin proportion of revenue rises. Stock near 52-week highs in early September."
+    },
+    {
+      "symbols": "ELECON",
+      "text": "Investor/analyst meeting in Mumbai today. Order book ₹1,518 crore (+37% YoY). EBITDA margin target 22–24% (MHE) and 24% (Gears). Volume at 11.52× the average — largest multiple in today's session."
+    }
+  ],
+
+  "s10_continued_context": [
+    {
+      "symbol": "DIVISLAB",
+      "context": "JPMorgan, BofA, Macquarie all tracking post-Q1 FY27 results. Consensus leans hold/neutral as stock consolidates near highs. Target range ₹6,000–9,250. RSI 71.6, weekly RSI 87.9 — technically extended."
+    },
+    {
+      "symbol": "WELCORP",
+      "context": "Record $1.8 billion US order, global book $4.4 billion through FY29. Also in Fresh Entry Table 1 — both a trend name and a fresh momentum name simultaneously. Analyst upgrades expected post-order announcement."
+    },
+    {
+      "symbol": "JYOTICNC",
+      "context": "16,000-machine capacity going live this month. Order book ₹4,732–4,848 crore (aerospace, defence, automotive). RSI 66.8, weekly RSI 94.9 — one of the highest weekly RSIs in the continued table."
+    },
+    {
+      "symbol": "PTCIL",
+      "context": "52-week high ₹22,921 on September 2. PAT +466% YoY in Q1 FY27. Airbus supply agreement + BrahMos orders. Investor meetings Sep 4 and Sep 7 — potential for further updates."
+    },
+    {
+      "symbol": "URBANCO",
+      "context": "Q1 FY27 top-line growth 44% but bottom-line pressure from InstaHelp expansion. SBI Mutual Fund increasing stake. Stock in consolidation post-results; institutional interest intact."
+    },
+    {
+      "symbol": "SOLARINDS",
+      "context": "₹21,350 crore order book, Pinaka rockets, FY27 guidance ₹14,000 crore. Defence + international explosives margins expanding. In both Fresh Entry and Continued lists."
+    }
+  ],
+
+  "s11_interpretation": "The FII/DII flow pattern today is the most informative data point in the session. FIIs sold ₹2,346 crore — their 7th heaviest sell day in 38 sessions. Yet the Nifty fell only 41 points. DIIs bought ₹4,977 crore, their 33rd heaviest buy in the same window — absorbing 212% of what FIIs sold. This is institutional accumulation with institutional selling pressing against it. The MTD picture is equally clear: FIIs +₹5,486 crore for September so far, DIIs +₹9,637 crore. Domestic money is aggressively net long. The Nifty floor is DII-supported; the ceiling is FII selling capacity. If FII selling accelerates toward the Aug 31 level (₹7,986 crore) and DII buying stays at current levels, the index will hold. If FII selling exceeds DII absorption, 23,750 is the next level to watch.",
+
+  "s12_cards": [
+    {
+      "title": "Regime: +14 points in one session",
+      "lead": "Score jumped from 38.6 to 52.6 — still Neutral, but now mid-band rather than its lower edge. Band unchanged; sentiment meaningfully different.",
+      "bullets": [
+        "A 14-point single-session move means at least two inputs shifted significantly.",
+        "Breadth (A/D 0.49→1.51) and Momentum are the drivers of the jump.",
+        "Trend (34.8) and Flow remain the drag components.",
+        "This is the largest single-session regime move since the pack went live."
+      ]
+    },
+    {
+      "title": "Breadth flipped: A/D 0.49 to 1.51 overnight",
+      "lead": "Yesterday: three declines for every advance. Today: three advances for every two declines. The sharpest single-session A/D reversal in recent data.",
+      "bullets": [
+        "% above 20-day SMA moved from 30% to 35% — confirms participation recovery is real.",
+        "Biggest sector driver: Pvt Bank +20 pts of participation (5-session record), Realty +10 pts.",
+        "Biggest drags on the number: Healthcare −25 pts, Auto −47 pts over the same 5 sessions."
+      ]
+    },
+    {
+      "title": "FII flipped direction; DII near peak buying",
+      "lead": "FII moved from +₹6,688 crore (Sep 2) to −₹2,346 crore today. DII responded with their 33rd largest buy in 38 sessions.",
+      "bullets": [
+        "FII sell rank: 7/38 — heavy. DII buy rank: 33/38 — very heavy.",
+        "Absorption 212%: DII bought more than twice what FIIs sold.",
+        "If this pattern persists through the week, the Nifty has a quantifiable floor.",
+        "The risk: DII capacity is not unlimited — August 31 showed (₹4,589 Cr DII vs ₹7,986 Cr FII selling) that when FII accelerates, DII can be overwhelmed."
+      ]
+    }
+  ],
+
+  "s13": null,
+
+  "s14": {
+    "watch": [
+      {
+        "item": "Bank Nifty participation follow-through",
+        "confirms": "Pvt Bank breadth holds above 55% >20DMA on Sep 4; Bank Nifty sustains above 57,000 intraday.",
+        "denies": "Bank Nifty gives back Thursday's 209-point gain and breadth does not improve further — signals today was short-covering into end of month, not a genuine rotation."
+      },
+      {
+        "item": "DII buying rhythm on Sep 4",
+        "confirms": "DII net positive for third consecutive session; Nifty holds above 23,900 on the positive US/Asia open.",
+        "denies": "DII net drops below ₹1,000 crore despite a positive gap-up open — would signal the institutional accumulation cycle is pausing."
+      },
+      {
+        "item": "US non-farm payrolls — Sep 5 (Friday night IST)",
+        "confirms": "Payrolls below 180,000 — consistent with Fed rate-cut expectations, sustains Thursday's Treasury yield decline and US rally.",
+        "denies": "Payrolls above 220,000 — could reverse US yields, erase Thursday's gains, and set up a negative Indian open on Monday."
+      },
+      {
+        "item": "Auto and FMCG sector breadth",
+        "confirms": "Auto A/D recovers above 1.0 on Sep 4; FMCG posts even one constituent above its 20-day average.",
+        "denies": "Auto and FMCG breadth stays at current levels or deteriorates — would confirm cash-raising by large funds rather than sector rotation."
+      }
+    ],
+    "events": [
+      "Sep 4 (tomorrow): PTC Industries (PTCIL) investor/analyst meeting — defence order pipeline in focus; stock near 52-week high.",
+      "Sep 5 (Friday, IST night): US non-farm payrolls for August — will determine whether Thursday's US rally holds into next week.",
+      "Sep 7: Second PTCIL investor meeting — BrahMos and Airbus supply agreement updates.",
+      "Sep 11 (expected): NSE IPO price band announcement.",
+      "Sep 24: Deadline for SEBI MF net settlement consultation paper comments.",
+      "Sep 25 (targeted): NSE IPO listing.",
+      "Oct 5–7: RBI MPC meeting — next live rate event."
+    ],
+    "bull": [
+      "US markets +1.2–1.4% Wednesday night — Nifty gaps up Thursday on a positive platform.",
+      "DII absorption at 212% is a structural floor; domestic institutions are not stepping away.",
+      "NSE IPO timeline (Sep 25 listing) will keep capital market stocks and brokerage names in focus for three weeks.",
+      "GST at ₹1.99 lakh crore and GDP at 7.8% Q1 FY27 confirm domestic growth is intact — any global relief rally will find a fundamental justification in India.",
+      "WELCORP $4.4 bn order book and JYOTICNC capacity milestone keep capital goods in play with specific, dated stories."
+    ],
+    "bear": [
+      "Nifty is 3.04% below its 200-day average — every rally is a selling opportunity until the structural trend reverses.",
+      "FII selling conviction has not weakened — 7th largest sell day in 38 sessions, with direction flip from Tuesday.",
+      "Brent at $95.63 and rising: above $97 would materially worsen India's import bill and rupee trajectory.",
+      "FMCG with zero constituents above 20DMA and two defensives (Healthcare, Pharma) shedding participation simultaneously is a cash-raising signal, not just a rotation.",
+      "US payrolls on Friday: a strong number reverses the Treasury rally and makes Monday's Indian open a risk event."
+    ],
+    "closing": "Thursday's Nifty session was a 41-point fall hiding a 60% advance rate across the broader market. That divergence — large-cap index lower, broad market higher — is what rotation looks like when it starts, and what distribution looks like when it accelerates. The data cannot tell you which it is yet. What it can tell you is that the DII bid is real, the FII selling is real, and something has to give. Thursday's open and Friday's payroll data will provide the next data points."
+  }
+}

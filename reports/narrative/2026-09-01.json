@@ -1,0 +1,186 @@
+{
+  "report_date": "2026-09-01",
+  "headline": "NIFTY & BEYOND",
+  "standfirst": "What the index doesn't tell you  ·  NSE  ·  Tuesday, 1 September 2026",
+
+  "s1_bullets": [
+    { "emoji": "📊", "label": "Technicals", "text": "The index barely moved — Nifty ‑0.10% to 24,055.80 — and that is the most misleading number on the page. Underneath, the share of Nifty 500 stocks above their 20‑day average fell from <b>41% to 33%</b> in a single session." },
+    { "emoji": "📈", "label": "Domestic", "text": "Damage was concentrated, not broad. <b>Nifty Bank ‑1.06%</b> and <b>Midcap 100 ‑1.39%</b>, with Shriram Finance ‑4.58% and Maruti ‑4.41% among the heaviest large-cap losers. IT was the only sector adding participation." },
+    { "emoji": "🌍", "label": "Global", "text": "US–Iran hostilities resumed after a month of calm. US forces struck Larak Island, Iran hit targets in the UAE and Jordan, and a supertanker caught fire on mines in the Strait of Hormuz. <b>Brent rose 0.87% to $91.28</b>, a second straight day higher." },
+    { "emoji": "💰", "label": "Flows", "text": "Foreign investors <b>flipped to buyers</b>, +₹1,143.38 Cr after yesterday's ₹7,985.88 Cr sale. Domestic institutions added ₹1,846.94 Cr. Read it with care — expiry day distorts a single session's flow." },
+    { "emoji": "⚡", "label": "Event", "text": "Weekly expiry settled at <b>24,055.80</b>, inside the 24,000–24,200 band this report projected yesterday. The Adani names rebounded, which was the specific test we set for whether Monday's collapse was mechanical." }
+  ],
+
+  "s1_commodities": [
+    { "name": "Brent crude", "value": "$91.28", "change": "+0.87%", "dir": "up" },
+    { "name": "Gold (MCX)", "value": "—", "change": "not retrieved", "dir": "" },
+    { "name": "Silver (MCX)", "value": "—", "change": "not retrieved", "dir": "" },
+    { "name": "Aluminium (MCX)", "value": "—", "change": "not retrieved", "dir": "" },
+    { "name": "Copper (MCX)", "value": "—", "change": "not retrieved", "dir": "" }
+  ],
+
+  "s2_glosses": {
+    "Breadth": "Under half the Nifty 500 — 42.4% — is above its 50-day average, and only 193 stocks rose against 302 that fell. This is the weakest component on the board and has been for three sessions.",
+    "Trend": "The Nifty sits <b>2.37% below its own 200-day average</b>, the market's long-run anchor, and has drifted slightly further below it since yesterday. A direct calculation, not a ranking.",
+    "Momentum": "Today's advance-to-decline ratio of 0.64 was weaker than on about two-thirds of the last 246 sessions. Better than yesterday's 0.56, but still firmly negative.",
+    "InstitutionalFlow": "<b>The one component that improved sharply.</b> Foreign investors bought today, ranking 28th of 36 sessions from the most negative — a normal day rather than an extreme one. Yesterday they ranked dead last. Domestic buying was modest by their own recent standard.",
+    "Volatility": "The market has been calmer than on all but about 40 of the last 250 days. Calm scores high here, but the average daily range has not widened even as oil climbs and banks fall — the quiet is in the index, not in the stocks underneath it."
+  },
+  "s2_composition_note": "The score rose <b>3.4 points to 42.5</b>, and almost all of that came from one component: institutional flow jumped as foreign investors turned buyers. Breadth actually got <i>worse</i> in the same session. Strip volatility out and the score reads <b>37.9</b>. So the improvement is real but narrow — one input carried it while the input that measures participation deteriorated.",
+
+  "s3_anomalies": [
+    { "title": "Nifty IT participation jumped 60 points in five sessions", "text": "The largest single-sector rotation this report has recorded. The share of IT stocks above their 20-day average went from a small minority to a clear majority inside a week. IT was also the only sector to gain participation today while every other one lost it." },
+    { "title": "Vardhman Textiles +5.29% on 36.5× normal volume", "text": "The most extreme volume reading in the entire universe by a wide margin — more than double the next highest. A move this size on that much volume is a crowd arriving in one session, not a drift." },
+    { "title": "Engineers India +6.94% on 15.7× volume", "text": "Second-heaviest volume expansion of the day, and the top gainer among construction names." },
+    { "title": "Caplin Point +7.7% on 11.2× volume", "text": "The day's largest gain, on the third-heaviest volume — and notable because healthcare was otherwise the day's second-worst sector at ‑1.60%." },
+    { "title": "Nifty ATR still 0.73% of price", "text": "The average daily range has not widened at all, through an oil shock, a bank selloff and an expiry. Realised volatility remains near the calm end of 250 sessions while the market's internals deteriorate — a divergence worth watching rather than trusting." },
+    { "title": "Both FII and DII bought on the same session", "text": "Foreign +₹1,143.38 Cr and domestic +₹1,846.94 Cr. After four sessions of the two pulling in opposite directions, they agreed today — though expiry-day mechanics make one session a weak signal." },
+    { "title": "Welspun Corp +6.8%, and in both momentum tables", "text": "A name entering momentum today that is also already in a confirmed weekly trend. Only two stocks qualify for both." },
+    { "title": "KEI Industries ‑6.83%, Polycab ‑5.82%", "text": "The two largest cable and wire names fell together and led the losers, a sector-specific move rather than part of the broad decline." },
+    { "title": "Graphite India +4.32% on 5.8× volume", "text": "Part of a scattered bid in capital goods that ran counter to the day's direction." },
+    { "title": "Nifty 500 advance/decline at 0.64", "text": "Better than yesterday's 0.56 but still two fallers for every three risers — on a day the index closed almost unchanged. The flat headline hides three consecutive sessions of negative breadth." }
+  ],
+
+  "s4_macro_cards": [
+    {
+      "title": "US–Iran hostilities resume", "pill": "ESCALATION", "pill_class": "dn",
+      "meta": "1 Sep 2026 · Strait of Hormuz",
+      "bullets": [
+        "US forces struck two Iranian rocket launchers on Larak Island; Iran responded with attacks on the UAE and Jordan.",
+        "A supertanker caught fire after striking naval mines in the southern Strait of Hormuz, per Iranian state media.",
+        "This ends roughly a month of relative calm and revives the risk of disruption to a corridor carrying a large share of seaborne crude.",
+        "<b>Trader implication:</b> this is now a live, unscheduled variable. There is no release date to position around, which is precisely what makes it hard to hedge."
+      ]
+    },
+    {
+      "title": "Brent above $91", "pill": "SECOND DAY UP", "pill_class": "dn",
+      "meta": "1 Sep 2026 · +0.87% to $91.28",
+      "bullets": [
+        "Up from $90.69 yesterday and $88.29 on Friday — roughly <b>3.4% in two sessions</b>.",
+        "India imports the overwhelming majority of its crude. Every dollar widens the trade deficit and pressures the rupee.",
+        "Direct margin pressure for paints, tyres, aviation, chemicals and logistics; a tailwind only for upstream producers.",
+        "<b>Trader implication:</b> oil has now outweighed a 7.8% GDP print two sessions running. Watch it before anything domestic."
+      ]
+    },
+    {
+      "title": "Weekly expiry settled", "pill": "AS PROJECTED", "pill_class": "up",
+      "meta": "Tue 1 Sep · Nifty weekly options",
+      "bullets": [
+        "Settled at <b>24,055.80</b>, inside the 24,000–24,200 band yesterday's report gave the pin scenario at ~55%.",
+        "Max pain was 24,100; the close came 44 points below it — near the pin rather than exactly on it.",
+        "The 24,000 put floor was tested intraday for a second straight session (low 23,952.55) and held into the close.",
+        "<b>Trader implication:</b> the next weekly expiry is Tuesday 8 September, and the Sensex weekly settles Thursday 3 September on the BSE."
+      ]
+    }
+  ],
+
+  "s5_global": [
+    { "instrument": "Brent crude", "level": "$91.28", "change": "+0.87%", "dir": "up", "signal": "<b>The dominant variable.</b> Second straight rise; directly negative for the import bill, the rupee and input costs" },
+    { "instrument": "Dow Jones", "level": "53,006.90", "change": "‑0.34%", "dir": "down", "signal": "Settled after India closed — a cue for tomorrow, not a driver of today" },
+    { "instrument": "Nasdaq Composite", "level": "26,133.64", "change": "‑0.90%", "dir": "down", "signal": "Tech sold on the same Iran headline; a mild negative for Indian IT tomorrow after its strong run" },
+    { "instrument": "USD/INR", "level": "—", "change": "not retrieved", "dir": "", "signal": "Not available at publication — rising oil normally weakens the rupee" },
+    { "instrument": "Dollar index (DXY)", "level": "—", "change": "not retrieved", "dir": "", "signal": "Not available at publication" },
+    { "instrument": "US 10Y yield", "level": "—", "change": "not retrieved", "dir": "", "signal": "Not available at publication" }
+  ],
+  "s5_timing_note": "US closes settle <b>after</b> the Indian market shuts — cues for the <i>next</i> session, not drivers of this one. The exception today is oil: the Hormuz escalation broke during Indian hours, so Brent was a live input rather than an overnight one.",
+
+  "s6_note": "The index board understates the day badly. Nifty fell 0.10% while <b>Midcap 100 fell 1.39%</b> and Next 50 fell 1.20% — the damage was one layer below the headline index.",
+  "s7_note": "The single most important number in this report: <b>the share of Nifty 500 stocks above their 20-day average fell from 41% to 33% while the index moved 0.10%</b>. Yesterday the same measure held flat as breadth collapsed; today it broke. Three sessions of negative advance/decline have now worked their way into the trend positions.",
+  "s9_note": "Note the Adani names on the gainers list — <b>Adani Green +4.12% and Adani Ports +3.41%</b>. Yesterday's report named an Adani rebound as the specific test of whether Monday's ₹1.4 lakh crore fall was a mechanical MSCI rebalance rather than news. It rebounded.",
+
+  "s8_in": [
+    "<b>Information Technology</b> — participation up an extraordinary <b>60 points</b> in five sessions, the largest rotation this report has recorded. IT rose 0.98% today while thirteen of fourteen sectors fell, and is up 2.36% on the week.",
+    "<b>Private Banks and Pharma</b> — each up 10 points of participation over the week, though both fell today. Improving from a low base rather than leading."
+  ],
+  "s8_out": [
+    "<b>Auto</b> — participation down <b>47 points</b> in five sessions, the worst on the board, and ‑2.48% on the week. Maruti fell 4.41% today. This was already deteriorating yesterday and accelerated.",
+    "<b>Realty</b> — down 40 points, ‑2.89% on the week, ‑1.42% today. Second consecutive session as one of the worst.",
+    "<b>Media</b> — down 30 points and ‑3.02% on the week, extending a month-long decline with no base forming.",
+    "<b>Oil &amp; Gas</b> — down 26 points despite rising crude, which is the counter-intuitive one: higher oil hurts refiners and marketers more than it helps producers in this index.",
+    "<b>Midcaps broadly</b> — Midcap 100 and Next 50 both shed 22 points of participation. The broader market is where the selling actually landed."
+  ],
+  "s8_implication": "<b>Yesterday's defensive rotation has narrowed to a single sector.</b> On Monday, hospitals, pharma, healthcare and banks were all gaining participation. Today only IT is — and every other sector, including the defensives that led yesterday, lost ground. A rotation that narrows this fast is usually not a rotation; it is the market retreating to one hiding place.",
+
+  "s10_triggers": [
+    { "symbols": "ADANIGREEN, ADANIPORTS", "text": "Rebounded +4.12% and +3.41% after Monday's MSCI rebalance selloff, confirming that fall as mechanical rather than fundamental — the specific test yesterday's report set." },
+    { "symbols": "MARUTI, SHRIRAMFIN", "text": "Among the heaviest Nifty 50 losers, with auto and financials leading the decline on renewed Middle East tension." },
+    { "symbols": "KEI, POLYCAB", "text": "The two largest cable and wire names fell together, ‑6.83% and ‑5.82% — a sector-specific move rather than part of the broad decline." }
+  ],
+  "s11_interpretation": "<b>Foreign investors flipped to buyers, and the temptation is to read too much into it.</b> After Monday's ₹7,985.88 Cr sale — the heaviest in the retained window — they bought ₹1,143.38 Cr today, ranking a merely ordinary 28th of 36 sessions. Domestic institutions added ₹1,846.94 Cr, modest by their own August standard. Two things argue for caution. First, this was expiry day, when settlement mechanics move cash-market prints in ways that say little about conviction. Second, the week as a whole still shows foreign investors <b>selling ₹11,677 Cr</b> against domestic buying of ₹23,022 Cr. One session does not reverse that. What it does do is remove the extreme: yesterday the flow component of the regime score was near its floor, today it is mid-range, and that alone lifted the composite.",
+
+  "s12_cards": [
+    { "title": "The flat close is the misleading part", "lead": "Nifty ‑0.10%, but stocks above their 20-day average fell from 41% to 33%.", "bullets": ["The largest one-day drop in that measure this report has recorded.", "Three consecutive sessions of negative breadth have now reached the trend positions."] },
+    { "title": "The damage was one layer down", "lead": "Midcap 100 ‑1.39% and Nifty Bank ‑1.06% against an index that barely moved.", "bullets": ["Shriram Finance ‑4.58%, Maruti ‑4.41%.", "Smallcap held up better at ‑0.23%."] },
+    { "title": "Two calls from yesterday held", "lead": "Expiry settled inside the projected band, and the Adani names rebounded as the mechanical-rebalance reading predicted.", "bullets": ["Settled 24,055.80 against a 24,000–24,200 pin scenario given ~55%.", "Adani Green +4.12%, Adani Ports +3.41%."] },
+    { "title": "Rotation narrowed to one sector", "lead": "IT gained 60 points of participation in five sessions. Every other sector lost ground today.", "bullets": ["Yesterday four sectors were gaining; today one is.", "Auto ‑47 and Realty ‑40 are the mirror image."] },
+    { "title": "Regime rose on one input only", "lead": "42.5 from 39.1, almost entirely because foreign investors stopped selling.", "bullets": ["Breadth got worse in the same session.", "37.9 excluding volatility."] },
+    { "title": "Oil is now the standing variable", "lead": "Brent up 3.4% in two sessions to $91.28 as Hormuz hostilities resumed.", "bullets": ["It has outweighed a 7.8% GDP print two days running.", "No scheduled release to position around."] }
+  ],
+
+  "s13": {
+    "chain_title": "Next weekly chain — expiry Tuesday 8 September (ATM ±6 strikes)",
+    "futures": [
+      { "instrument": "NIFTY 26SEP FUT", "close": 24081.00, "change": -170.40, "oi": 16271450, "oi_change": 492505, "basis": 25.20, "pattern": "Short buildup — price down, open interest up" },
+      { "instrument": "BANKNIFTY 26SEP FUT", "close": 57566.20, "change": -321.00, "oi": 1999290, "oi_change": 11910, "basis": 156.60, "pattern": "Short buildup — price down, open interest up" }
+    ],
+    "chain": [
+      { "strike": 23750, "call_oi": 53560, "ce_close": 294.05, "put_oi": 901160, "pe_close": 46.20, "atm": false },
+      { "strike": 23800, "call_oi": 570830, "ce_close": 253.60, "put_oi": 3022630, "pe_close": 57.80, "atm": false },
+      { "strike": 23850, "call_oi": 118300, "ce_close": 218.00, "put_oi": 728000, "pe_close": 71.30, "atm": false },
+      { "strike": 23900, "call_oi": 1374880, "ce_close": 185.00, "put_oi": 3361085, "pe_close": 89.00, "atm": false },
+      { "strike": 23950, "call_oi": 730080, "ce_close": 155.00, "put_oi": 1120665, "pe_close": 106.85, "atm": false },
+      { "strike": 24000, "call_oi": 5851625, "ce_close": 130.20, "put_oi": 5398315, "pe_close": 130.15, "atm": false },
+      { "strike": 24050, "call_oi": 2170935, "ce_close": 107.30, "put_oi": 1301235, "pe_close": 158.95, "atm": true },
+      { "strike": 24100, "call_oi": 6500195, "ce_close": 85.95, "put_oi": 3504475, "pe_close": 187.90, "atm": false },
+      { "strike": 24150, "call_oi": 4182035, "ce_close": 66.25, "put_oi": 680290, "pe_close": 220.40, "atm": false },
+      { "strike": 24200, "call_oi": 7448545, "ce_close": 53.15, "put_oi": 3488160, "pe_close": 255.00, "atm": false },
+      { "strike": 24250, "call_oi": 2679950, "ce_close": 41.35, "put_oi": 593385, "pe_close": 293.90, "atm": false },
+      { "strike": 24300, "call_oi": 5056805, "ce_close": 32.00, "put_oi": 1486355, "pe_close": 335.00, "atm": false },
+      { "strike": 24350, "call_oi": 1893255, "ce_close": 25.00, "put_oi": 200395, "pe_close": 375.95, "atm": false }
+    ],
+    "metrics": {
+      "pcr": 0.667,
+      "pcr_note": "38.63M calls against 25.79M puts — a sharp move from last week's 0.971. Call writers now outnumber put writers by three to two, the most one-sided reading this report has recorded.",
+      "max_pain": 24050,
+      "max_pain_note": "the strike where option writers lose least, and it sits <b>5.8 points below</b> a 24,055.80 close. The market has settled essentially on top of it.",
+      "crossover": 24000,
+      "crossover_note": "puts outweigh calls only below 24,000 now. Last week the crossover sat at 24,100; it has fallen a hundred points, meaning the entire chain above spot is call-heavy."
+    },
+    "structural_read": "Last week's chain was balanced around a pin. This one is <b>ceiling-heavy</b>. The put/call crossover has dropped from 24,100 to 24,000, so every strike above spot is dominated by call writers, and the PCR has fallen from 0.971 to <b>0.667</b> — the most one-sided reading this report has seen. Max pain at 24,050 sits almost exactly on spot, which normally argues for a quiet drift, but the walls have tightened around it: a <b>7.45M call wall at 24,200</b> is only 144 points above, against a <b>5.40M put floor at 24,000</b> just 56 points below. Both index futures added open interest on falling prices — short buildup on each — and the Nifty premium <b>collapsed from 164.60 points to 25.20</b>, which is the clearest single signal in this section. A premium that thin says the futures market has stopped paying up for time.",
+    "scenarios": [
+      { "name": "Grind between the walls", "probability": "~50%", "trigger": "Oil stabilises below $92, no fresh Hormuz headline", "path": "Drift in 24,000–24,200 with the call wall capping rallies. Max pain sits on spot, so there is little pull in either direction. <b>Signal:</b> an open inside today's range with Brent flat." },
+      { "name": "Floor breaks", "probability": "~30%", "trigger": "Brent extends toward $95, or bank breadth keeps falling", "path": "24,000 has now been tested intraday on two consecutive sessions (lows 23,993.60 and 23,952.55). A third test with participation still falling is likely to go through, opening 23,800. <b>Signal:</b> Nifty Bank losing 57,000 early." },
+      { "name": "Squeeze on the shorts", "probability": "~20%", "trigger": "A Hormuz de-escalation headline", "path": "Both futures books added shorts today. A genuine oil reversal forces them out fast, and the 24,200 call wall becomes the target. <b>Signal:</b> the Nifty futures premium widening back above 100 points." }
+    ],
+    "note": "<b>The premium collapse is the number to carry forward.</b> Nifty September futures traded at a 164.60-point premium to spot on Monday and 25.20 today. Futures premium reflects what traders will pay to hold a position over time; when it compresses that fast while open interest <i>rises</i>, it means the new positions are short. Both indices show the same pattern. Set against a PCR of 0.667, the derivatives market is positioned more bearishly than the flat index close suggests."
+  },
+
+  "s14": {
+    "watch": [
+      { "item": "Whether 24,000 survives a third test", "confirms": "holding above it with advance/decline back over 1.0 would mark this week's floor as real", "denies": "the low has been 23,993.60 then 23,952.55 on consecutive days — a third probe with participation still falling likely breaks through toward 23,800" },
+      { "item": "Whether IT's rotation is real or a hiding place", "confirms": "IT holding its 60-point participation gain while another sector starts improving would make it a genuine rotation", "denies": "IT giving back participation with nothing else improving would mean the market simply had nowhere else to go" },
+      { "item": "Whether the 20-day participation slide continues", "confirms": "a bounce back above 38% would mark today's 33% as an expiry-day artefact", "denies": "a second consecutive fall would confirm that three sessions of negative breadth have broken the trend, regardless of what the index does" },
+      { "item": "Whether foreign buying persists past expiry", "confirms": "a second session of net buying would suggest Monday's ₹7,986 Cr sale was tied to the MSCI rebalance", "denies": "a return to selling would confirm today as expiry mechanics, and the week's ₹11,677 Cr outflow as the real trend" }
+    ],
+    "events": [
+      "<b>Thursday 3 September</b> — weekly Sensex options expiry on the BSE (lot 20).",
+      "<b>Tuesday 8 September</b> — next weekly Nifty expiry.",
+      "Brent and the Strait of Hormuz remain the live unscheduled variable, and have now outweighed domestic data two sessions running."
+    ],
+    "bull": [
+      "Nifty holds <b>24,000</b> on a third test with advance/decline above 1.0",
+      "Brent retreats below $89",
+      "Nifty futures premium widens back above 100 points",
+      "A second consecutive session of foreign buying",
+      "Participation above the 20-day average recovers past 38%"
+    ],
+    "bear": [
+      "A close below <b>23,952.55</b>, today's low and beneath the 24,000 put floor",
+      "Brent extends toward $95 on further Hormuz escalation",
+      "Nifty Bank loses 57,000",
+      "Participation falls for a second session from today's 33%",
+      "Auto extends its 47-point five-day participation collapse"
+    ],
+    "closing": "<b>The one thing to carry into tomorrow.</b> The index closed almost exactly where it opened the week, and that flat line is hiding a market that is quietly getting narrower — participation down from 41% to 33% in a session, thirteen of fourteen sectors losing ground, and a derivatives book that has moved from balanced to distinctly ceiling-heavy. Two of yesterday's calls held, which is worth something. But nothing in today's data argues that the deterioration underneath has stopped, and oil is still climbing."
+  }
+}
