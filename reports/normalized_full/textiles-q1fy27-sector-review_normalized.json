@@ -43,18 +43,12 @@
         ],
         "source_locator": "textiles-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "106c73e2-4526-4fcd-a606-5e2a5f1756f1",
-            "raw_name": "KPR",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "423a34cb26c5bb5413e5690db2e8f110a8eedefb53bee9c5463c54600031f585",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "2123a84f-32a9-5ce4-9ff4-afa9cf08072f",
+          "official_symbol": "KPRMILL",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (KPR -> KPRMILL)"
         }
       },
       {
@@ -79,17 +73,24 @@
         ],
         "source_locator": "textiles-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "09b43bb7-944c-4c6d-b15f-0c7c159be0d7",
+            "id": "95b18e98-3174-4ff6-9f5e-282913cc1f97",
             "raw_name": "TRI",
+            "cleaned_name": "TRI",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "TRIDENT",
+              "TRI_IND"
+            ],
+            "confidence": 0.6,
             "source_report_id": "423a34cb26c5bb5413e5690db2e8f110a8eedefb53bee9c5463c54600031f585",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       },
@@ -115,18 +116,12 @@
         ],
         "source_locator": "textiles-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "2a490f17-0021-40b5-a5f5-9eda457c568e",
-            "raw_name": "WEL",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "423a34cb26c5bb5413e5690db2e8f110a8eedefb53bee9c5463c54600031f585",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "7213ff8c-b2d3-5dd3-b377-4d770bad13a4",
+          "official_symbol": "WELSPUNLIV",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (WEL -> WELSPUNLIV)"
         }
       },
       {
@@ -151,18 +146,12 @@
         ],
         "source_locator": "textiles-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "308e3b7a-6eee-47b0-9f3d-d1ac57339247",
-            "raw_name": "GOK",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "423a34cb26c5bb5413e5690db2e8f110a8eedefb53bee9c5463c54600031f585",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "9cd88fb8-8498-58ac-9cfd-a39e071eb963",
+          "official_symbol": "GOKEX",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (GOK -> GOKEX)"
         }
       },
       {
@@ -187,18 +176,12 @@
         ],
         "source_locator": "textiles-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "5117d595-362d-42cd-bd6f-0e908661f89e",
-            "raw_name": "RAY",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "423a34cb26c5bb5413e5690db2e8f110a8eedefb53bee9c5463c54600031f585",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "8117f426-0231-5e1a-b56f-908002356849",
+          "official_symbol": "RAYMOND",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (RAY -> RAYMOND)"
         }
       }
     ],

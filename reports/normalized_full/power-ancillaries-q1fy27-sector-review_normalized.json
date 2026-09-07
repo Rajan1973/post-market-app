@@ -43,18 +43,12 @@
         ],
         "source_locator": "power-ancillaries-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "ec2cbf00-979a-4ad7-90b9-51efbc74e0da",
-            "raw_name": "TRIL",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "51a10507cdbd6498328a69e523ac957a5a2fa5ba9030ee963e3179d1641235bd",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "d0998ca9-3816-5573-ae8a-069d5de08064",
+          "official_symbol": "TRIL",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (TRIL -> TRIL)"
         }
       },
       {
@@ -79,18 +73,12 @@
         ],
         "source_locator": "power-ancillaries-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "9590984f-5e37-4957-84e9-7b78aa2be968",
-            "raw_name": "SCH",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "51a10507cdbd6498328a69e523ac957a5a2fa5ba9030ee963e3179d1641235bd",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "68b2fee2-ad25-5f40-ab5f-5c79984197cd",
+          "official_symbol": "SCHNEIDER",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (SCH -> SCHNEIDER)"
         }
       },
       {
@@ -115,18 +103,12 @@
         ],
         "source_locator": "power-ancillaries-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "ddf7a039-c5d4-4145-a671-de17fcf65c2d",
-            "raw_name": "HPL",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "51a10507cdbd6498328a69e523ac957a5a2fa5ba9030ee963e3179d1641235bd",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "9c2ebbb3-420d-52ec-9cb8-527ca0aaba7a",
+          "official_symbol": "HPL",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (HPL -> HPL)"
         }
       },
       {
@@ -151,17 +133,24 @@
         ],
         "source_locator": "power-ancillaries-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "ad5fa2c2-ce17-4b9c-a4bb-3c966c27ea0f",
+            "id": "4dc2403f-c06f-4684-be2f-553180ff6798",
             "raw_name": "GEN",
+            "cleaned_name": "GEN",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "GENUSPOWER",
+              "GENUS_ENG"
+            ],
+            "confidence": 0.6,
             "source_report_id": "51a10507cdbd6498328a69e523ac957a5a2fa5ba9030ee963e3179d1641235bd",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       }

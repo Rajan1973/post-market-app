@@ -43,10 +43,22 @@
         ],
         "source_locator": "hospital-chains-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": true,
-          "entity_id": "b8c9539c-5f32-5653-b102-702da0727f4a",
-          "confidence": 0.85,
-          "matched_alias": "APLAPOLLO"
+          "tier": 4,
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "beea9ada-30ac-45df-bf1d-4d91f304c649",
+            "raw_name": "APO",
+            "cleaned_name": "APO",
+            "entity_type": "stock",
+            "tier": 4,
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "3a2d44747bce97099ebad49bb3bd202f58baf8eda6f9e77ba9f591d733301f0e",
+            "status": "pending",
+            "reason": "Unknown entity token"
+          }
         }
       },
       {
@@ -71,17 +83,24 @@
         ],
         "source_locator": "hospital-chains-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "8a3b479a-f00a-469f-abb2-659973969615",
+            "id": "0d507c58-6c55-4ce1-873b-9bde5d61efba",
             "raw_name": "MAX",
+            "cleaned_name": "MAX",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "MAXHEALTH",
+              "MFSL"
+            ],
+            "confidence": 0.6,
             "source_report_id": "3a2d44747bce97099ebad49bb3bd202f58baf8eda6f9e77ba9f591d733301f0e",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       },
@@ -107,17 +126,24 @@
         ],
         "source_locator": "hospital-chains-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "c61ba8e6-31e2-4795-bc61-dec7aaf62a32",
+            "id": "c3252f0c-8c3e-4ba0-993b-d563ed2278b0",
             "raw_name": "FOR",
+            "cleaned_name": "FOR",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "FORTIS",
+              "FORCEMOT"
+            ],
+            "confidence": 0.6,
             "source_report_id": "3a2d44747bce97099ebad49bb3bd202f58baf8eda6f9e77ba9f591d733301f0e",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       },
@@ -143,18 +169,13 @@
         ],
         "source_locator": "hospital-chains-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "6c5a04c3-51d4-48e5-a665-a365fddb4e89",
-            "raw_name": "NH",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "3a2d44747bce97099ebad49bb3bd202f58baf8eda6f9e77ba9f591d733301f0e",
-            "status": "pending"
-          }
+          "tier": 1,
+          "resolved": true,
+          "entity_id": "773c1b69-5480-5df9-9d42-4d2e8132ad3d",
+          "official_symbol": "NH",
+          "company_name": "Narayana Hrudayalaya Ltd",
+          "confidence": 1.0,
+          "reason": "Exact official NSE symbol match"
         }
       },
       {
@@ -179,17 +200,24 @@
         ],
         "source_locator": "hospital-chains-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "2a75b27b-d78d-4421-8039-4afee933f734",
+            "id": "467305c4-ddfa-4f2e-9175-452689383457",
             "raw_name": "MED",
+            "cleaned_name": "MED",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "MEDANTA",
+              "MEDPLUS"
+            ],
+            "confidence": 0.6,
             "source_report_id": "3a2d44747bce97099ebad49bb3bd202f58baf8eda6f9e77ba9f591d733301f0e",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       }

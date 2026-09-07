@@ -43,18 +43,13 @@
         ],
         "source_locator": "defence-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "3e835c6e-59e6-45ce-bad0-366af426f76a",
-            "raw_name": "HAL",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "952f276ffbec4ded87b2d4d98531d07daa027d84f5b356cc1466b632df112b87",
-            "status": "pending"
-          }
+          "tier": 1,
+          "resolved": true,
+          "entity_id": "cf5ce090-3f1c-5d88-b4b9-460570e0a664",
+          "official_symbol": "HAL",
+          "company_name": "Hindustan Aeronautics Ltd",
+          "confidence": 1.0,
+          "reason": "Exact official NSE symbol match"
         }
       },
       {
@@ -79,10 +74,22 @@
         ],
         "source_locator": "defence-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": true,
-          "entity_id": "d8db8555-4fd1-5ebb-b1b1-70f587290c2f",
-          "confidence": 0.85,
-          "matched_alias": "RRKABEL"
+          "tier": 4,
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "2e24c2f1-67c4-4d4d-9aca-83ac4e7b927a",
+            "raw_name": "BEL",
+            "cleaned_name": "BEL",
+            "entity_type": "stock",
+            "tier": 4,
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "952f276ffbec4ded87b2d4d98531d07daa027d84f5b356cc1466b632df112b87",
+            "status": "pending",
+            "reason": "Unknown entity token"
+          }
         }
       },
       {
@@ -107,18 +114,12 @@
         ],
         "source_locator": "defence-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "b097750b-a73b-4ee6-807f-59367980ab70",
-            "raw_name": "MDL",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "952f276ffbec4ded87b2d4d98531d07daa027d84f5b356cc1466b632df112b87",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "8d5e4b8f-6c1b-5ca1-87a7-ec550ba9d59e",
+          "official_symbol": "MAZDOCK",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (MDL -> MAZDOCK)"
         }
       },
       {
@@ -143,18 +144,12 @@
         ],
         "source_locator": "defence-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "d979498d-8a0a-4b6e-abb3-cc7929a5dea9",
-            "raw_name": "SIL",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "952f276ffbec4ded87b2d4d98531d07daa027d84f5b356cc1466b632df112b87",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "82b92baa-a71a-59b9-bb68-62afb93741ef",
+          "official_symbol": "SANGHIIND",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (SIL -> SANGHIIND)"
         }
       },
       {
@@ -179,18 +174,12 @@
         ],
         "source_locator": "defence-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "facc6b76-fe7c-4243-9004-b3fe6c34a231",
-            "raw_name": "BDL",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "952f276ffbec4ded87b2d4d98531d07daa027d84f5b356cc1466b632df112b87",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "b3433777-784c-57a7-be5e-3a54d740c19b",
+          "official_symbol": "BDL",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (BDL -> BDL)"
         }
       },
       {
@@ -215,18 +204,12 @@
         ],
         "source_locator": "defence-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "5a7697d7-527f-4986-a0ca-903f77ad746b",
-            "raw_name": "CSL",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "952f276ffbec4ded87b2d4d98531d07daa027d84f5b356cc1466b632df112b87",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "4b0ae64a-523d-5467-9cf4-68be065e9407",
+          "official_symbol": "COCHINSHIP",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (CSL -> COCHINSHIP)"
         }
       }
     ],

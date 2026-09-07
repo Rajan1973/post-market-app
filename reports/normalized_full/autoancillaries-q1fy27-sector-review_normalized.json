@@ -43,18 +43,12 @@
         ],
         "source_locator": "autoancillaries-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "5db28a90-791e-4cc6-b7ca-61233b83d06e",
-            "raw_name": "MSUMI",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "d43ce0897dd6a69ad453fc9782bd78dfa7123402245814bc1f887c13bbd06961",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "6304f9df-aa8c-551c-b087-22bc49ffbaa3",
+          "official_symbol": "MOTHERSON",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (MSUMI -> MOTHERSON)"
         }
       },
       {
@@ -79,18 +73,12 @@
         ],
         "source_locator": "autoancillaries-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "2cff60c4-a02a-4d5e-bd72-f3889814773f",
-            "raw_name": "SONA",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "d43ce0897dd6a69ad453fc9782bd78dfa7123402245814bc1f887c13bbd06961",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "6b891d1b-b60b-5ea5-afce-19e449cd320a",
+          "official_symbol": "SONACOMS",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (SONA -> SONACOMS)"
         }
       },
       {
@@ -115,18 +103,12 @@
         ],
         "source_locator": "autoancillaries-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "90d7c9d1-02a1-4885-baad-6dc47161df94",
-            "raw_name": "UNO",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "d43ce0897dd6a69ad453fc9782bd78dfa7123402245814bc1f887c13bbd06961",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "efa87fe3-cb31-51ba-99bf-794d2bc11662",
+          "official_symbol": "UNOMINDA",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (UNO -> UNOMINDA)"
         }
       }
     ],

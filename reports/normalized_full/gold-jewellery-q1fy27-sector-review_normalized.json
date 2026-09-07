@@ -43,17 +43,24 @@
         ],
         "source_locator": "gold-jewellery-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "44659248-af57-49c8-a32f-4b865162c836",
+            "id": "c9a54f3e-831f-4a5d-9ce8-d65897038968",
             "raw_name": "TTN",
+            "cleaned_name": "TTN",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "TITAN",
+              "TTN_IND"
+            ],
+            "confidence": 0.6,
             "source_report_id": "4a4ede16a22b7c44152ae3e5dfb34b3f8455ec006146244c04ff1f791a88b1a1",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       },
@@ -79,17 +86,24 @@
         ],
         "source_locator": "gold-jewellery-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "126d627a-54ff-417f-b926-7a1c1853400e",
+            "id": "51b4efa9-3725-4983-9f2d-8818da47ab1a",
             "raw_name": "KAL",
+            "cleaned_name": "KAL",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "KALPATPOWR",
+              "KAL_IND"
+            ],
+            "confidence": 0.6,
             "source_report_id": "4a4ede16a22b7c44152ae3e5dfb34b3f8455ec006146244c04ff1f791a88b1a1",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       },
@@ -115,17 +129,24 @@
         ],
         "source_locator": "gold-jewellery-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "3e428b6f-5b49-4cee-a00a-6a91615629a1",
+            "id": "f63cec55-b0ca-4269-be43-dda9b6ed43e4",
             "raw_name": "SEN",
+            "cleaned_name": "SEN",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "SENCO",
+              "SENCORP"
+            ],
+            "confidence": 0.6,
             "source_report_id": "4a4ede16a22b7c44152ae3e5dfb34b3f8455ec006146244c04ff1f791a88b1a1",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       },
@@ -151,17 +172,24 @@
         ],
         "source_locator": "gold-jewellery-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "40786cbe-0885-4157-b3c7-6917023188d5",
+            "id": "341989c7-1dd6-4fe6-bca4-5c0c91922a4a",
             "raw_name": "TMY",
+            "cleaned_name": "TMY",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "TATAMOTORS",
+              "TMY_IND"
+            ],
+            "confidence": 0.6,
             "source_report_id": "4a4ede16a22b7c44152ae3e5dfb34b3f8455ec006146244c04ff1f791a88b1a1",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       }

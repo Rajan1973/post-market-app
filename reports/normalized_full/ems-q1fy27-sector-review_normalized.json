@@ -43,18 +43,13 @@
         ],
         "source_locator": "ems-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "a3788c90-c37a-45f8-b2c6-596a6f2388f9",
-            "raw_name": "DIX",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "2eafdc8d525bf144b3dce592f825cd1175d41bbe583ab1f15373b64367635bc3",
-            "status": "pending"
-          }
+          "tier": 1,
+          "resolved": true,
+          "entity_id": "cb57d861-34a6-5f21-80a5-6883493e279a",
+          "official_symbol": "DIX",
+          "company_name": "Dixon Technologies Ltd",
+          "confidence": 1.0,
+          "reason": "Exact official NSE symbol match"
         }
       },
       {
@@ -79,17 +74,24 @@
         ],
         "source_locator": "ems-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "84812318-af6c-4dfb-bc21-8c3ea04848e9",
+            "id": "6df15324-ecd6-4cae-ac61-53cd9b2a83a3",
             "raw_name": "KAY",
+            "cleaned_name": "KAY",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "KAYNES",
+              "KAYNES_TECH"
+            ],
+            "confidence": 0.6,
             "source_report_id": "2eafdc8d525bf144b3dce592f825cd1175d41bbe583ab1f15373b64367635bc3",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       },
@@ -115,18 +117,12 @@
         ],
         "source_locator": "ems-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "cbaed1d3-4e1c-467a-a2d4-f3b3d87749bd",
-            "raw_name": "SYR",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "2eafdc8d525bf144b3dce592f825cd1175d41bbe583ab1f15373b64367635bc3",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "34773a5e-40d9-5fd7-b84b-b6723e335053",
+          "official_symbol": "SYRMA",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (SYR -> SYRMA)"
         }
       },
       {
@@ -151,17 +147,24 @@
         ],
         "source_locator": "ems-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "1b323db7-e70b-4872-b6fe-1aa11464787a",
+            "id": "8e29f846-c9de-4e2a-8a4f-ea2295ca9114",
             "raw_name": "CYI",
+            "cleaned_name": "CYI",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "CYIENT",
+              "CYIENTDLM"
+            ],
+            "confidence": 0.6,
             "source_report_id": "2eafdc8d525bf144b3dce592f825cd1175d41bbe583ab1f15373b64367635bc3",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       },
@@ -187,17 +190,24 @@
         ],
         "source_locator": "ems-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "f38eccf7-5c15-4fd4-848c-b24df025891a",
+            "id": "39f012c2-2247-447f-a18b-0189affe077a",
             "raw_name": "AVA",
+            "cleaned_name": "AVA",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "AVANTIFEED",
+              "AVA_IND"
+            ],
+            "confidence": 0.6,
             "source_report_id": "2eafdc8d525bf144b3dce592f825cd1175d41bbe583ab1f15373b64367635bc3",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       }

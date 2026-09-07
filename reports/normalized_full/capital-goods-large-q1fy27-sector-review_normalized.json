@@ -43,18 +43,12 @@
         ],
         "source_locator": "capital-goods-large-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "874e05db-a10e-4fe7-91ad-d64bece00523",
-            "raw_name": "SIE",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "69ca807d155b0e7fba85d943265c0019135f3532c06c1796757af6e7817253c1",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "cc42e1c2-e3f0-5ead-996e-9f0ce02ce3c2",
+          "official_symbol": "SIEMENS",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (SIE -> SIEMENS)"
         }
       },
       {
@@ -79,18 +73,13 @@
         ],
         "source_locator": "capital-goods-large-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "44d9d5f4-cf99-4ad6-834b-81c7d7ff402d",
-            "raw_name": "ABB",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "69ca807d155b0e7fba85d943265c0019135f3532c06c1796757af6e7817253c1",
-            "status": "pending"
-          }
+          "tier": 1,
+          "resolved": true,
+          "entity_id": "d4e12123-586d-5fe5-866a-1b043ccf4a99",
+          "official_symbol": "ABB",
+          "company_name": "ABB India Ltd",
+          "confidence": 1.0,
+          "reason": "Exact official NSE symbol match"
         }
       },
       {
@@ -115,18 +104,13 @@
         ],
         "source_locator": "capital-goods-large-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "0eb0a33f-41de-4680-97e0-e060e1b03181",
-            "raw_name": "BHEL",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "69ca807d155b0e7fba85d943265c0019135f3532c06c1796757af6e7817253c1",
-            "status": "pending"
-          }
+          "tier": 1,
+          "resolved": true,
+          "entity_id": "4c1c7190-fb4c-53b3-93be-4d15a8a5049e",
+          "official_symbol": "BHEL",
+          "company_name": "Bharat Heavy Electricals Ltd",
+          "confidence": 1.0,
+          "reason": "Exact official NSE symbol match"
         }
       },
       {
@@ -151,18 +135,12 @@
         ],
         "source_locator": "capital-goods-large-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "bf6c697c-f411-4229-b899-41b8d415acca",
-            "raw_name": "CUM",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "69ca807d155b0e7fba85d943265c0019135f3532c06c1796757af6e7817253c1",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "67f6fbe3-9299-5dc0-a38f-1cba28fcb714",
+          "official_symbol": "CUMMINSIND",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (CUM -> CUMMINSIND)"
         }
       },
       {
@@ -187,17 +165,21 @@
         ],
         "source_locator": "capital-goods-large-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 4,
           "resolved": false,
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "5fced440-046f-4cc8-b310-292c94fc4e17",
+            "id": "0d8e3888-fa93-4a38-a8e6-1b3c037e722f",
             "raw_name": "TMX",
+            "cleaned_name": "TMX",
             "entity_type": "stock",
+            "tier": 4,
             "candidate_matches": [],
             "confidence": 0.0,
             "source_report_id": "69ca807d155b0e7fba85d943265c0019135f3532c06c1796757af6e7817253c1",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Unknown entity token"
           }
         }
       },
@@ -223,17 +205,24 @@
         ],
         "source_locator": "capital-goods-large-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "844c87a0-dd19-4b2b-b706-867cabf74aa4",
+            "id": "8c242d1e-b468-4898-a88e-a76b78ce3ad0",
             "raw_name": "AIA",
+            "cleaned_name": "AIA",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "AIAENG",
+              "AIA_IND"
+            ],
+            "confidence": 0.6,
             "source_report_id": "69ca807d155b0e7fba85d943265c0019135f3532c06c1796757af6e7817253c1",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       }

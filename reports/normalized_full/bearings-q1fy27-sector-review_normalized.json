@@ -43,18 +43,12 @@
         ],
         "source_locator": "bearings-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "455c9f86-1b88-4f4d-b887-1efa7976fb34",
-            "raw_name": "SCH",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "b6912e133e8bd701be9f290f85790544749fdb4d20384f3e115b829ecfa379f9",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "68b2fee2-ad25-5f40-ab5f-5c79984197cd",
+          "official_symbol": "SCHNEIDER",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (SCH -> SCHNEIDER)"
         }
       },
       {
@@ -79,18 +73,13 @@
         ],
         "source_locator": "bearings-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "fbec7e43-9ce4-4ccb-95d7-8de83d7e00a1",
-            "raw_name": "SKF",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "b6912e133e8bd701be9f290f85790544749fdb4d20384f3e115b829ecfa379f9",
-            "status": "pending"
-          }
+          "tier": 1,
+          "resolved": true,
+          "entity_id": "46e5f232-fcf0-530e-b878-1bf9af0d031d",
+          "official_symbol": "SKF",
+          "company_name": "SKF India Ltd",
+          "confidence": 1.0,
+          "reason": "Exact official NSE symbol match"
         }
       },
       {
@@ -115,17 +104,24 @@
         ],
         "source_locator": "bearings-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "b8be3856-3f3c-45ec-a7f6-04b56ceb95dc",
+            "id": "fe372b01-1d4b-49bc-b503-7343dcbcec5e",
             "raw_name": "TMK",
+            "cleaned_name": "TMK",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "TATAMOTORS",
+              "TMK_IND"
+            ],
+            "confidence": 0.6,
             "source_report_id": "b6912e133e8bd701be9f290f85790544749fdb4d20384f3e115b829ecfa379f9",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       }

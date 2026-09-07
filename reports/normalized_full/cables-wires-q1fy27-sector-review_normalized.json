@@ -43,10 +43,22 @@
         ],
         "source_locator": "cables-wires-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": true,
-          "entity_id": "b1bf252a-6ffd-5c36-b518-6b17975e2dad",
-          "confidence": 0.85,
-          "matched_alias": "POLYCAB"
+          "tier": 4,
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "c40a4b14-3274-4c5f-b30b-1a9deb16285c",
+            "raw_name": "POL",
+            "cleaned_name": "POL",
+            "entity_type": "stock",
+            "tier": 4,
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "b2fbc8b40e3a6048f9586944771bb853d424b0ed17fbfdfa9518a2e66c12ba71",
+            "status": "pending",
+            "reason": "Unknown entity token"
+          }
         }
       },
       {
@@ -71,17 +83,24 @@
         ],
         "source_locator": "cables-wires-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "c7dabc3d-668e-4df0-8bf5-c7e25c28cf55",
+            "id": "64fa7242-14b1-435f-a3a2-64ed163e6857",
             "raw_name": "APR",
+            "cleaned_name": "APR",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "APOLLOTYRE",
+              "APR_IND"
+            ],
+            "confidence": 0.6,
             "source_report_id": "b2fbc8b40e3a6048f9586944771bb853d424b0ed17fbfdfa9518a2e66c12ba71",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       },
@@ -107,10 +126,13 @@
         ],
         "source_locator": "cables-wires-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 1,
           "resolved": true,
           "entity_id": "de4ae66c-5357-5aad-a7ad-0d18a09297b9",
+          "official_symbol": "KEI",
+          "company_name": "KEI Industries Ltd",
           "confidence": 1.0,
-          "matched_alias": "KEI"
+          "reason": "Exact official NSE symbol match"
         }
       },
       {
@@ -135,10 +157,22 @@
         ],
         "source_locator": "cables-wires-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": true,
-          "entity_id": "d8db8555-4fd1-5ebb-b1b1-70f587290c2f",
-          "confidence": 0.85,
-          "matched_alias": "RRKABEL"
+          "tier": 4,
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "0ff59710-db72-428b-8d3c-d5fdbacade68",
+            "raw_name": "RRK",
+            "cleaned_name": "RRK",
+            "entity_type": "stock",
+            "tier": 4,
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "b2fbc8b40e3a6048f9586944771bb853d424b0ed17fbfdfa9518a2e66c12ba71",
+            "status": "pending",
+            "reason": "Unknown entity token"
+          }
         }
       },
       {
@@ -163,10 +197,22 @@
         ],
         "source_locator": "cables-wires-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": true,
-          "entity_id": "e2b8668b-372d-502a-a582-551bc4f57f44",
-          "confidence": 0.85,
-          "matched_alias": "FINCABLES"
+          "tier": 4,
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "7a73f9d0-7242-4a4b-92ec-53d5a7e0914c",
+            "raw_name": "FIN",
+            "cleaned_name": "FIN",
+            "entity_type": "stock",
+            "tier": 4,
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "b2fbc8b40e3a6048f9586944771bb853d424b0ed17fbfdfa9518a2e66c12ba71",
+            "status": "pending",
+            "reason": "Unknown entity token"
+          }
         }
       },
       {
@@ -191,10 +237,22 @@
         ],
         "source_locator": "cables-wires-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": true,
-          "entity_id": "b55f1798-4eda-57a0-a5f2-7ff0d219cec5",
-          "confidence": 0.85,
-          "matched_alias": "HAVELLS"
+          "tier": 4,
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "0f929067-e6a6-4468-9df2-40e3f09165fe",
+            "raw_name": "HAV",
+            "cleaned_name": "HAV",
+            "entity_type": "stock",
+            "tier": 4,
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "b2fbc8b40e3a6048f9586944771bb853d424b0ed17fbfdfa9518a2e66c12ba71",
+            "status": "pending",
+            "reason": "Unknown entity token"
+          }
         }
       }
     ],

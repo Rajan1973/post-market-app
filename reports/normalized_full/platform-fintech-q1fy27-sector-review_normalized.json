@@ -43,18 +43,12 @@
         ],
         "source_locator": "platform-fintech-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "c2c89d1d-8341-4d54-89e7-46e012e8fc2b",
-            "raw_name": "PBF",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "ffa8d076af38d2a6a81d6085d9be0334a924eb3208583e400d226630443674fc",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "b0797d85-0f49-5d03-946e-638c5b5d33e9",
+          "official_symbol": "PIGL",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (PBF -> PIGL)"
         }
       },
       {
@@ -79,18 +73,12 @@
         ],
         "source_locator": "platform-fintech-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "34705093-da26-4653-b6ab-8e668256fa48",
-            "raw_name": "PAY",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "ffa8d076af38d2a6a81d6085d9be0334a924eb3208583e400d226630443674fc",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "366e7a49-cbd3-54e6-8ba7-04b2d03be7bc",
+          "official_symbol": "PAYTM",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (PAY -> PAYTM)"
         }
       },
       {
@@ -115,18 +103,12 @@
         ],
         "source_locator": "platform-fintech-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "26e9219a-ce63-471d-9f31-da91b337f873",
-            "raw_name": "NYK",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "ffa8d076af38d2a6a81d6085d9be0334a924eb3208583e400d226630443674fc",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "a3ff15a5-7538-5673-9112-8cce46ecf2d1",
+          "official_symbol": "NYKAA",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (NYK -> NYKAA)"
         }
       },
       {
@@ -151,18 +133,12 @@
         ],
         "source_locator": "platform-fintech-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "004708b2-5a32-4a43-8080-db3e64d2e9b2",
-            "raw_name": "ZOM",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "ffa8d076af38d2a6a81d6085d9be0334a924eb3208583e400d226630443674fc",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "f671b183-4c72-5bc6-82d3-7f89819d3acb",
+          "official_symbol": "ZOMATO",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (ZOM -> ZOMATO)"
         }
       }
     ],

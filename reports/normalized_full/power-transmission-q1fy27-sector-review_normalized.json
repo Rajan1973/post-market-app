@@ -43,18 +43,12 @@
         ],
         "source_locator": "power-transmission-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "3aef455c-986d-4b96-98e4-d1c95c2b5449",
-            "raw_name": "PGC",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "47f982e8bc64ad8fa35d8efd7d868d3a3065c44532bc7a9395b636b3ad6d5e73",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "66b6b79f-8b88-531d-a8e8-4a1ac054f4b6",
+          "official_symbol": "POWERGRID",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (PGC -> POWERGRID)"
         }
       },
       {
@@ -79,17 +73,24 @@
         ],
         "source_locator": "power-transmission-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "080ef365-aff5-4467-9d7f-8b43f6448bb2",
+            "id": "6c0ddc28-b0a7-4019-90be-77cd96e631e2",
             "raw_name": "AES",
+            "cleaned_name": "AES",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "AES_POWER",
+              "AES_IND"
+            ],
+            "confidence": 0.6,
             "source_report_id": "47f982e8bc64ad8fa35d8efd7d868d3a3065c44532bc7a9395b636b3ad6d5e73",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       }

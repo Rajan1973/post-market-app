@@ -43,18 +43,12 @@
         ],
         "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "aa4ca961-1ec6-4ae5-aad8-5b607738a8c2",
-            "raw_name": "LAL",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "a65f8974ddd6b447a96b240b01afd6a8e735694872e2b6877c56d217e9a99f1d",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "347abb93-b6cc-5e71-b976-33c8de87d642",
+          "official_symbol": "LALPATHLAB",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (LAL -> LALPATHLAB)"
         }
       },
       {
@@ -79,17 +73,24 @@
         ],
         "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "7d9cbdcc-12da-4fd0-92c6-e4eb79a793e8",
+            "id": "a9b8c385-eeff-47f7-ae5a-d9673d102bbd",
             "raw_name": "MET",
+            "cleaned_name": "MET",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "METROPOLIS",
+              "METROPOLIS_IND"
+            ],
+            "confidence": 0.6,
             "source_report_id": "a65f8974ddd6b447a96b240b01afd6a8e735694872e2b6877c56d217e9a99f1d",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       },
@@ -115,17 +116,24 @@
         ],
         "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "f733ab3c-785d-4b8b-8c26-12fe3bb38e9c",
+            "id": "fa46e275-b798-4d51-903f-76df6529c663",
             "raw_name": "VIJ",
+            "cleaned_name": "VIJ",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "VIJAYA",
+              "VIJ_IND"
+            ],
+            "confidence": 0.6,
             "source_report_id": "a65f8974ddd6b447a96b240b01afd6a8e735694872e2b6877c56d217e9a99f1d",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       },
@@ -151,17 +159,24 @@
         ],
         "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "8dcfb475-4d00-4c88-b884-dcbbc7c51181",
+            "id": "07cac298-66da-41cc-8253-64bfee33dd13",
             "raw_name": "THY",
+            "cleaned_name": "THY",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "THYROCARE",
+              "THY_IND"
+            ],
+            "confidence": 0.6,
             "source_report_id": "a65f8974ddd6b447a96b240b01afd6a8e735694872e2b6877c56d217e9a99f1d",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       },
@@ -187,18 +202,12 @@
         ],
         "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "05615806-47d0-493c-9055-781f8173f8a2",
-            "raw_name": "KRS",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "a65f8974ddd6b447a96b240b01afd6a8e735694872e2b6877c56d217e9a99f1d",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "0d01ebf7-a73c-5bc7-8264-226977faceba",
+          "official_symbol": "KRBL",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (KRS -> KRBL)"
         }
       }
     ],

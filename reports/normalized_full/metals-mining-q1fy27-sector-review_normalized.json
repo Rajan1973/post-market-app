@@ -43,10 +43,22 @@
         ],
         "source_locator": "metals-mining-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": true,
-          "entity_id": "785844aa-64ec-57e3-8c7b-dd0f917948b6",
-          "confidence": 0.85,
-          "matched_alias": "TATASTEEL"
+          "tier": 4,
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "5edc9418-821e-40e9-94c3-7e1af78394ac",
+            "raw_name": "TATA",
+            "cleaned_name": "TATA",
+            "entity_type": "stock",
+            "tier": 4,
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "2b29d78f4c5b9338a6dffabd39db7a5adb489c555cec9377482e262cf7d6cc54",
+            "status": "pending",
+            "reason": "Unknown entity token"
+          }
         }
       },
       {
@@ -71,10 +83,22 @@
         ],
         "source_locator": "metals-mining-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": true,
-          "entity_id": "a0323599-b03e-522e-ba9e-c9899ba269e9",
-          "confidence": 0.85,
-          "matched_alias": "JSWSTEEL"
+          "tier": 4,
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "93f7e970-5bbe-42a0-ae10-353e4e78cbe5",
+            "raw_name": "JSW",
+            "cleaned_name": "JSW",
+            "entity_type": "stock",
+            "tier": 4,
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "2b29d78f4c5b9338a6dffabd39db7a5adb489c555cec9377482e262cf7d6cc54",
+            "status": "pending",
+            "reason": "Unknown entity token"
+          }
         }
       },
       {
@@ -99,18 +123,13 @@
         ],
         "source_locator": "metals-mining-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "ed4b1165-ede8-4d46-b7e4-97d92a22abd6",
-            "raw_name": "HAL",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "2b29d78f4c5b9338a6dffabd39db7a5adb489c555cec9377482e262cf7d6cc54",
-            "status": "pending"
-          }
+          "tier": 1,
+          "resolved": true,
+          "entity_id": "cf5ce090-3f1c-5d88-b4b9-460570e0a664",
+          "official_symbol": "HAL",
+          "company_name": "Hindustan Aeronautics Ltd",
+          "confidence": 1.0,
+          "reason": "Exact official NSE symbol match"
         }
       },
       {
@@ -135,18 +154,12 @@
         ],
         "source_locator": "metals-mining-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "5f670530-6ea5-4498-8b4f-b8352639d0a5",
-            "raw_name": "NMD",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "2b29d78f4c5b9338a6dffabd39db7a5adb489c555cec9377482e262cf7d6cc54",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "a8e7d2ba-f84f-5640-a1b7-a67e7219d6e4",
+          "official_symbol": "NMDC",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (NMD -> NMDC)"
         }
       },
       {
@@ -171,18 +184,12 @@
         ],
         "source_locator": "metals-mining-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "4230c85f-c193-4923-939d-78f4e51163f5",
-            "raw_name": "VED",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "2b29d78f4c5b9338a6dffabd39db7a5adb489c555cec9377482e262cf7d6cc54",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "bbee3a37-1c76-537e-b6f4-680c71287c5f",
+          "official_symbol": "VEDL",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (VED -> VEDL)"
         }
       },
       {
@@ -207,17 +214,24 @@
         ],
         "source_locator": "metals-mining-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "5ad6b1e2-1e62-4c7c-b34d-83aa2ccfd8a9",
+            "id": "a9ba10b2-c9ec-4930-83e1-3f0c20634e47",
             "raw_name": "JSP",
+            "cleaned_name": "JSP",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "JSP",
+              "JSP_STEEL"
+            ],
+            "confidence": 0.6,
             "source_report_id": "2b29d78f4c5b9338a6dffabd39db7a5adb489c555cec9377482e262cf7d6cc54",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       }

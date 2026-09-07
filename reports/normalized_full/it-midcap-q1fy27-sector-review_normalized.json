@@ -43,18 +43,12 @@
         ],
         "source_locator": "it-midcap-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "bf0b4d07-0bf7-489a-8588-68da7ef9321c",
-            "raw_name": "PSYS",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "d4e17554017fc25ef53249537082763b34325fa91ddf815a2965bfd824361256",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "beb4ceb8-8e48-53e0-9b3e-d0f3c49c7420",
+          "official_symbol": "PERSISTENT",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (PSYS -> PERSISTENT)"
         }
       },
       {
@@ -79,17 +73,24 @@
         ],
         "source_locator": "it-midcap-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "e4347c87-ab7d-4630-9a9c-e14df9cc0a74",
+            "id": "751920f2-61b6-4eba-8951-c3a3564f4a32",
             "raw_name": "COF",
+            "cleaned_name": "COF",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "COFORGE",
+              "COF_IND"
+            ],
+            "confidence": 0.6,
             "source_report_id": "d4e17554017fc25ef53249537082763b34325fa91ddf815a2965bfd824361256",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       },
@@ -115,18 +116,13 @@
         ],
         "source_locator": "it-midcap-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "456064d3-39bc-4ac2-be88-29935d1cf652",
-            "raw_name": "LTIM",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "d4e17554017fc25ef53249537082763b34325fa91ddf815a2965bfd824361256",
-            "status": "pending"
-          }
+          "tier": 1,
+          "resolved": true,
+          "entity_id": "220e3ca3-284a-567d-b606-82517ae3cd75",
+          "official_symbol": "LTIM",
+          "company_name": "LTIMindtree Ltd",
+          "confidence": 1.0,
+          "reason": "Exact official NSE symbol match"
         }
       },
       {
@@ -151,18 +147,12 @@
         ],
         "source_locator": "it-midcap-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "f88e125e-e29a-441a-ab9d-6ef1c13a7eaa",
-            "raw_name": "MPH",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "d4e17554017fc25ef53249537082763b34325fa91ddf815a2965bfd824361256",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "f13a64dd-d2be-543f-96fe-18a8c1e85bf7",
+          "official_symbol": "MPHASIS",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (MPH -> MPHASIS)"
         }
       },
       {
@@ -187,18 +177,12 @@
         ],
         "source_locator": "it-midcap-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "896c9b40-47fc-4ebf-a221-9eff268a3f1b",
-            "raw_name": "KPIT",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "d4e17554017fc25ef53249537082763b34325fa91ddf815a2965bfd824361256",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "116421ef-288c-5484-a054-dc05d5e04f3e",
+          "official_symbol": "KPITTECH",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (KPIT -> KPITTECH)"
         }
       }
     ],

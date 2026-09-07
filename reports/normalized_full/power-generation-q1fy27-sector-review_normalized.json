@@ -43,18 +43,13 @@
         ],
         "source_locator": "power-generation-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "c6dfd612-efaf-48f5-9031-90cfd539cf75",
-            "raw_name": "NTPC",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "9c9d62c4fa270835200a4b1ab268dc88aa7b4cecaad86db210f6c41948d4d691",
-            "status": "pending"
-          }
+          "tier": 1,
+          "resolved": true,
+          "entity_id": "d06855e5-daf0-5ec6-aefc-d63b6f2313e1",
+          "official_symbol": "NTPC",
+          "company_name": "NTPC Ltd",
+          "confidence": 1.0,
+          "reason": "Exact official NSE symbol match"
         }
       },
       {
@@ -79,17 +74,24 @@
         ],
         "source_locator": "power-generation-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "6c780bee-66a0-4040-81a6-6cecbf63278c",
+            "id": "5bd8c1e1-f95b-4af0-bc22-5f84a557120c",
             "raw_name": "TPW",
+            "cleaned_name": "TPW",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "TORNTPOWER",
+              "TPW_GEN"
+            ],
+            "confidence": 0.6,
             "source_report_id": "9c9d62c4fa270835200a4b1ab268dc88aa7b4cecaad86db210f6c41948d4d691",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       },
@@ -115,18 +117,12 @@
         ],
         "source_locator": "power-generation-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "357977ed-1527-4397-ac9c-662cbfa3ca00",
-            "raw_name": "JSWE",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "9c9d62c4fa270835200a4b1ab268dc88aa7b4cecaad86db210f6c41948d4d691",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "39246e6f-b8c4-5a1b-8db6-72b70eb22250",
+          "official_symbol": "JSWENERGY",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (JSWE -> JSWENERGY)"
         }
       },
       {
@@ -151,17 +147,24 @@
         ],
         "source_locator": "power-generation-q1fy27-sector-review.html#.c",
         "entity_resolution": {
+          "tier": 3,
           "resolved": false,
           "entity_id": null,
-          "confidence": 0.0,
+          "confidence": 0.6,
           "unresolved_record": {
-            "id": "b537f998-c5d8-46b6-9868-37d28833dbbd",
+            "id": "f958b8a1-d720-4576-9f70-2e7bc0dcf7ad",
             "raw_name": "APW",
+            "cleaned_name": "APW",
             "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
+            "tier": 3,
+            "candidate_matches": [
+              "APARINDS",
+              "APW_IND"
+            ],
+            "confidence": 0.6,
             "source_report_id": "9c9d62c4fa270835200a4b1ab268dc88aa7b4cecaad86db210f6c41948d4d691",
-            "status": "pending"
+            "status": "pending",
+            "reason": "Ambiguous ticker abbreviation with 2 candidate matches"
           }
         }
       },
@@ -187,18 +190,12 @@
         ],
         "source_locator": "power-generation-q1fy27-sector-review.html#.c",
         "entity_resolution": {
-          "resolved": false,
-          "entity_id": null,
-          "confidence": 0.0,
-          "unresolved_record": {
-            "id": "8da1acde-8fb9-47e5-bf98-537e5b604a86",
-            "raw_name": "TOR",
-            "entity_type": "stock",
-            "candidate_matches": [],
-            "confidence": 0.0,
-            "source_report_id": "9c9d62c4fa270835200a4b1ab268dc88aa7b4cecaad86db210f6c41948d4d691",
-            "status": "pending"
-          }
+          "tier": 2,
+          "resolved": true,
+          "entity_id": "7b69d35a-993f-5c5b-9bf5-ead49f17e97b",
+          "official_symbol": "TORNTPHARM",
+          "confidence": 0.95,
+          "reason": "Unambiguous report alias mapping (TOR -> TORNTPHARM)"
         }
       }
     ],
