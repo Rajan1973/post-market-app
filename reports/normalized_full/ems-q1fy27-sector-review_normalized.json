@@ -47,7 +47,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "ede55afb-60f3-4878-a457-c59499ad9478",
+            "id": "a3788c90-c37a-45f8-b2c6-596a6f2388f9",
             "raw_name": "DIX",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -83,7 +83,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "69ef6052-a48d-4cda-b3d8-2f69726b9ada",
+            "id": "84812318-af6c-4dfb-bc21-8c3ea04848e9",
             "raw_name": "KAY",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -119,7 +119,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "b7e9f7c0-3c81-4e26-92d6-be654b8cf7ae",
+            "id": "cbaed1d3-4e1c-467a-a2d4-f3b3d87749bd",
             "raw_name": "SYR",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -155,7 +155,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "47d64c4f-a4b1-48b9-80af-08bee5b4545d",
+            "id": "1b323db7-e70b-4872-b6fe-1aa11464787a",
             "raw_name": "CYI",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -191,7 +191,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "7d686c70-a7bd-4a39-aad7-ee26793b3191",
+            "id": "f38eccf7-5c15-4fd4-848c-b24df025891a",
             "raw_name": "AVA",
             "entity_type": "stock",
             "candidate_matches": [],

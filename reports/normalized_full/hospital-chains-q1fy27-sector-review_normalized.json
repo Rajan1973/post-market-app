@@ -75,7 +75,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "de028118-b157-427f-9e7e-b9da92602c28",
+            "id": "8a3b479a-f00a-469f-abb2-659973969615",
             "raw_name": "MAX",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -111,7 +111,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "1c2ddca0-343f-41bc-a759-e5ad8e11b46b",
+            "id": "c61ba8e6-31e2-4795-bc61-dec7aaf62a32",
             "raw_name": "FOR",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -147,7 +147,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "21830772-467d-46ee-8ac0-2f1a614b7cb3",
+            "id": "6c5a04c3-51d4-48e5-a665-a365fddb4e89",
             "raw_name": "NH",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -183,7 +183,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "5bc8498b-bd27-4cdd-8213-8c567e756145",
+            "id": "2a75b27b-d78d-4421-8039-4afee933f734",
             "raw_name": "MED",
             "entity_type": "stock",
             "candidate_matches": [],

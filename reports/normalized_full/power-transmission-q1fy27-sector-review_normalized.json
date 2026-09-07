@@ -47,7 +47,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "c1baa6c6-7245-4573-b464-261ce9d4fbb0",
+            "id": "3aef455c-986d-4b96-98e4-d1c95c2b5449",
             "raw_name": "PGC",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -83,7 +83,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "c59d33c1-0fb0-4521-8a4a-5d369ab8cf77",
+            "id": "080ef365-aff5-4467-9d7f-8b43f6448bb2",
             "raw_name": "AES",
             "entity_type": "stock",
             "candidate_matches": [],

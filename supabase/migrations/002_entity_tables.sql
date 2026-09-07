@@ -1,4 +1,4 @@
--- Migration 002: Entity Tables (Sectors, Stocks, Themes, Entity Aliases, Mentions & Unresolved Queue)
+-- Migration 002: Entity Tables (Sectors, Stocks, Themes, Entity Aliases, Mentions, Relationships & Unresolved Queue)
 
 -- Sectors Table
 CREATE TABLE IF NOT EXISTS sectors (
@@ -68,6 +68,22 @@ CREATE TABLE IF NOT EXISTS report_mentions (
 
 CREATE INDEX IF NOT EXISTS idx_report_mentions_report ON report_mentions(report_id);
 CREATE INDEX IF NOT EXISTS idx_report_mentions_entity ON report_mentions(entity_type, entity_id);
+
+-- Research Graph Entity Relationships Table (P0 Fix: Explicit Relationship Edge List)
+CREATE TABLE IF NOT EXISTS entity_relationships (
+    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+    source_entity_type VARCHAR(50) NOT NULL, -- stock, sector, theme, report, signal
+    source_entity_id UUID NOT NULL,
+    relationship_type VARCHAR(50) NOT NULL, -- belongs_to, associated_with, supported_by, mentioned_in, rotating_in
+    target_entity_type VARCHAR(50) NOT NULL,
+    target_entity_id UUID NOT NULL,
+    confidence NUMERIC(3,2) NOT NULL DEFAULT 1.00,
+    source_locator TEXT,
+    created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+);
+
+CREATE INDEX IF NOT EXISTS idx_entity_rel_source ON entity_relationships(source_entity_type, source_entity_id);
+CREATE INDEX IF NOT EXISTS idx_entity_rel_target ON entity_relationships(target_entity_type, target_entity_id);
 
 -- Unresolved Entities Queue Table
 CREATE TABLE IF NOT EXISTS unresolved_entities (

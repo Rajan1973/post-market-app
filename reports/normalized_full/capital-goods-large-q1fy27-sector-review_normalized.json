@@ -47,7 +47,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "194ef570-0ef3-466b-a855-83b7416dc09f",
+            "id": "874e05db-a10e-4fe7-91ad-d64bece00523",
             "raw_name": "SIE",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -83,7 +83,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "c47aa0db-d493-41fe-b1e5-c23abb7619d9",
+            "id": "44d9d5f4-cf99-4ad6-834b-81c7d7ff402d",
             "raw_name": "ABB",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -119,7 +119,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "313c8c30-d991-4cb7-b751-1b761e49fe1a",
+            "id": "0eb0a33f-41de-4680-97e0-e060e1b03181",
             "raw_name": "BHEL",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -155,7 +155,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "8dceab00-5c90-4b96-aea3-5f0a1e8668f0",
+            "id": "bf6c697c-f411-4229-b899-41b8d415acca",
             "raw_name": "CUM",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -191,7 +191,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "e13e3382-d7a5-42bd-81de-71cbcadf221d",
+            "id": "5fced440-046f-4cc8-b310-292c94fc4e17",
             "raw_name": "TMX",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -227,7 +227,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "2b4cf96b-7320-4cea-8548-f37916984a24",
+            "id": "844c87a0-dd19-4b2b-b706-867cabf74aa4",
             "raw_name": "AIA",
             "entity_type": "stock",
             "candidate_matches": [],

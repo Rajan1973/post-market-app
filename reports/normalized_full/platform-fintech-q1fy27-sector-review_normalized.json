@@ -47,7 +47,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "e92b8374-c1f1-4a7c-b212-fa4b4798fbf3",
+            "id": "c2c89d1d-8341-4d54-89e7-46e012e8fc2b",
             "raw_name": "PBF",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -83,7 +83,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "8b9111a3-15ee-4096-bd3d-0c0af650b1a4",
+            "id": "34705093-da26-4653-b6ab-8e668256fa48",
             "raw_name": "PAY",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -119,7 +119,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "0988ad4a-e8f7-48cc-97b7-ee4d87ffe20e",
+            "id": "26e9219a-ce63-471d-9f31-da91b337f873",
             "raw_name": "NYK",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -155,7 +155,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "5876ca7f-b81e-4936-898f-fde38fd7003d",
+            "id": "004708b2-5a32-4a43-8080-db3e64d2e9b2",
             "raw_name": "ZOM",
             "entity_type": "stock",
             "candidate_matches": [],

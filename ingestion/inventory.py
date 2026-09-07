@@ -20,9 +20,13 @@ def classify_report(file_path: Path) -> Dict[str, Any]:
     sector: Optional[str] = None
 
     # Check filename patterns for EOD
-    if "daily-brief" in filename or "weekly-brief" in filename or "weekly-report" in filename:
-        report_type = "EOD"
-        # Extract YYYY-MM-DD from filename if present
+    if "weekly-brief" in filename or "weekly-report" in filename:
+        report_type = "EOD_WEEKLY"
+        parts = filename.split("-")
+        if len(parts) >= 3 and parts[0].isdigit() and len(parts[0]) == 4:
+            report_date = f"{parts[0]}-{parts[1]}-{parts[2]}"
+    elif "daily-brief" in filename:
+        report_type = "EOD_DAILY"
         parts = filename.split("-")
         if len(parts) >= 3 and parts[0].isdigit() and len(parts[0]) == 4:
             report_date = f"{parts[0]}-{parts[1]}-{parts[2]}"

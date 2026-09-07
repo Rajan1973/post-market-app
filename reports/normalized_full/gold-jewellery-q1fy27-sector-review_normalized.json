@@ -47,7 +47,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "159f2839-4db6-40bc-a27a-c738a9ba1928",
+            "id": "44659248-af57-49c8-a32f-4b865162c836",
             "raw_name": "TTN",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -83,7 +83,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "009d7489-a2e0-4701-8fd3-f9d39653dc4e",
+            "id": "126d627a-54ff-417f-b926-7a1c1853400e",
             "raw_name": "KAL",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -119,7 +119,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "0aed5cdf-2867-44cd-a686-815b50305d53",
+            "id": "3e428b6f-5b49-4cee-a00a-6a91615629a1",
             "raw_name": "SEN",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -155,7 +155,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "9384a25f-f412-4ce5-be29-6acf47cd49d9",
+            "id": "40786cbe-0885-4157-b3c7-6917023188d5",
             "raw_name": "TMY",
             "entity_type": "stock",
             "candidate_matches": [],

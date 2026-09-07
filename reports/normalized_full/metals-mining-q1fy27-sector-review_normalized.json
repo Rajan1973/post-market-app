@@ -103,7 +103,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "1a66064e-0f21-4a6c-bbe9-19dec5e84f8a",
+            "id": "ed4b1165-ede8-4d46-b7e4-97d92a22abd6",
             "raw_name": "HAL",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -139,7 +139,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "feabe37d-40d7-47b2-9bdd-a0fbb858211e",
+            "id": "5f670530-6ea5-4498-8b4f-b8352639d0a5",
             "raw_name": "NMD",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -175,7 +175,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "eb82f060-3c2c-4f27-8458-2c8bb4554f3b",
+            "id": "4230c85f-c193-4923-939d-78f4e51163f5",
             "raw_name": "VED",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -211,7 +211,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "8bdb2f59-e256-4d24-b871-49ff79452d0b",
+            "id": "5ad6b1e2-1e62-4c7c-b34d-83aa2ccfd8a9",
             "raw_name": "JSP",
             "entity_type": "stock",
             "candidate_matches": [],

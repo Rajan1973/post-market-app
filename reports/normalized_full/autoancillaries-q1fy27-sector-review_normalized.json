@@ -47,7 +47,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "24b10a38-f60c-4838-a4db-21f9284180c5",
+            "id": "5db28a90-791e-4cc6-b7ca-61233b83d06e",
             "raw_name": "MSUMI",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -83,7 +83,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "73e15e08-6f24-4c1c-b557-c2699e8fdede",
+            "id": "2cff60c4-a02a-4d5e-bd72-f3889814773f",
             "raw_name": "SONA",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -119,7 +119,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "54148b54-3365-45c9-aa41-73ee89b8acd5",
+            "id": "90d7c9d1-02a1-4885-baad-6dc47161df94",
             "raw_name": "UNO",
             "entity_type": "stock",
             "candidate_matches": [],

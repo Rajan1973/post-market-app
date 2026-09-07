@@ -47,7 +47,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "b184d95b-34c8-4e81-a87c-acd72e300749",
+            "id": "3e835c6e-59e6-45ce-bad0-366af426f76a",
             "raw_name": "HAL",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -111,7 +111,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "f0d37170-165d-4424-bd9c-215a0aa25132",
+            "id": "b097750b-a73b-4ee6-807f-59367980ab70",
             "raw_name": "MDL",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -147,7 +147,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "49e5624a-b431-45fd-a9e8-5e621fa77a8d",
+            "id": "d979498d-8a0a-4b6e-abb3-cc7929a5dea9",
             "raw_name": "SIL",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -183,7 +183,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "5aa38e32-e800-45b4-8451-085dc0550842",
+            "id": "facc6b76-fe7c-4243-9004-b3fe6c34a231",
             "raw_name": "BDL",
             "entity_type": "stock",
             "candidate_matches": [],
@@ -219,7 +219,7 @@
           "entity_id": null,
           "confidence": 0.0,
           "unresolved_record": {
-            "id": "019ad8a9-85e3-476d-be8e-cbeb1e5914fb",
+            "id": "5a7697d7-527f-4986-a0ca-903f77ad746b",
             "raw_name": "CSL",
             "entity_type": "stock",
             "candidate_matches": [],
