@@ -1,0 +1,120 @@
+{
+  "pilot_name": "Phase 2B 7-Report Pilot Manifest",
+  "total_reports": 7,
+  "reports": [
+    {
+      "filename": "2026-09-04-daily-brief.html",
+      "absolute_path": "D:\\Anti Gravity\\post-market-report\\reports\\rendered\\2026-09-04-daily-brief.html",
+      "sha256": "78458818cd11a64bb64912ae044129d23597ea4c8e5396d20413515f3df38d0c",
+      "size_bytes": 100770,
+      "report_type": "EOD Daily",
+      "report_date": "2026-09-04",
+      "parser_class": "EODReportParser",
+      "expected_stocks_count": 0,
+      "expected_sectors_count": 0,
+      "sample_stocks": [],
+      "sample_sectors": []
+    },
+    {
+      "filename": "2026-09-03-daily-brief.html",
+      "absolute_path": "D:\\Anti Gravity\\post-market-report\\reports\\rendered\\2026-09-03-daily-brief.html",
+      "sha256": "64b915b23aa7b578b2a396044c1c53a44a27d788c8f4568aee586ea24f49a341",
+      "size_bytes": 102035,
+      "report_type": "EOD Daily",
+      "report_date": "2026-09-03",
+      "parser_class": "EODReportParser",
+      "expected_stocks_count": 0,
+      "expected_sectors_count": 0,
+      "sample_stocks": [],
+      "sample_sectors": []
+    },
+    {
+      "filename": "2026-09-01-daily-brief.html",
+      "absolute_path": "D:\\Anti Gravity\\post-market-report\\reports\\rendered\\2026-09-01-daily-brief.html",
+      "sha256": "046db4d64df63a2cc8c730082869bf64057107fac8327b2204919cc9cdc063dd",
+      "size_bytes": 91561,
+      "report_type": "EOD Daily",
+      "report_date": "2026-09-01",
+      "parser_class": "EODReportParser",
+      "expected_stocks_count": 0,
+      "expected_sectors_count": 0,
+      "sample_stocks": [],
+      "sample_sectors": []
+    },
+    {
+      "filename": "2026-09-04-weekly-brief.html",
+      "absolute_path": "D:\\Anti Gravity\\post-market-report\\reports\\rendered\\2026-09-04-weekly-brief.html",
+      "sha256": "9f178d0581c946d647f7b721522bb81cfc6f8d23b75eb99ff3029e9fc5955925",
+      "size_bytes": 107822,
+      "report_type": "EOD Weekly",
+      "report_date": "2026-09-04",
+      "parser_class": "EODReportParser",
+      "expected_stocks_count": 0,
+      "expected_sectors_count": 0,
+      "sample_stocks": [],
+      "sample_sectors": []
+    },
+    {
+      "filename": "metals-mining-q1fy27-sector-review.html",
+      "absolute_path": "D:\\Anti Gravity\\stock-reports-with-Antigravity\\outputs\\metals-mining-q1fy27-sector-review.html",
+      "sha256": "2b29d78f4c5b9338a6dffabd39db7a5adb489c555cec9377482e262cf7d6cc54",
+      "size_bytes": 39896,
+      "report_type": "Sector Research",
+      "report_date": "2026-09-04",
+      "parser_class": "SectorReportParser",
+      "expected_stocks_count": 6,
+      "expected_sectors_count": 1,
+      "sample_stocks": [
+        "TATA",
+        "JSW",
+        "HAL",
+        "NMD",
+        "VED"
+      ],
+      "sample_sectors": [
+        "METALS & MINING"
+      ]
+    },
+    {
+      "filename": "gold-jewellery-q1fy27-sector-review.html",
+      "absolute_path": "D:\\Anti Gravity\\stock-reports-with-Antigravity\\outputs\\gold-jewellery-q1fy27-sector-review.html",
+      "sha256": "4a4ede16a22b7c44152ae3e5dfb34b3f8455ec006146244c04ff1f791a88b1a1",
+      "size_bytes": 34828,
+      "report_type": "Sector Research",
+      "report_date": "2026-09-04",
+      "parser_class": "SectorReportParser",
+      "expected_stocks_count": 4,
+      "expected_sectors_count": 1,
+      "sample_stocks": [
+        "TTN",
+        "KAL",
+        "SEN",
+        "TMY"
+      ],
+      "sample_sectors": [
+        "GOLD JEWELLERY RETAIL"
+      ]
+    },
+    {
+      "filename": "power-generation-q1fy27-sector-review.html",
+      "absolute_path": "D:\\Anti Gravity\\stock-reports-with-Antigravity\\outputs\\power-generation-q1fy27-sector-review.html",
+      "sha256": "9c9d62c4fa270835200a4b1ab268dc88aa7b4cecaad86db210f6c41948d4d691",
+      "size_bytes": 36988,
+      "report_type": "Sector Research",
+      "report_date": "2026-09-04",
+      "parser_class": "SectorReportParser",
+      "expected_stocks_count": 5,
+      "expected_sectors_count": 1,
+      "sample_stocks": [
+        "NTPC",
+        "TPW",
+        "JSWE",
+        "APW",
+        "TOR"
+      ],
+      "sample_sectors": [
+        "POWER GENERATION"
+      ]
+    }
+  ]
+}
