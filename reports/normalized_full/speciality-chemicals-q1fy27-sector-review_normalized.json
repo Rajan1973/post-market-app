@@ -1,0 +1,64 @@
+{
+  "report": {
+    "type": "sector",
+    "title": "Speciality Chemicals Sector Review",
+    "date": "2026-09-04",
+    "headline": "",
+    "standfirst": "",
+    "subtitle": "Institutional Equity Research \u2022 Q1 FY27 Sector Earnings Review",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "speciality-chemicals-q1fy27-sector-review.html",
+    "source_hash": "b80ad0a6fb4cc0626606c331eaef761a36626ccdcc18b3972452e4fe166939c0"
+  },
+  "sections": [],
+  "entities": {
+    "stocks": [],
+    "sectors": [
+      {
+        "name": "Speciality Chemicals",
+        "period": "Q1 FY27",
+        "source_locator": "speciality-chemicals-q1fy27-sector-review.html#head"
+      }
+    ],
+    "themes": []
+  },
+  "metrics": {
+    "market": [],
+    "stocks": [],
+    "sectors": [],
+    "flows": [],
+    "fno": [],
+    "flexible": [
+      {
+        "category": "scissor_analysis",
+        "entity": "SRF Ltd",
+        "source_locator": "speciality-chemicals-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Gujarat Fluorochem",
+        "source_locator": "speciality-chemicals-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Deepak Nitrite",
+        "source_locator": "speciality-chemicals-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Aarti Industries",
+        "source_locator": "speciality-chemicals-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Atul Ltd",
+        "source_locator": "speciality-chemicals-q1fy27-sector-review.html#.scissor"
+      }
+    ]
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}

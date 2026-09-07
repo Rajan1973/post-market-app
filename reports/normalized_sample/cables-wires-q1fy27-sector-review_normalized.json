@@ -1,0 +1,285 @@
+{
+  "report": {
+    "type": "sector",
+    "title": "CABLES & WIRES Sector Review",
+    "date": "2026-09-04",
+    "headline": "",
+    "standfirst": "",
+    "subtitle": "RAJAN SECTOR EARNINGS REVIEW \u2022 Q1 FY27 \u2022 SECTOR #1",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "cables-wires-q1fy27-sector-review.html",
+    "source_hash": "b2fbc8b40e3a6048f9586944771bb853d424b0ed17fbfdfa9518a2e66c12ba71"
+  },
+  "sections": [
+    {
+      "section_code": "thesis",
+      "section_title": "Sector Synthesis & Thesis",
+      "content": "The Indian Cables & Wires Sector is benefiting from a structural multi-decade capex super-cycle across\npower distribution grid upgrades, renewable energy evacuation, high-speed rail, and real estate construction\n. Organized players continue to gain market share from unorganized regional producers as compliance, NABL accreditation, and brand trust take priority.\nMarket leaders with\nEHV technology capabilities and global export reach\n(Polycab, Apar, KEI) possess strong pricing power, permitting 100% pass-through of copper price inflation while generating industry-leading ROCEs (>25%).",
+      "source_locator": "cables-wires-q1fy27-sector-review.html#.synth"
+    }
+  ],
+  "entities": {
+    "stocks": [
+      {
+        "symbol": "POL",
+        "company_name": "POL",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Sales (+21.0%)": "\u20b94,698 Cr",
+          "OPM (+180 bps)": "13.5%",
+          "Order Backlog": "\u20b911,200 Cr",
+          "Net Profit (+28.2%)": "\u20b9545 Cr"
+        },
+        "bullets": [
+          "Market leader with 24% organized market share; institutional power cables volume grew +16%.",
+          "FMEG segment losses narrowed significantly; retail distribution reach crossed 300,000 touchpoints.",
+          "Substantial net cash cushion of \u20b92,400 Cr backing ongoing greenfield capex in Halol."
+        ],
+        "flags": [
+          "24% Market Share",
+          "EHV Capability",
+          "Copper Price Risk"
+        ],
+        "source_locator": "cables-wires-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": true,
+          "entity_id": "b1bf252a-6ffd-5c36-b518-6b17975e2dad",
+          "confidence": 0.85,
+          "matched_alias": "POLYCAB"
+        }
+      },
+      {
+        "symbol": "APR",
+        "company_name": "APR",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Sales (+28.4%)": "\u20b94,280 Cr",
+          "OPM (+140 bps)": "11.8%",
+          "Export Revenue Share": "38%",
+          "Net Profit (+34.1%)": "\u20b9242 Cr"
+        },
+        "bullets": [
+          "Global conductor leader benefiting from US & European power grid modernization programs.",
+          "High-value Premium Conductor (AL59 & HEC) volume mix increased to 42%.",
+          "Freight cost increases absorbed through value-added product pricing power."
+        ],
+        "flags": [
+          "Global Conductor Titan",
+          "38% Export Share",
+          "Ocean Freight Volatility"
+        ],
+        "source_locator": "cables-wires-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "a058bfd9-f422-4307-ae7a-ecd9a2d45eb3",
+            "raw_name": "APR",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "b2fbc8b40e3a6048f9586944771bb853d424b0ed17fbfdfa9518a2e66c12ba71",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "KEI",
+        "company_name": "KEI",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Sales (+23.5%)": "\u20b92,440 Cr",
+          "OPM (+160 bps)": "11.2%",
+          "Order Backlog": "\u20b98,900 Cr",
+          "Net Profit (+25.4%)": "\u20b9178 Cr"
+        },
+        "bullets": [
+          "Extra High Voltage (EHV) cable orders expanded; Chinchpada greenfield capex on schedule.",
+          "Institutional EPC business share maintained at healthy ~18%, avoiding low-margin state discom tenders.",
+          "Working capital optimized to 62 days; net debt free balance sheet."
+        ],
+        "flags": [
+          "EHV Leadership",
+          "Zero Net Debt",
+          "Capacity Bottleneck"
+        ],
+        "source_locator": "cables-wires-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": true,
+          "entity_id": "de4ae66c-5357-5aad-a7ad-0d18a09297b9",
+          "confidence": 1.0,
+          "matched_alias": "KEI"
+        }
+      },
+      {
+        "symbol": "RRK",
+        "company_name": "RRK",
+        "guidance_delivery": "MISS",
+        "metrics": {
+          "Q1 Sales (+18.2%)": "\u20b91,805 Cr",
+          "OPM (-80 bps)": "7.4%",
+          "B2C Wires Revenue Mix": "65%",
+          "Net Profit (-8.5%)": "\u20b964 Cr"
+        },
+        "bullets": [
+          "Strong house wire volume growth (+22%), but overall OPM dragged by FMEG segment losses.",
+          "Retail trade channel inventory adjustments delayed copper price pass-through in Q1.",
+          "New cable capacity additions in Vadodara operational, preparing for H2 demand surge."
+        ],
+        "flags": [
+          "B2C House Wire Strength",
+          "FMEG Drag",
+          "Margin Pressure"
+        ],
+        "source_locator": "cables-wires-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": true,
+          "entity_id": "d8db8555-4fd1-5ebb-b1b1-70f587290c2f",
+          "confidence": 0.85,
+          "matched_alias": "RRKABEL"
+        }
+      },
+      {
+        "symbol": "FIN",
+        "company_name": "FIN",
+        "guidance_delivery": "IN-LINE",
+        "metrics": {
+          "Q1 Sales (+16.5%)": "\u20b91,310 Cr",
+          "OPM (+110 bps)": "11.4%",
+          "Net Cash Stack": "\u20b91,820 Cr",
+          "Net Profit (+12.8%)": "\u20b9142 Cr"
+        },
+        "bullets": [
+          "Electrical cables volume grew +14%; optic fiber cable (OFC) segment showed initial signs of recovery.",
+          "Strongest balance sheet stability in sector with >\u20b91,800 Cr net cash and zero debt.",
+          "Plant expansion in Urse for solar and auto cables nearing commercial trial runs."
+        ],
+        "flags": [
+          "\u20b91,800+ Cr Cash",
+          "Clean Balance Sheet",
+          "OFC Demand Drag"
+        ],
+        "source_locator": "cables-wires-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": true,
+          "entity_id": "e2b8668b-372d-502a-a582-551bc4f57f44",
+          "confidence": 0.85,
+          "matched_alias": "FINCABLES"
+        }
+      },
+      {
+        "symbol": "HAV",
+        "company_name": "HAV",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Sales (+20.1%)": "\u20b94,080 Cr",
+          "OPM (+120 bps)": "11.8%",
+          "Cables & Wires Share": "38%",
+          "Net Profit (+42.1%)": "\u20b9408 Cr"
+        },
+        "bullets": [
+          "Cables and wires division revenue reached \u20b91,550 Cr with solid 12.2% segment margins.",
+          "Lloyd air conditioner business turned EBITDA positive, supporting overall company earnings.",
+          "Unmatched omni-channel distribution network across India supporting brand premiumization."
+        ],
+        "flags": [
+          "Lloyd Turnaround",
+          "Distribution Moat",
+          "High P/E Valuation"
+        ],
+        "source_locator": "cables-wires-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": true,
+          "entity_id": "b55f1798-4eda-57a0-a5f2-7ff0d219cec5",
+          "confidence": 0.85,
+          "matched_alias": "HAVELLS"
+        }
+      }
+    ],
+    "sectors": [
+      {
+        "name": "CABLES & WIRES",
+        "period": "Q1 FY27",
+        "source_locator": "cables-wires-q1fy27-sector-review.html#head"
+      }
+    ],
+    "themes": []
+  },
+  "metrics": {
+    "market": [],
+    "stocks": [],
+    "sectors": [],
+    "flows": [],
+    "fno": [],
+    "flexible": [
+      {
+        "category": "scissor_analysis",
+        "entity": "Polycab India",
+        "source_locator": "cables-wires-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Apar Industries",
+        "source_locator": "cables-wires-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "KEI Industries",
+        "source_locator": "cables-wires-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "RR Kabel",
+        "source_locator": "cables-wires-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Finolex Cables",
+        "source_locator": "cables-wires-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Havells India",
+        "source_locator": "cables-wires-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TOP CONVICTION BUY",
+        "stock": "Polycab India",
+        "target": "Target: \u20b99,400 | Upside: +13%",
+        "rationale": "Dominant 24% market share, 25%+ ROCE, robust EHV expansion and strong net cash balance.",
+        "source_locator": "cables-wires-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "HIGH GROWTH BUY",
+        "stock": "KEI Industries",
+        "target": "Target: \u20b95,600 | Upside: +15%",
+        "rationale": "EHV power grid leader, zero net debt, Chinchpada capacity expansion providing 4-year growth visibility.",
+        "source_locator": "cables-wires-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "EXPORT TITAN BUY",
+        "stock": "Apar Industries",
+        "target": "Target: \u20b919,800 | Upside: +14%",
+        "rationale": "Global leader in high-efficiency conductors, benefiting from US/EU grid re-conductoring demand.",
+        "source_locator": "cables-wires-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TACTICAL ACCUMULATE",
+        "stock": "Finolex Cables",
+        "target": "Target: \u20b91,450 | Upside: +19%",
+        "rationale": "Deep valuation margin of safety at 23x P/E, backed by \u20b91,800+ Cr net cash and OFC recovery.",
+        "source_locator": "cables-wires-q1fy27-sector-review.html#.call"
+      }
+    ]
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}

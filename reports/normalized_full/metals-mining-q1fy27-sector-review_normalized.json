@@ -1,0 +1,309 @@
+{
+  "report": {
+    "type": "sector",
+    "title": "METALS & MINING Sector Review",
+    "date": "2026-09-04",
+    "headline": "",
+    "standfirst": "",
+    "subtitle": "RAJAN SECTOR EARNINGS REVIEW \u2022 Q1 FY27 \u2022 SECTOR #9",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "metals-mining-q1fy27-sector-review.html",
+    "source_hash": "2b29d78f4c5b9338a6dffabd39db7a5adb489c555cec9377482e262cf7d6cc54"
+  },
+  "sections": [
+    {
+      "section_code": "thesis",
+      "section_title": "Sector Synthesis & Thesis",
+      "content": "Indian Metals & Mining sector is insulated from global commodity weakness by\nstrong domestic infrastructure capex, automotive production growth, and government anti-dumping policy support\n.\nIntegrated producers with\n100% captive iron ore/coal assets (Tata Steel, JSPB, NMDC)\nand low-cost aluminium champions (\nHindalco\n) offer superior risk-reward profiles.",
+      "source_locator": "metals-mining-q1fy27-sector-review.html#.synth"
+    }
+  ],
+  "entities": {
+    "stocks": [
+      {
+        "symbol": "TATA",
+        "company_name": "TATA",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+11.5%)": "\u20b958,400 Cr",
+          "OPM (+160 bps)": "17.5%",
+          "India EBITDA / Tonne": "\u20b915,200",
+          "Net Profit (+35.2%)": "\u20b91,950 Cr"
+        },
+        "bullets": [
+          "India deliveries grew +9.8% YoY to 5.3 MT; Kalinganagar Phase-2 expansion ramping up smoothly.",
+          "100% captive iron ore security isolates India operations from merchant raw material price spikes.",
+          "UK blast furnace closure executed; green EAF capital grant secured from UK government."
+        ],
+        "flags": [
+          "100% Captive Ore",
+          "Kalinganagar Ramp-Up",
+          "Europe Restructuring"
+        ],
+        "source_locator": "metals-mining-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": true,
+          "entity_id": "785844aa-64ec-57e3-8c7b-dd0f917948b6",
+          "confidence": 0.85,
+          "matched_alias": "TATASTEEL"
+        }
+      },
+      {
+        "symbol": "JSW",
+        "company_name": "JSW",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+14.2%)": "44,800 Cr",
+          "OPM (+140 bps)": "18.1%",
+          "Steel Sales Volume": "6.35 MT",
+          "Net Profit (+28.4%)": "\u20b91,820 Cr"
+        },
+        "bullets": [
+          "Crude steel production reached 6.5 MT (+8% YoY); BSL & Vijayanagar expansion projects on track.",
+          "Value-added and special steel (VASP) share expanded to 62% of total sales volume.",
+          "Operationalizing captive iron ore mines in Odisha reducing merchant ore dependence."
+        ],
+        "flags": [
+          "Largest Indian Capacity",
+          "62% VASP Mix",
+          "Net Debt Level"
+        ],
+        "source_locator": "metals-mining-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": true,
+          "entity_id": "a0323599-b03e-522e-ba9e-c9899ba269e9",
+          "confidence": 0.85,
+          "matched_alias": "JSWSTEEL"
+        }
+      },
+      {
+        "symbol": "HAL",
+        "company_name": "HAL",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+13.8%)": "\u20b956,200 Cr",
+          "OPM (+210 bps)": "19.4%",
+          "Novelis EBITDA / Tonne": "$515/t",
+          "Net Profit (+41.2%)": "\u20b93,450 Cr"
+        },
+        "bullets": [
+          "Novelis FRP shipments stable with expanding beverage can & automotive sheet margins.",
+          "India Aluminium upstream EBITDA/tonne surged on higher LME prices ($2,450/t) and lower coal cost.",
+          "Copper business posted record quarterly EBITDA driven by high cathode and CC rod demand."
+        ],
+        "flags": [
+          "Novelis Cash Cow",
+          "Upstream Aluminium Moat",
+          "LME Price Dependency"
+        ],
+        "source_locator": "metals-mining-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "1a66064e-0f21-4a6c-bbe9-19dec5e84f8a",
+            "raw_name": "HAL",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "2b29d78f4c5b9338a6dffabd39db7a5adb489c555cec9377482e262cf7d6cc54",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "NMD",
+        "company_name": "NMD",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+18.5%)": "\u20b96,280 Cr",
+          "OPM (+240 bps)": "31.5%",
+          "Iron Ore Production": "11.8 MT",
+          "Net Profit (+31.5%)": "\u20b91,780 Cr"
+        },
+        "bullets": [
+          "Iron ore sales volume grew +12% YoY; domestic steel mill demand remained robust.",
+          "Realizations supported by high lump and fines prices in Bailadila and Donimalai sectors.",
+          "Slurry pipeline and pellet plant expansion projects progressing for cost optimization."
+        ],
+        "flags": [
+          "Lowest Cost Ore Producer",
+          "31.5% OPM",
+          "Royalties & Cess Exposure"
+        ],
+        "source_locator": "metals-mining-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "feabe37d-40d7-47b2-9bdd-a0fbb858211e",
+            "raw_name": "NMD",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "2b29d78f4c5b9338a6dffabd39db7a5adb489c555cec9377482e262cf7d6cc54",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "VED",
+        "company_name": "VED",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+10.2%)": "\u20b938,200 Cr",
+          "OPM (+190 bps)": "24.8%",
+          "Core Cash Contributor": "Hindustan Zinc",
+          "Net Profit (+36.8%)": "\u20b94,250 Cr"
+        },
+        "bullets": [
+          "Hindustan Zinc delivered stellar numbers driven by zinc/silver price rally.",
+          "Aluminium cost of production dropped 12% YoY due to captive coal and alumina refinery ramp-up.",
+          "Demerger into 6 independent listed entities advancing toward regulatory approvals."
+        ],
+        "flags": [
+          "High Dividend Yield",
+          "Low Cost Aluminium",
+          "Parent Debt Overhang"
+        ],
+        "source_locator": "metals-mining-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "eb82f060-3c2c-4f27-8458-2c8bb4554f3b",
+            "raw_name": "VED",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "2b29d78f4c5b9338a6dffabd39db7a5adb489c555cec9377482e262cf7d6cc54",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "JSP",
+        "company_name": "JSP",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+15.1%)": "\u20b914,500 Cr",
+          "OPM (+220 bps)": "21.2%",
+          "EBITDA / Tonne": "\u20b916,800",
+          "Net Profit (+38.5%)": "\u20b91,620 Cr"
+        },
+        "bullets": [
+          "Industry-leading EBITDA/tonne (\u20b916,800/t) driven by Angul expansion and captive coal mines.",
+          "Steel sales volume expanded +11% YoY; structural rail and plate mill sales strong.",
+          "Net Debt maintained under 1.2x EBITDA with continuous capital expenditure execution."
+        ],
+        "flags": [
+          "Peak EBITDA/t",
+          "Captive Coal Advantage",
+          "Capex Execution Pacing"
+        ],
+        "source_locator": "metals-mining-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "8bdb2f59-e256-4d24-b871-49ff79452d0b",
+            "raw_name": "JSP",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "2b29d78f4c5b9338a6dffabd39db7a5adb489c555cec9377482e262cf7d6cc54",
+            "status": "pending"
+          }
+        }
+      }
+    ],
+    "sectors": [
+      {
+        "name": "METALS & MINING",
+        "period": "Q1 FY27",
+        "source_locator": "metals-mining-q1fy27-sector-review.html#head"
+      }
+    ],
+    "themes": []
+  },
+  "metrics": {
+    "market": [],
+    "stocks": [],
+    "sectors": [],
+    "flows": [],
+    "fno": [],
+    "flexible": [
+      {
+        "category": "scissor_analysis",
+        "entity": "Tata Steel",
+        "source_locator": "metals-mining-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "JSW Steel",
+        "source_locator": "metals-mining-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Hindalco Industries",
+        "source_locator": "metals-mining-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "NMDC",
+        "source_locator": "metals-mining-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Vedanta",
+        "source_locator": "metals-mining-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Jindal Steel & Power",
+        "source_locator": "metals-mining-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TOP CONVICTION BUY",
+        "stock": "Hindalco Industries",
+        "target": "Target: \u20b91,210 | Upside: +19.7%",
+        "rationale": "Novelis cash generation, low-cost upstream aluminium, surging copper division EBITDA.",
+        "source_locator": "metals-mining-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "HIGH QUALITY BUY",
+        "stock": "Jindal Steel & Power",
+        "target": "Target: \u20b91,380 | Upside: +18.5%",
+        "rationale": "Peak \u20b916,800/t EBITDA, captive coal security, disciplined balance sheet (Net Debt < 1.2x).",
+        "source_locator": "metals-mining-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "ACCUMULATE",
+        "stock": "Tata Steel",
+        "target": "Target: \u20b9220 | Upside: +16.5%",
+        "rationale": "100% captive iron ore, Kalinganagar 5 MTPA volume ramp-up, UK blast furnace exit.",
+        "source_locator": "metals-mining-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TACTICAL WATCH",
+        "stock": "NMDC",
+        "target": "Target: \u20b9102 | Upside: +20.4%",
+        "rationale": "Lowest cost ore producer, 31.5% OPM, watch for monsoon dispatches and pellet plant commissioning.",
+        "source_locator": "metals-mining-q1fy27-sector-review.html#.call"
+      }
+    ]
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}

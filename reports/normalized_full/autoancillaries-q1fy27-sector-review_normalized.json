@@ -1,0 +1,196 @@
+{
+  "report": {
+    "type": "sector",
+    "title": "AUTO ANCILLARIES Sector Review",
+    "date": "2026-09-04",
+    "headline": "",
+    "standfirst": "",
+    "subtitle": "RAJAN SECTOR EARNINGS REVIEW \u2022 Q1 FY27",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "autoancillaries-q1fy27-sector-review.html",
+    "source_hash": "d43ce0897dd6a69ad453fc9782bd78dfa7123402245814bc1f887c13bbd06961"
+  },
+  "sections": [
+    {
+      "section_code": "thesis",
+      "section_title": "Sector Synthesis & Thesis",
+      "content": "Indian Auto Ancillaries are riding a massive structural tailwind driven by\nvehicle premiumization, EV component localization, and global supply chain diversification\n.\nTechnology leaders like\nSona BLW\nand\nMotherson Sumi\nremain high-conviction institutional compounders.",
+      "source_locator": "autoancillaries-q1fy27-sector-review.html#.synth"
+    }
+  ],
+  "entities": {
+    "stocks": [
+      {
+        "symbol": "MSUMI",
+        "company_name": "MSUMI",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+28.5%)": "\u20b928,500 Cr",
+          "OPM (+160 bps)": "10.5%",
+          "Order Book": "\u20b962,000 Cr",
+          "Net Profit (+42.5%)": "\u20b9985 Cr"
+        },
+        "bullets": [
+          "Wiring harness and vision systems volume grew +25% YoY supported by global OEM production.",
+          "Non-auto diversification (aerospace, medical devices, logistics) scaling contribution.",
+          "Net debt to EBITDA reduced below 1.4x with strong operating cash flow."
+        ],
+        "flags": [
+          "Wiring Harness Leader",
+          "M&A Synergies",
+          "EU OEM Production Risk"
+        ],
+        "source_locator": "autoancillaries-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "24b10a38-f60c-4838-a4db-21f9284180c5",
+            "raw_name": "MSUMI",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "d43ce0897dd6a69ad453fc9782bd78dfa7123402245814bc1f887c13bbd06961",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "SONA",
+        "company_name": "SONA",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+32.1%)": "\u20b91,120 Cr",
+          "OPM (+220 bps)": "28.4%",
+          "EV Order Mix": "79%",
+          "Net Profit (+38.2%)": "\u20b9185 Cr"
+        },
+        "bullets": [
+          "Industry-best EBITDA margin (28.4%) driven by proprietary EV differential assembly tech.",
+          "EV revenue contribution reached 36% of total sales; order book stands at \u20b922,500 Cr.",
+          "Escorts Kubota tractor gear acquisition integration boosting domestic agriculture revenues."
+        ],
+        "flags": [
+          "28.4% Peak OPM",
+          "Pure-Play EV Moat",
+          "High Valuation Multiple"
+        ],
+        "source_locator": "autoancillaries-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "73e15e08-6f24-4c1c-b557-c2699e8fdede",
+            "raw_name": "SONA",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "d43ce0897dd6a69ad453fc9782bd78dfa7123402245814bc1f887c13bbd06961",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "UNO",
+        "company_name": "UNO",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+24.0%)": "\u20b93,820 Cr",
+          "OPM (+140 bps)": "11.8%",
+          "Order Book": "\u20b915,000 Cr",
+          "Net Profit (+28.4%)": "\u20b9245 Cr"
+        },
+        "bullets": [
+          "Switches, alloy wheels, and lighting systems posted 20%+ top-line growth.",
+          "EV motor controller and BMS joint venture expanding commercial dispatches.",
+          "Content per vehicle expanded 18% YoY in passenger vehicle segment."
+        ],
+        "flags": [
+          "Lighting & Switch Leader",
+          "JV Ecosystem",
+          "Capex Gestation"
+        ],
+        "source_locator": "autoancillaries-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "54148b54-3365-45c9-aa41-73ee89b8acd5",
+            "raw_name": "UNO",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "d43ce0897dd6a69ad453fc9782bd78dfa7123402245814bc1f887c13bbd06961",
+            "status": "pending"
+          }
+        }
+      }
+    ],
+    "sectors": [
+      {
+        "name": "AUTO ANCILLARIES",
+        "period": "Q1 FY27",
+        "source_locator": "autoancillaries-q1fy27-sector-review.html#head"
+      }
+    ],
+    "themes": []
+  },
+  "metrics": {
+    "market": [],
+    "stocks": [],
+    "sectors": [],
+    "flows": [],
+    "fno": [],
+    "flexible": [
+      {
+        "category": "scissor_analysis",
+        "entity": "Motherson Sumi",
+        "source_locator": "autoancillaries-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Sona BLW",
+        "source_locator": "autoancillaries-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Uno Minda",
+        "source_locator": "autoancillaries-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Endurance Tech",
+        "source_locator": "autoancillaries-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Bosch",
+        "source_locator": "autoancillaries-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TOP CONVICTION BUY",
+        "stock": "Sona BLW Precision",
+        "target": "Target: \u20b9820 | Upside: +18.5%",
+        "rationale": "28.4% peak OPM, 79% EV order mix, differential gear technological monopoly.",
+        "source_locator": "autoancillaries-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "HIGH QUALITY BUY",
+        "stock": "Motherson Sumi",
+        "target": "Target: \u20b9225 | Upside: +19.2%",
+        "rationale": "\u20b962,000 Cr order book, global wiring harness leadership, M&A integration success.",
+        "source_locator": "autoancillaries-q1fy27-sector-review.html#.call"
+      }
+    ]
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}

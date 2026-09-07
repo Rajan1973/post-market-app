@@ -1,0 +1,191 @@
+{
+  "report": {
+    "type": "sector",
+    "title": "BEARINGS SECTOR Sector Review",
+    "date": "2026-09-04",
+    "headline": "",
+    "standfirst": "",
+    "subtitle": "RAJAN SECTOR EARNINGS REVIEW \u2022 Q1 FY27",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "bearings-q1fy27-sector-review.html",
+    "source_hash": "b6912e133e8bd701be9f290f85790544749fdb4d20384f3e115b829ecfa379f9"
+  },
+  "sections": [
+    {
+      "section_code": "thesis",
+      "section_title": "Sector Synthesis & Thesis",
+      "content": "Indian Bearings sector is a prime beneficiary of\nindustrial capital expenditure, railway modernization, and wind energy localization\n.\nTechnology powerhouses\nTimken India\nand\nSchaeffler India\npossess immense pricing power and durable competitive moats.",
+      "source_locator": "bearings-q1fy27-sector-review.html#.synth"
+    }
+  ],
+  "entities": {
+    "stocks": [
+      {
+        "symbol": "SCH",
+        "company_name": "SCH",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+18.2%)": "\u20b92,120 Cr",
+          "OPM (+150 bps)": "19.4%",
+          "Industrial Revenue Mix": "48%",
+          "Net Profit (+24.5%)": "\u20b9265 Cr"
+        },
+        "bullets": [
+          "Industrial division dispatches surged +22% YoY driven by wind energy and railway orders.",
+          "Hosur new plant capacity operating at 85%+ utilization rate.",
+          "Export dispatches to Europe and Americas scaling cleanly."
+        ],
+        "flags": [
+          "Wind Energy Leader",
+          "19.4% OPM",
+          "MNC Royalty Cost"
+        ],
+        "source_locator": "bearings-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "aa93c93d-44f1-4065-8ec5-1ee369cf6e7c",
+            "raw_name": "SCH",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "b6912e133e8bd701be9f290f85790544749fdb4d20384f3e115b829ecfa379f9",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "SKF",
+        "company_name": "SKF",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+14.5%)": "\u20b91,280 Cr",
+          "OPM (+110 bps)": "17.5%",
+          "Automotive Mix": "52%",
+          "Net Profit (+18.2%)": "\u20b9158 Cr"
+        },
+        "bullets": [
+          "Automotive OEM and aftermarket divisions posted steady double-digit top-line growth.",
+          "Industrial aftermarket distribution network expansion across Tier-2/3 industrial hubs.",
+          "Predictive maintenance software (RecondOil & Rotation For Life) scaling client subscriptions."
+        ],
+        "flags": [
+          "Aftermarket Network Moat",
+          "Predictive Maintenance",
+          "Passenger Auto Exposure"
+        ],
+        "source_locator": "bearings-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "733fa073-f28c-485d-8fbd-574ea3a2c3bb",
+            "raw_name": "SKF",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "b6912e133e8bd701be9f290f85790544749fdb4d20384f3e115b829ecfa379f9",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "TMK",
+        "company_name": "TMK",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+19.8%)": "\u20b9880 Cr",
+          "OPM (+180 bps)": "21.2%",
+          "Railway Order Mix": "35%",
+          "Net Profit (+31.2%)": "\u20b9128 Cr"
+        },
+        "bullets": [
+          "Indian Railways freight car cartridge tapered roller bearing order execution at record high.",
+          "Bharuch spherical roller bearing plant expansion operational.",
+          "Highest sector OPM (21.2%) due to high-precision heavy industrial product mix."
+        ],
+        "flags": [
+          "21.2% Peak OPM",
+          "Railway Moat",
+          "High Client Concentration"
+        ],
+        "source_locator": "bearings-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "7703e95e-994f-482d-b51f-a2a5dafc69b1",
+            "raw_name": "TMK",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "b6912e133e8bd701be9f290f85790544749fdb4d20384f3e115b829ecfa379f9",
+            "status": "pending"
+          }
+        }
+      }
+    ],
+    "sectors": [
+      {
+        "name": "BEARINGS SECTOR",
+        "period": "Q1 FY27",
+        "source_locator": "bearings-q1fy27-sector-review.html#head"
+      }
+    ],
+    "themes": []
+  },
+  "metrics": {
+    "market": [],
+    "stocks": [],
+    "sectors": [],
+    "flows": [],
+    "fno": [],
+    "flexible": [
+      {
+        "category": "scissor_analysis",
+        "entity": "Schaeffler India",
+        "source_locator": "bearings-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "SKF India",
+        "source_locator": "bearings-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Timken India",
+        "source_locator": "bearings-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "NRB Bearings",
+        "source_locator": "bearings-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TOP CONVICTION BUY",
+        "stock": "Timken India",
+        "target": "Target: \u20b94,150 | Upside: +18.5%",
+        "rationale": "21.2% peak OPM, Indian Railways freight monopoly, Bharuch plant export expansion.",
+        "source_locator": "bearings-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "HIGH QUALITY BUY",
+        "stock": "Schaeffler India",
+        "target": "Target: \u20b94,420 | Upside: +17.8%",
+        "rationale": "Wind energy leader, 19.4% OPM, Hosur plant capacity expansion trigger.",
+        "source_locator": "bearings-q1fy27-sector-review.html#.call"
+      }
+    ]
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}

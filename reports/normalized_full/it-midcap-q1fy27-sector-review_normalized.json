@@ -1,0 +1,284 @@
+{
+  "report": {
+    "type": "sector",
+    "title": "IT MIDCAP Sector Review",
+    "date": "2026-09-04",
+    "headline": "",
+    "standfirst": "",
+    "subtitle": "RAJAN SECTOR EARNINGS REVIEW \u2022 Q1 FY27 \u2022 SECTOR #8",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "it-midcap-q1fy27-sector-review.html",
+    "source_hash": "d4e17554017fc25ef53249537082763b34325fa91ddf815a2965bfd824361256"
+  },
+  "sections": [
+    {
+      "section_code": "thesis",
+      "section_title": "Sector Synthesis & Thesis",
+      "content": "Indian IT Midcaps are outperforming tier-1 IT giants by specializing in high-growth niches:\nSoftware Product Engineering (Persistent), Travel & Insurance IT (Coforge), and Automotive ER&D (KPIT)\n.\nWith offshore utilization expanding and GenAI production implementation deal wins accelerating, top-tier midcap IT stocks remain prime institutional compounders.",
+      "source_locator": "it-midcap-q1fy27-sector-review.html#.synth"
+    }
+  ],
+  "entities": {
+    "stocks": [
+      {
+        "symbol": "PSYS",
+        "company_name": "PSYS",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+18.5%)": "\u20b93,020 Cr",
+          "EBIT Margin (+140 bps)": "15.2%",
+          "Q1 TCV Intake": "$510 M",
+          "Net Profit (+26.1%)": "\u20b9390 Cr"
+        },
+        "bullets": [
+          "Software, Hi-Tech & Emerging Verticals grew +21% YoY; Healthcare & Life Sciences up +19%.",
+          "GenAI engineering contracts forming over 15% of new ACV deal wins.",
+          "Employee attrition reduced to 11.2% with utilization expanding to 83.5%."
+        ],
+        "flags": [
+          "Product Eng Leader",
+          "$500M+ TCV Run Rate",
+          "High Valuation Multiple"
+        ],
+        "source_locator": "it-midcap-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "4473eed2-2066-4b65-89fb-1db55268a260",
+            "raw_name": "PSYS",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "d4e17554017fc25ef53249537082763b34325fa91ddf815a2965bfd824361256",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "COF",
+        "company_name": "COF",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+21.2%)": "\u20b92,840 Cr",
+          "EBIT Margin (+110 bps)": "14.5%",
+          "Q1 TCV Intake": "$465 M",
+          "Net Profit (+24.5%)": "\u20b9275 Cr"
+        },
+        "bullets": [
+          "Travel, Transportation & Hospitality vertical led growth (+25% YoY); BFS sector grew +18%.",
+          "Cigniti integration synergy unlocking enterprise QA and testing deal wins.",
+          "Order book executable over 12 months reached record $1.08 Billion."
+        ],
+        "flags": [
+          "Travel Moat",
+          "Cigniti Synergies",
+          "Integration Integration Costs"
+        ],
+        "source_locator": "it-midcap-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "b9a526f9-2a19-4133-b1d8-a96b3cce158a",
+            "raw_name": "COF",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "d4e17554017fc25ef53249537082763b34325fa91ddf815a2965bfd824361256",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "LTIM",
+        "company_name": "LTIM",
+        "guidance_delivery": "IN-LINE",
+        "metrics": {
+          "Q1 Revenue (+11.8%)": "\u20b99,420 Cr",
+          "EBIT Margin (+80 bps)": "18.2%",
+          "Q1 TCV Intake": "$1,420 M",
+          "Net Profit (+14.2%)": "\u20b91,280 Cr"
+        },
+        "bullets": [
+          "BFSI and Manufacturing verticals seeing broad-based deal flow recovery across US & EU.",
+          "Highest EBIT margin (18.2%) among midcap IT group due to operating scale.",
+          "Large deal pipeline remains healthy with 3 mega-deals signed in Q1."
+        ],
+        "flags": [
+          "Largest Tier-2 IT Scale",
+          "18.2% EBIT Margin",
+          "Slower Growth vs Midcaps"
+        ],
+        "source_locator": "it-midcap-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "5556f0a2-fc87-499a-a8d5-d140ca69df1f",
+            "raw_name": "LTIM",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "d4e17554017fc25ef53249537082763b34325fa91ddf815a2965bfd824361256",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "MPH",
+        "company_name": "MPH",
+        "guidance_delivery": "IN-LINE",
+        "metrics": {
+          "Q1 Revenue (+10.5%)": "\u20b93,560 Cr",
+          "EBIT Margin (+60 bps)": "15.8%",
+          "Q1 TCV Intake": "$355 M",
+          "Net Profit (+12.8%)": "\u20b9415 Cr"
+        },
+        "bullets": [
+          "Direct International business revenue grew +11.2% YoY; DXC channel steady.",
+          "US Regional Banking and Logistics verticals showing sequential bottoming.",
+          "Generative AI architecture deal wins in mortgage and wealth management segments."
+        ],
+        "flags": [
+          "Mortgage Recovery",
+          "Direct Channel Scale",
+          "BFSI Concentration"
+        ],
+        "source_locator": "it-midcap-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "0b956c15-0872-49ac-84f2-387b23c2746a",
+            "raw_name": "MPH",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "d4e17554017fc25ef53249537082763b34325fa91ddf815a2965bfd824361256",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "KPIT",
+        "company_name": "KPIT",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+24.0%)": "\u20b91,480 Cr",
+          "EBIT Margin (+180 bps)": "20.5%",
+          "Q1 TCV Intake": "$260 M",
+          "Net Profit (+38.2%)": "\u20b9215 Cr"
+        },
+        "bullets": [
+          "Pure-play Automotive ER&D leader; software defined vehicle (SDV) demand surging.",
+          "Highest sector EBIT margin (20.5%) driven by high-value offshore architecture engineering.",
+          "Multi-year strategic engineering partnerships with top European & Asian automotive OEMs."
+        ],
+        "flags": [
+          "Pure-Play Auto ER&D",
+          "20.5% Peak Margin",
+          "Client Concentration"
+        ],
+        "source_locator": "it-midcap-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "ec3fef10-b436-4296-8978-06d5802ed40e",
+            "raw_name": "KPIT",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "d4e17554017fc25ef53249537082763b34325fa91ddf815a2965bfd824361256",
+            "status": "pending"
+          }
+        }
+      }
+    ],
+    "sectors": [
+      {
+        "name": "IT MIDCAP",
+        "period": "Q1 FY27",
+        "source_locator": "it-midcap-q1fy27-sector-review.html#head"
+      }
+    ],
+    "themes": []
+  },
+  "metrics": {
+    "market": [],
+    "stocks": [],
+    "sectors": [],
+    "flows": [],
+    "fno": [],
+    "flexible": [
+      {
+        "category": "scissor_analysis",
+        "entity": "Persistent Systems",
+        "source_locator": "it-midcap-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Coforge",
+        "source_locator": "it-midcap-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "LTIMindtree",
+        "source_locator": "it-midcap-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Mphasis",
+        "source_locator": "it-midcap-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "KPIT Tech",
+        "source_locator": "it-midcap-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TOP CONVICTION BUY",
+        "stock": "Persistent Systems",
+        "target": "Target: \u20b96,450 | Upside: +17.5%",
+        "rationale": "Product engineering market leader, GenAI deal momentum, consistent 18%+ CC growth delivery.",
+        "source_locator": "it-midcap-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "HIGH GROWTH BUY",
+        "stock": "KPIT Technologies",
+        "target": "Target: \u20b92,150 | Upside: +19.4%",
+        "rationale": "Pure-play Auto ER&D moat, 20.5% peak EBIT margin, Software Defined Vehicle tailwinds.",
+        "source_locator": "it-midcap-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "ACCUMULATE",
+        "stock": "Coforge",
+        "target": "Target: \u20b99,200 | Upside: +16.8%",
+        "rationale": "Travel/BFS vertical strength, $1.08B executable order book, Cigniti acquisition synergies.",
+        "source_locator": "it-midcap-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TACTICAL ACCUMULATE",
+        "stock": "LTIMindtree",
+        "target": "Target: \u20b96,950 | Upside: +14.2%",
+        "rationale": "Largest midcap scale ($1.42B TCV intake), 18.2% EBIT margin, steady tier-1 market share capture.",
+        "source_locator": "it-midcap-q1fy27-sector-review.html#.call"
+      }
+    ]
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}

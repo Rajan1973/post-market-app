@@ -1,0 +1,284 @@
+{
+  "report": {
+    "type": "sector",
+    "title": "DIAGNOSTIC CHAINS Sector Review",
+    "date": "2026-09-04",
+    "headline": "",
+    "standfirst": "",
+    "subtitle": "RAJAN SECTOR EARNINGS REVIEW \u2022 Q1 FY27 \u2022 SECTOR #4",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "diagnostic-chains-q1fy27-sector-review.html",
+    "source_hash": "a65f8974ddd6b447a96b240b01afd6a8e735694872e2b6877c56d217e9a99f1d"
+  },
+  "sections": [
+    {
+      "section_code": "thesis",
+      "section_title": "Sector Synthesis & Thesis",
+      "content": "The Indian Diagnostic Industry is undergoing a healthy structural shift towards\norganized regional and national chains\n. Unorganized standalone labs (~60% market share) continue to lose ground due to rising NABL accreditation standards, expensive automated equipment costs, and consumer preference for brand reliability post-pandemic.\nWith price wars from online aggregators subsiding, growth is now anchored on\nvolume expansion, specialized genomic testing, and bundled preventive health checkups\n. Companies with integrated radiology-pathology offerings (Vijaya) or scale-driven low cost processing (Thyrocare, Dr Lal) are best positioned to deliver superior ROCE (>25%).",
+      "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.synth"
+    }
+  ],
+  "entities": {
+    "stocks": [
+      {
+        "symbol": "LAL",
+        "company_name": "LAL",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+13.2%)": "\u20b9602 Cr",
+          "OPM (+220 bps)": "28.4%",
+          "Patients Served": "7.2M",
+          "Net Profit (+28.5%)": "\u20b9134 Cr"
+        },
+        "bullets": [
+          "B2C revenue share reached 70%, backed by Suburban Diagnostics acquisition integration in Tier-2/3 West markets.",
+          "'SwasthFit' wellness package revenue surged +24% YoY, pushing realization per patient to \u20b9835.",
+          "Net cash balance of \u20b91,150 Cr provides flexibility for further regional bolt-on acquisitions."
+        ],
+        "flags": [
+          "Market Leader",
+          "SwasthFit Growth",
+          "Suburban Integration Drag"
+        ],
+        "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "a5960743-100e-45c1-a741-31c05614a602",
+            "raw_name": "LAL",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "a65f8974ddd6b447a96b240b01afd6a8e735694872e2b6877c56d217e9a99f1d",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "MET",
+        "company_name": "MET",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+15.1%)": "\u20b9352 Cr",
+          "OPM (+180 bps)": "26.8%",
+          "Patients Served": "3.8M",
+          "Net Profit (+31.2%)": "\u20b948 Cr"
+        },
+        "bullets": [
+          "Specialized testing share expanded to 39% of total revenues (driven by oncology and autoimmune panels).",
+          "'TruHealth' wellness brand grew +28% YoY; B2C revenue contribution reached 64%.",
+          "Expanded lab network by 30 new collection centers in Q1 across South and West India."
+        ],
+        "flags": [
+          "39% Specialized Mix",
+          "B2C Pivot",
+          "B2B Price Competition"
+        ],
+        "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "1cfe4812-5a06-4f4e-a50f-a304e980f3be",
+            "raw_name": "MET",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "a65f8974ddd6b447a96b240b01afd6a8e735694872e2b6877c56d217e9a99f1d",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "VIJ",
+        "company_name": "VIJ",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+18.5%)": "\u20b9160 Cr",
+          "OPM (+260 bps)": "39.2%",
+          "Integrated Hubs": "155",
+          "Net Profit (+34.0%)": "\u20b938 Cr"
+        },
+        "bullets": [
+          "Industry-leading OPM (39.2%) driven by simultaneous MRI/CT imaging & pathology hub-and-spoke model.",
+          "Recent acquisition of PH Diagnostic in Pune expanding presence beyond core Andhra/Telangana market.",
+          "High realization per patient (\u20b91,420) owing to heavy advanced radiology component."
+        ],
+        "flags": [
+          "39.2% Industry Peak OPM",
+          "Integrated Radiology",
+          "Regional Concentration"
+        ],
+        "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "c61baece-32cf-4473-8603-aaf946c23fe1",
+            "raw_name": "VIJ",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "a65f8974ddd6b447a96b240b01afd6a8e735694872e2b6877c56d217e9a99f1d",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "THY",
+        "company_name": "THY",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+16.8%)": "\u20b9188 Cr",
+          "OPM (+240 bps)": "25.1%",
+          "Tests Processed": "28.5M",
+          "Net Profit (+42.1%)": "\u20b928 Cr"
+        },
+        "bullets": [
+          "Franchise & API B2B volume growth accelerated following API Holdings (PharmEasy) operational synergy integration.",
+          "Cost per test optimization drove significant margin leverage at central processing laboratory (CPL) in Navi Mumbai.",
+          "Phlebotomist network expansion improving sample pickup turnaround time across Tier-2/3 towns."
+        ],
+        "flags": [
+          "Lowest Cost Producer",
+          "Volume Leader",
+          "Parent Debt Overhang"
+        ],
+        "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "49479ad2-3e37-4afd-be8a-387b4ba1f10f",
+            "raw_name": "THY",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "a65f8974ddd6b447a96b240b01afd6a8e735694872e2b6877c56d217e9a99f1d",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "KRS",
+        "company_name": "KRS",
+        "guidance_delivery": "IN-LINE",
+        "metrics": {
+          "Q1 Revenue (+21.4%)": "\u20b9175 Cr",
+          "OPM (+120 bps)": "24.2%",
+          "PPP Tele-Radiology Hubs": "2,400+",
+          "Net Profit (+18.5%)": "\u20b922 Cr"
+        },
+        "bullets": [
+          "PPP contract implementation in Punjab, Maharashtra, and Assam driving volume expansion in CT/MRI tele-radiology.",
+          "Capital expenditure on new government hospital diagnostic centers on track.",
+          "Receivables days slightly stretched due to delayed state government invoice disbursements."
+        ],
+        "flags": [
+          "Highest Topline Growth",
+          "Tele-Radiology Scale",
+          "State Govt Receivable Risk"
+        ],
+        "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "2b280240-5055-4755-81e5-2e6a03f39de3",
+            "raw_name": "KRS",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "a65f8974ddd6b447a96b240b01afd6a8e735694872e2b6877c56d217e9a99f1d",
+            "status": "pending"
+          }
+        }
+      }
+    ],
+    "sectors": [
+      {
+        "name": "DIAGNOSTIC CHAINS",
+        "period": "Q1 FY27",
+        "source_locator": "diagnostic-chains-q1fy27-sector-review.html#head"
+      }
+    ],
+    "themes": []
+  },
+  "metrics": {
+    "market": [],
+    "stocks": [],
+    "sectors": [],
+    "flows": [],
+    "fno": [],
+    "flexible": [
+      {
+        "category": "scissor_analysis",
+        "entity": "Dr Lal PathLabs",
+        "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Metropolis Healthcare",
+        "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Vijaya Diagnostic",
+        "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Thyrocare Tech",
+        "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Krsnaa Diagnostics",
+        "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TOP CONVICTION BUY",
+        "stock": "Vijaya Diagnostic",
+        "target": "Target: \u20b91,780 | Upside: +19%",
+        "rationale": "Industry-leading 39% OPM, unique radiology-pathology hub moat, strong balance sheet with high ROCE.",
+        "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "QUALITY COMPOUNDER",
+        "stock": "Dr Lal PathLabs",
+        "target": "Target: \u20b92,250 | Upside: +20%",
+        "rationale": "Market leader in North India, SwasthFit package momentum, high net cash cushion for strategic M&A.",
+        "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "ACCUMULATE",
+        "stock": "Metropolis Healthcare",
+        "target": "Target: \u20b9710 | Upside: +21%",
+        "rationale": "Surging specialized test mix (39%), TruHealth brand traction, expanding presence in West & South India.",
+        "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TACTICAL WATCH",
+        "stock": "Krsnaa Diagnostics",
+        "target": "Target: Neutral | Range: \u20b9520-610",
+        "rationale": "Monitor state government receivable clearance cycles before initiating aggressive long positions.",
+        "source_locator": "diagnostic-chains-q1fy27-sector-review.html#.call"
+      }
+    ]
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}

@@ -1,0 +1,243 @@
+{
+  "report": {
+    "type": "sector",
+    "title": "GOLD JEWELLERY RETAIL Sector Review",
+    "date": "2026-09-04",
+    "headline": "",
+    "standfirst": "",
+    "subtitle": "RAJAN SECTOR EARNINGS REVIEW \u2022 Q1 FY27 \u2022 SECTOR #6",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "gold-jewellery-q1fy27-sector-review.html",
+    "source_hash": "4a4ede16a22b7c44152ae3e5dfb34b3f8455ec006146244c04ff1f791a88b1a1"
+  },
+  "sections": [
+    {
+      "section_code": "thesis",
+      "section_title": "Sector Synthesis & Thesis",
+      "content": "The Indian Gold Jewellery Retail Sector is undergoing a major structural tailwind. The\n6% custom import duty reduction\ndrastically narrows the price gap between official channel gold and unorganized market imports, driving massive market share transfer to\norganized national chains (Tanishq, Kalyan, Senco)\n.\nWith high-margin\nstudded and diamond jewellery mix expanding past 30%\n, and companies scaling via asset-light franchise models (FOCO), organized jewellers are set for superior earnings compounding over FY27-FY28.",
+      "source_locator": "gold-jewellery-q1fy27-sector-review.html#.synth"
+    }
+  ],
+  "entities": {
+    "stocks": [
+      {
+        "symbol": "TTN",
+        "company_name": "TTN",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+22.5%)": "\u20b913,250 Cr",
+          "OPM (+140 bps)": "11.2%",
+          "Studded Ratio": "34.5%",
+          "Net Profit (+24.1%)": "\u20b9975 Cr"
+        },
+        "bullets": [
+          "Tanishq domestic buyer growth accelerated +18% YoY; added 25 new stores in Q1 alone.",
+          "CaratLane revenue surged +32% YoY with high contribution from young urban consumers.",
+          "Watches & Eyewear business posted steady 12%+ top-line growth with margin expansion."
+        ],
+        "flags": [
+          "Gold Standard Brand",
+          "Tanishq Monopoly",
+          "Duty Adjustment Drag"
+        ],
+        "source_locator": "gold-jewellery-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "159f2839-4db6-40bc-a27a-c738a9ba1928",
+            "raw_name": "TTN",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "4a4ede16a22b7c44152ae3e5dfb34b3f8455ec006146244c04ff1f791a88b1a1",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "KAL",
+        "company_name": "KAL",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+31.2%)": "\u20b95,580 Cr",
+          "OPM (+180 bps)": "8.4%",
+          "FOCO Store Share": "30%",
+          "Net Profit (+48.5%)": "\u20b9210 Cr"
+        },
+        "bullets": [
+          "Non-South market expansion under FOCO asset-light model driving industry-leading revenue growth (+31.2%).",
+          "Candere digital-first brand physical showroom expansion on track.",
+          "Middle East operations posted robust 16% revenue growth with improved operating margins."
+        ],
+        "flags": [
+          "FOCO Model Champion",
+          "Highest Revenue Growth",
+          "GML Interest Cost"
+        ],
+        "source_locator": "gold-jewellery-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "009d7489-a2e0-4701-8fd3-f9d39653dc4e",
+            "raw_name": "KAL",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "4a4ede16a22b7c44152ae3e5dfb34b3f8455ec006146244c04ff1f791a88b1a1",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "SEN",
+        "company_name": "SEN",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+26.4%)": "\u20b91,850 Cr",
+          "OPM (+120 bps)": "9.1%",
+          "Studded Share": "31.2%",
+          "Net Profit (+34.2%)": "\u20b958 Cr"
+        },
+        "bullets": [
+          "Dominant market share in East India; expanding rapidly in North and Central India regions.",
+          "Diamond & studded jewellery sales grew +29% YoY, boosting gross margin profile.",
+          "Gold rate reduction resulting in sharp increase in footfalls and advance gold scheme enrollment."
+        ],
+        "flags": [
+          "East India Leader",
+          "Studded Growth",
+          "Regional Concentration"
+        ],
+        "source_locator": "gold-jewellery-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "0aed5cdf-2867-44cd-a686-815b50305d53",
+            "raw_name": "SEN",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "4a4ede16a22b7c44152ae3e5dfb34b3f8455ec006146244c04ff1f791a88b1a1",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "TMY",
+        "company_name": "TMY",
+        "guidance_delivery": "IN-LINE",
+        "metrics": {
+          "Q1 Revenue (+19.1%)": "\u20b91,320 Cr",
+          "OPM (+90 bps)": "12.1%",
+          "Tamil Nadu Outlets": "60+",
+          "Net Profit (+21.5%)": "\u20b942 Cr"
+        },
+        "bullets": [
+          "Strong brand equity in Tier-2/3 Tamil Nadu towns driving steady footfall growth.",
+          "Highest sector OPM (12.1%) due to high proportion of high-margin traditional gold jewellery.",
+          "New mega-store launch in Chennai achieving rapid operational break-even."
+        ],
+        "flags": [
+          "12.1% Peak OPM",
+          "Tier 2/3 Tamil Nadu Moat",
+          "Single State Concentration"
+        ],
+        "source_locator": "gold-jewellery-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "9384a25f-f412-4ce5-be29-6acf47cd49d9",
+            "raw_name": "TMY",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "4a4ede16a22b7c44152ae3e5dfb34b3f8455ec006146244c04ff1f791a88b1a1",
+            "status": "pending"
+          }
+        }
+      }
+    ],
+    "sectors": [
+      {
+        "name": "GOLD JEWELLERY RETAIL",
+        "period": "Q1 FY27",
+        "source_locator": "gold-jewellery-q1fy27-sector-review.html#head"
+      }
+    ],
+    "themes": []
+  },
+  "metrics": {
+    "market": [],
+    "stocks": [],
+    "sectors": [],
+    "flows": [],
+    "fno": [],
+    "flexible": [
+      {
+        "category": "scissor_analysis",
+        "entity": "Titan Company",
+        "source_locator": "gold-jewellery-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Kalyan Jewellers",
+        "source_locator": "gold-jewellery-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Senco Gold",
+        "source_locator": "gold-jewellery-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Thangamayil Jewellery",
+        "source_locator": "gold-jewellery-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TOP CONVICTION BUY",
+        "stock": "Titan Company",
+        "target": "Target: \u20b95,850 | Upside: +16.5%",
+        "rationale": "Gold standard retail franchise, Tanishq brand dominance, CaratLane growth engine.",
+        "source_locator": "gold-jewellery-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "HIGH GROWTH BUY",
+        "stock": "Kalyan Jewellers",
+        "target": "Target: \u20b9710 | Upside: +18.5%",
+        "rationale": "Asset-light FOCO model driving +31% revenue growth, non-South market expansion champion.",
+        "source_locator": "gold-jewellery-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "ACCUMULATE",
+        "stock": "Senco Gold",
+        "target": "Target: \u20b9425 | Upside: +18.5%",
+        "rationale": "East India leader, surging studded mix (31.2%), rapid Pan-India store expansion.",
+        "source_locator": "gold-jewellery-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TACTICAL WATCH",
+        "stock": "Thangamayil Jewellery",
+        "target": "Target: Neutral | Range: \u20b95,100-5,700",
+        "rationale": "High 12.1% OPM, watch for successful diversification outside Tamil Nadu core market.",
+        "source_locator": "gold-jewellery-q1fy27-sector-review.html#.call"
+      }
+    ]
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}

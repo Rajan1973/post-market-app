@@ -1,0 +1,145 @@
+{
+  "report": {
+    "type": "sector",
+    "title": "POWER TRANSMISSION Sector Review",
+    "date": "2026-09-04",
+    "headline": "",
+    "standfirst": "",
+    "subtitle": "RAJAN SECTOR EARNINGS REVIEW \u2022 Q1 FY27 \u2022 SECTOR #13",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "power-transmission-q1fy27-sector-review.html",
+    "source_hash": "47f982e8bc64ad8fa35d8efd7d868d3a3065c44532bc7a9395b636b3ad6d5e73"
+  },
+  "sections": [
+    {
+      "section_code": "thesis",
+      "section_title": "Sector Synthesis & Thesis",
+      "content": "Power Transmission is India's most defensible utility sub-sector, characterized by\nmonopolistic assets, guaranteed 15.5% ROE regulated structures, and near-zero volume risk\n.\nMarket leader\nPower Grid Corporation\nstands as the ultimate low-risk dividend and equity compounder in the Indian power sector.",
+      "source_locator": "power-transmission-q1fy27-sector-review.html#.synth"
+    }
+  ],
+  "entities": {
+    "stocks": [
+      {
+        "symbol": "PGC",
+        "company_name": "PGC",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+14.2%)": "\u20b911,850 Cr",
+          "OPM (+120 bps)": "87.8%",
+          "System Availability": "99.88%",
+          "Net Profit (+18.5%)": "\u20b94,120 Cr"
+        },
+        "bullets": [
+          "Regulated equity base expanded to \u20b988,000+ Cr, securing guaranteed 15.5% post-tax ROE.",
+          "Won 65%+ of recent TBCB inter-state transmission projects tendered by Ministry of Power.",
+          "Telecom (Powertel) and Smart Meter Consultancy divisions scaling non-transmission revenue."
+        ],
+        "flags": [
+          "National Grid Monopoly",
+          "87.8% OPM",
+          "Capex Gestation Pace"
+        ],
+        "source_locator": "power-transmission-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "c1baa6c6-7245-4573-b464-261ce9d4fbb0",
+            "raw_name": "PGC",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "47f982e8bc64ad8fa35d8efd7d868d3a3065c44532bc7a9395b636b3ad6d5e73",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "AES",
+        "company_name": "AES",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+24.5%)": "\u20b94,850 Cr",
+          "Transmission OPM (+190 bps)": "84.5%",
+          "Network Length": "21,100 ckm",
+          "Net Profit (+32.4%)": "\u20b9545 Cr"
+        },
+        "bullets": [
+          "Largest private power transmission player in India with fast execution track record.",
+          "Mumbai Distribution utility business delivered operational efficiency with low T&D losses.",
+          "Smart Metering order book (21M+ meters) expanding under AMISP concessions."
+        ],
+        "flags": [
+          "Largest Private Transco",
+          "Fast Execution",
+          "Leverage Ratio"
+        ],
+        "source_locator": "power-transmission-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "c59d33c1-0fb0-4521-8a4a-5d369ab8cf77",
+            "raw_name": "AES",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "47f982e8bc64ad8fa35d8efd7d868d3a3065c44532bc7a9395b636b3ad6d5e73",
+            "status": "pending"
+          }
+        }
+      }
+    ],
+    "sectors": [
+      {
+        "name": "POWER TRANSMISSION",
+        "period": "Q1 FY27",
+        "source_locator": "power-transmission-q1fy27-sector-review.html#head"
+      }
+    ],
+    "themes": []
+  },
+  "metrics": {
+    "market": [],
+    "stocks": [],
+    "sectors": [],
+    "flows": [],
+    "fno": [],
+    "flexible": [
+      {
+        "category": "scissor_analysis",
+        "entity": "Power Grid Corp",
+        "source_locator": "power-transmission-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Adani Energy Solutions",
+        "source_locator": "power-transmission-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TOP CONVICTION BUY",
+        "stock": "Power Grid Corp",
+        "target": "Target: \u20b9315 | Upside: +18.4%",
+        "rationale": "87.8% OPM, 99.88% grid availability, 15.5% post-tax ROE regulated equity compounding.",
+        "source_locator": "power-transmission-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "HIGH GROWTH BUY",
+        "stock": "Adani Energy Solutions",
+        "target": "Target: \u20b91,680 | Upside: +19.2%",
+        "rationale": "Largest private transco (+24.5% growth), RE corridor execution, expanding smart meter pipeline.",
+        "source_locator": "power-transmission-q1fy27-sector-review.html#.call"
+      }
+    ]
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}

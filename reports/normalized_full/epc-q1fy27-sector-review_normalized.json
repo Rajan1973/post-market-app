@@ -1,0 +1,64 @@
+{
+  "report": {
+    "type": "sector",
+    "title": "EPC Infrastructure Sector Review",
+    "date": "2026-09-04",
+    "headline": "",
+    "standfirst": "",
+    "subtitle": "Institutional Equity Research \u2022 Q1 FY27 Sector Earnings Review",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "epc-q1fy27-sector-review.html",
+    "source_hash": "b0532733cc465d943b5bd0cf15a2884c6bf7d39b6f514d5dba33231116a753b5"
+  },
+  "sections": [],
+  "entities": {
+    "stocks": [],
+    "sectors": [
+      {
+        "name": "EPC Infrastructure",
+        "period": "Q1 FY27",
+        "source_locator": "epc-q1fy27-sector-review.html#head"
+      }
+    ],
+    "themes": []
+  },
+  "metrics": {
+    "market": [],
+    "stocks": [],
+    "sectors": [],
+    "flows": [],
+    "fno": [],
+    "flexible": [
+      {
+        "category": "scissor_analysis",
+        "entity": "Larsen & Toubro",
+        "source_locator": "epc-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Kalpataru Projects",
+        "source_locator": "epc-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Afcons Infra",
+        "source_locator": "epc-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Engineers India",
+        "source_locator": "epc-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "PNC Infratech",
+        "source_locator": "epc-q1fy27-sector-review.html#.scissor"
+      }
+    ]
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}

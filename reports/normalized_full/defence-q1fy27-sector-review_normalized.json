@@ -1,0 +1,327 @@
+{
+  "report": {
+    "type": "sector",
+    "title": "DEFENCE Sector Review",
+    "date": "2026-09-04",
+    "headline": "",
+    "standfirst": "",
+    "subtitle": "RAJAN SECTOR EARNINGS REVIEW \u2022 Q1 FY27 \u2022 SECTOR #3",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "defence-q1fy27-sector-review.html",
+    "source_hash": "952f276ffbec4ded87b2d4d98531d07daa027d84f5b356cc1466b632df112b87"
+  },
+  "sections": [
+    {
+      "section_code": "thesis",
+      "section_title": "Sector Synthesis & Thesis",
+      "content": "The Indian Defence Sector is in the midst of a multi-year structural super-cycle driven by the government's aggressive\nIndigenisation Negative Import Lists\nand an ambitious defence export target of\n\u20b950,000 Cr by FY29\n. With combined order books exceeding\n\u20b93.82 Lakh Cr\n(4.8x book-to-bill), revenue visibility is guaranteed for the next 4 to 6 years.\nHowever, performance is bifurcating between\nsystem integrators with high ROH/service content\n(HAL, BEL, Mazagon Dock) which enjoy structurally higher OPMs (24%-29%), and\npure missile/ammunition assembly players\n(BDL) subject to import component choke points and inventory delays.",
+      "source_locator": "defence-q1fy27-sector-review.html#.synth"
+    }
+  ],
+  "entities": {
+    "stocks": [
+      {
+        "symbol": "HAL",
+        "company_name": "HAL",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Sales (+26.8%)": "\u20b95,515 Cr",
+          "OPM (+180 bps)": "27.7%",
+          "Order Backlog": "\u20b994,000 Cr",
+          "Net Profit (+10.3%)": "\u20b91,578 Cr"
+        },
+        "bullets": [
+          "Repair & Overhaul (ROH) contributed 51.3% of revenue with steady ~32% EBITDA margins.",
+          "Tejas Mk1A delivery ramp-up underway; initial engine integration bottleneck easing.",
+          "Substantial cash reserves of >\u20b924,000 Cr generating high interest income (\u20b9900 Cr in Q1)."
+        ],
+        "flags": [
+          "Zero Debt",
+          "ROH Margin Driver",
+          "Engine Delivery Risk"
+        ],
+        "source_locator": "defence-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "b184d95b-34c8-4e81-a87c-acd72e300749",
+            "raw_name": "HAL",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "952f276ffbec4ded87b2d4d98531d07daa027d84f5b356cc1466b632df112b87",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "BEL",
+        "company_name": "BEL",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Sales (+20.1%)": "\u20b94,280 Cr",
+          "OPM (+210 bps)": "28.6%",
+          "Order Backlog": "\u20b976,500 Cr",
+          "Net Profit (+21.8%)": "\u20b9945 Cr"
+        },
+        "bullets": [
+          "Strong execution across Akash Air Defence Systems, Radar Upgrades, and Naval Sonars.",
+          "Non-defence revenue mix maintained at ~10% (electronic voting machines, medical electronics).",
+          "Working capital optimized to 135 days; stellar ROCE profile exceeding 32%."
+        ],
+        "flags": [
+          "32%+ ROCE",
+          "Radar Leadership",
+          "Receivables Rise"
+        ],
+        "source_locator": "defence-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": true,
+          "entity_id": "d8db8555-4fd1-5ebb-b1b1-70f587290c2f",
+          "confidence": 0.85,
+          "matched_alias": "RRKABEL"
+        }
+      },
+      {
+        "symbol": "MDL",
+        "company_name": "MDL",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Sales (+34.2%)": "\u20b93,180 Cr",
+          "OPM (+320 bps)": "24.1%",
+          "Order Backlog": "\u20b938,200 Cr",
+          "Net Profit (+41.5%)": "\u20b9620 Cr"
+        },
+        "bullets": [
+          "Project 15B Destroyers and Project 17A Frigates milestone recognition accelerated in Q1.",
+          "Submarine overhaul (P-75 Kalvari class) driving high-margin repair income.",
+          "Massive interest income from MoD advance buyer deposits."
+        ],
+        "flags": [
+          "Submarine Monopoly",
+          "High Cash Balance",
+          "Lumpy Order Inflow"
+        ],
+        "source_locator": "defence-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "f0d37170-165d-4424-bd9c-215a0aa25132",
+            "raw_name": "MDL",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "952f276ffbec4ded87b2d4d98531d07daa027d84f5b356cc1466b632df112b87",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "SIL",
+        "company_name": "SIL",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Sales (+28.5%)": "\u20b91,985 Cr",
+          "OPM (+150 bps)": "25.4%",
+          "Order Backlog": "\u20b95,100 Cr",
+          "Net Profit (+32.1%)": "\u20b9342 Cr"
+        },
+        "bullets": [
+          "Defence segment revenue surged +65% YoY driven by Pinaka rockets and military explosives.",
+          "Export shipments to European and Middle Eastern defence clients growing rapidly.",
+          "Commercial explosives pricing stable; raw material input costs well pass-through."
+        ],
+        "flags": [
+          "Pinaka Rocket Spike",
+          "Export Surge",
+          "Ammonium Nitrate Price Risk"
+        ],
+        "source_locator": "defence-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "49e5624a-b431-45fd-a9e8-5e621fa77a8d",
+            "raw_name": "SIL",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "952f276ffbec4ded87b2d4d98531d07daa027d84f5b356cc1466b632df112b87",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "BDL",
+        "company_name": "BDL",
+        "guidance_delivery": "MISS",
+        "metrics": {
+          "Q1 Sales (+14.2%)": "\u20b91,180 Cr",
+          "OPM (-120 bps)": "19.8%",
+          "Order Backlog": "\u20b919,800 Cr",
+          "Net Profit (-5.2%)": "\u20b9185 Cr"
+        },
+        "bullets": [
+          "Execution delayed by sub-component supply delays for Astra & Helina missile systems.",
+          "OPM contracted due to adverse product mix and higher raw material consumption.",
+          "Export order pipeline for Akash systems provides strong multi-year visibility."
+        ],
+        "flags": [
+          "Akash Export Driver",
+          "Component Bottleneck",
+          "Margin Compression"
+        ],
+        "source_locator": "defence-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "5aa38e32-e800-45b4-8451-085dc0550842",
+            "raw_name": "BDL",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "952f276ffbec4ded87b2d4d98531d07daa027d84f5b356cc1466b632df112b87",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "CSL",
+        "company_name": "CSL",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Sales (+31.0%)": "\u20b91,520 Cr",
+          "OPM (+240 bps)": "22.5%",
+          "Order Backlog": "\u20b922,400 Cr",
+          "Net Profit (+38.2%)": "\u20b9275 Cr"
+        },
+        "bullets": [
+          "Ship repair division posted record turnover; dry dock utilization reached 92%.",
+          "Next-Gen Missile Vessel (NGMV) construction gaining operational speed.",
+          "European commercial green vessel orders contributing ~15% to total order book."
+        ],
+        "flags": [
+          "Ship Repair High Margin",
+          "Commercial Exports",
+          "Execution Timeline Risk"
+        ],
+        "source_locator": "defence-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "019ad8a9-85e3-476d-be8e-cbeb1e5914fb",
+            "raw_name": "CSL",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "952f276ffbec4ded87b2d4d98531d07daa027d84f5b356cc1466b632df112b87",
+            "status": "pending"
+          }
+        }
+      }
+    ],
+    "sectors": [
+      {
+        "name": "DEFENCE",
+        "period": "Q1 FY27",
+        "source_locator": "defence-q1fy27-sector-review.html#head"
+      }
+    ],
+    "themes": []
+  },
+  "metrics": {
+    "market": [],
+    "stocks": [],
+    "sectors": [],
+    "flows": [],
+    "fno": [],
+    "flexible": [
+      {
+        "category": "scissor_analysis",
+        "entity": "Hindustan Aero",
+        "source_locator": "defence-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Bharat Electronics",
+        "source_locator": "defence-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Mazagon Dock",
+        "source_locator": "defence-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Solar Industries",
+        "source_locator": "defence-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Bharat Dynamics",
+        "source_locator": "defence-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Cochin Shipyard",
+        "source_locator": "defence-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "GRSE",
+        "source_locator": "defence-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Data Patterns",
+        "source_locator": "defence-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TOP CONVICTION BUY",
+        "stock": "Bharat Electronics",
+        "target": "Target: \u20b9465 | Upside: +15%",
+        "rationale": "Dominant position in radar & electronic warfare, 32%+ ROCE, net debt free with strong order visibility.",
+        "source_locator": "defence-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "ACCUMULATE ON DIPS",
+        "stock": "Hindustan Aeronautics",
+        "target": "Target: \u20b95,450 | Upside: +12%",
+        "rationale": "High ROH margin cushion, monopoly in Indian fighter aircraft manufacturing, massive interest income base.",
+        "source_locator": "defence-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "HIGH GROWTH BUY",
+        "stock": "Solar Industries",
+        "target": "Target: \u20b924,200 | Upside: +13%",
+        "rationale": "Pinaka rocket export surge, private sector defense champion gaining domestic ammo market share.",
+        "source_locator": "defence-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TACTICAL WATCH",
+        "stock": "Bharat Dynamics",
+        "target": "Target: Neutral | Range: \u20b91,150-1,350",
+        "rationale": "Wait for supply chain engine & component bottlenecks to clear before re-entering position.",
+        "source_locator": "defence-q1fy27-sector-review.html#.call"
+      }
+    ]
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}

@@ -1,0 +1,531 @@
+{
+  "report": {
+    "type": "eod",
+    "title": "NIFTY & BEYOND",
+    "date": "2026-09-01",
+    "headline": "Read the composition, not the number.The score rose3.4 points to 42.5, and almost all of that came from one component: institutional flow jumped as foreign investors turned buyers. Breadth actually gotworsein the same session. Strip volatility out and the score reads37.9. So the improvement is real but narrow \u2014 one input carried it while the input that measures participation deteriorated.",
+    "standfirst": "",
+    "subtitle": "What the index doesn't tell you  \u00b7  NSE  \u00b7  Tuesday, 1 September 2026",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "2026-09-01-daily-brief.html",
+    "source_hash": "046db4d64df63a2cc8c730082869bf64057107fac8327b2204919cc9cdc063dd"
+  },
+  "sections": [
+    {
+      "section_code": "s1",
+      "section_number": 1,
+      "section_title": "Executive Scorecard",
+      "section_group": "A",
+      "content": "\u00a71\nExecutive Scorecard\nEquity\nNifty 50\n24,055.80\n\u221224.60 \u00b7 \u22120.10%\nSensex\n76,944.28\n\u221212.99 \u00b7 \u22120.02%\nNifty Bank\n57,409.60\n\u2212615.35 \u00b7 \u22121.06%\nIndia VIX\n11.49\n+0.30\nFII net \u00b7 cash\n+1,143.38\n\u20b9 Cr\nDII net \u00b7 cash\n+1,846.94\n\u20b9 Cr\nBreadth \u00b7 N500\n193:302\nA/D 0.64\nCommodities\nBrent crude\n$91.28\n+0.87%\nGold (MCX)\n\u2014\nnot retrieved\nSilver (MCX)\n\u2014\nnot retrieved\nAluminium (MCX)\n\u2014\nnot retrieved\nCopper (MCX)\n\u2014\nnot retrieved\n\ud83d\udcca\nTechnicals:\nThe index barely moved \u2014 Nifty \u20110.10% to 24,055.80 \u2014 and that is the most misleading number on the page. Underneath, the share of Nifty 500 stocks above their 20\u2011day average fell from\n41% to 33%\nin a single session.\n\ud83d\udcc8\nDomestic:\nDamage was concentrated, not broad.\nNifty Bank \u20111.06%\nand\nMidcap 100 \u20111.39%\n, with Shriram Finance \u20114.58% and Maruti \u20114.41% among the heaviest large-cap losers. IT was the only sector adding participation.\n\ud83c\udf0d\nGlobal:\nUS\u2013Iran hostilities resumed after a month of calm. US forces struck Larak Island, Iran hit targets in the UAE and Jordan, and a supertanker caught fire on mines in the Strait of Hormuz.\nBrent rose 0.87% to $91.28\n, a second straight day higher.\n\ud83d\udcb0\nFlows:\nForeign investors\nflipped to buyers\n, +\u20b91,143.38 Cr after yesterday's \u20b97,985.88 Cr sale. Domestic institutions added \u20b91,846.94 Cr. Read it with care \u2014 expiry day distorts a single session's flow.\n\u26a1\nEvent:\nWeekly expiry settled at\n24,055.80\n, inside the 24,000\u201324,200 band this report projected yesterday. The Adani names rebounded, which was the specific test we set for whether Monday's collapse was mechanical.",
+      "source_locator": "2026-09-01-daily-brief.html#s1"
+    },
+    {
+      "section_code": "s2",
+      "section_number": 2,
+      "section_title": "Market Regime",
+      "section_group": "A",
+      "content": "\u00a72\nMarket Regime\nComposite\n42.5\nNeutral\nExcluding volatility\n37.9\nsame inputs, vol removed\nInput\nWeight\nReading\nScore\nWhat this means\nBreadth\n0.30\n42.4% >50D \u00b7 A/D 0.64\n28.9\nUnder half the Nifty 500 \u2014 42.4% \u2014 is above its 50-day average, and only 193 stocks rose against 302 that fell. This is the weakest component on the board and has been for three sessions.\nTrend\n0.25\n-2.37% vs 200D\n38.1\nThe Nifty sits\n2.37% below its own 200-day average\n, the market's long-run anchor, and has drifted slightly further below it since yesterday. A direct calculation, not a ranking.\nMomentum\n0.20\nA/D ratio 0.64\n34.8\nToday's advance-to-decline ratio of 0.64 was weaker than on about two-thirds of the last 246 sessions. Better than yesterday's 0.56, but still firmly negative.\nInstitutionalFlow\n0.15\nFII 28/36 \u00b7 DII 16/36\n59.8\nThe one component that improved sharply.\nForeign investors bought today, ranking 28th of 36 sessions from the most negative \u2014 a normal day rather than an extreme one. Yesterday they ranked dead last. Domestic buying was modest by their own recent standard.\nVolatility\n0.10\nATR 0.73% of price\n83.8\nThe market has been calmer than on all but about 40 of the last 250 days. Calm scores high here, but the average daily range has not widened even as oil climbs and banks fall \u2014 the quiet is in the index, not in the stocks underneath it.\nRead the composition, not the number.\nThe score rose\n3.4 points to 42.5\n, and almost all of that came from one component: institutional flow jumped as foreign investors turned buyers. Breadth actually got\nworse\nin the same session. Strip volatility out and the score reads\n37.9\n. So the improvement is real but narrow \u2014 one input carried it while the input that measures participation deteriorated.",
+      "source_locator": "2026-09-01-daily-brief.html#s2"
+    },
+    {
+      "section_code": "s3",
+      "section_number": 3,
+      "section_title": "What's Unusual Today",
+      "section_group": "A",
+      "content": "\u00a73\nWhat's Unusual Today\nNifty IT participation jumped 60 points in five sessions\n1 of 24\nThe largest single-sector rotation this report has recorded. The share of IT stocks above their 20-day average went from a small minority to a clear majority inside a week. IT was also the only sector to gain participation today while every other one lost it.\nVardhman Textiles +5.29% on 36.5\u00d7 normal volume\nThe most extreme volume reading in the entire universe by a wide margin \u2014 more than double the next highest. A move this size on that much volume is a crowd arriving in one session, not a drift.\nEngineers India +6.94% on 15.7\u00d7 volume\nSecond-heaviest volume expansion of the day, and the top gainer among construction names.\nCaplin Point +7.7% on 11.2\u00d7 volume\nThe day's largest gain, on the third-heaviest volume \u2014 and notable because healthcare was otherwise the day's second-worst sector at \u20111.60%.\nNifty ATR still 0.73% of price\n41 of 250\nThe average daily range has not widened at all, through an oil shock, a bank selloff and an expiry. Realised volatility remains near the calm end of 250 sessions while the market's internals deteriorate \u2014 a divergence worth watching rather than trusting.\nBoth FII and DII bought on the same session\n28 of 36\nForeign +\u20b91,143.38 Cr and domestic +\u20b91,846.94 Cr. After four sessions of the two pulling in opposite directions, they agreed today \u2014 though expiry-day mechanics make one session a weak signal.\nWelspun Corp +6.8%, and in both momentum tables\nA name entering momentum today that is also already in a confirmed weekly trend. Only two stocks qualify for both.\nKEI Industries \u20116.83%, Polycab \u20115.82%\nThe two largest cable and wire names fell together and led the losers, a sector-specific move rather than part of the broad decline.\nGraphite India +4.32% on 5.8\u00d7 volume\nPart of a scattered bid in capital goods that ran counter to the day's direction.\nNifty 500 advance/decline at 0.64\n86 of 246\nBetter than yesterday's 0.56 but still two fallers for every three risers \u2014 on a day the index closed almost unchanged. The flat headline hides three consecutive sessions of negative breadth.\nRanked by how unusual each reading is against its own history, not by which number is largest. Window lengths are in the pack; ranks shown as position out of window.",
+      "source_locator": "2026-09-01-daily-brief.html#s3"
+    },
+    {
+      "section_code": "s4",
+      "section_number": 4,
+      "section_title": "Macro &amp; Policy Dashboard",
+      "section_group": "B",
+      "content": "\u00a74\nMacro &amp; Policy Dashboard\nUS\u2013Iran hostilities resume\nESCALATION\n1 Sep 2026 \u00b7 Strait of Hormuz\nUS forces struck two Iranian rocket launchers on Larak Island; Iran responded with attacks on the UAE and Jordan.\nA supertanker caught fire after striking naval mines in the southern Strait of Hormuz, per Iranian state media.\nThis ends roughly a month of relative calm and revives the risk of disruption to a corridor carrying a large share of seaborne crude.\nTrader implication:\nthis is now a live, unscheduled variable. There is no release date to position around, which is precisely what makes it hard to hedge.\nBrent above $91\nSECOND DAY UP\n1 Sep 2026 \u00b7 +0.87% to $91.28\nUp from $90.69 yesterday and $88.29 on Friday \u2014 roughly\n3.4% in two sessions\n.\nIndia imports the overwhelming majority of its crude. Every dollar widens the trade deficit and pressures the rupee.\nDirect margin pressure for paints, tyres, aviation, chemicals and logistics; a tailwind only for upstream producers.\nTrader implication:\noil has now outweighed a 7.8% GDP print two sessions running. Watch it before anything domestic.\nWeekly expiry settled\nAS PROJECTED\nTue 1 Sep \u00b7 Nifty weekly options\nSettled at\n24,055.80\n, inside the 24,000\u201324,200 band yesterday's report gave the pin scenario at ~55%.\nMax pain was 24,100; the close came 44 points below it \u2014 near the pin rather than exactly on it.\nThe 24,000 put floor was tested intraday for a second straight session (low 23,952.55) and held into the close.\nTrader implication:\nthe next weekly expiry is Tuesday 8 September, and the Sensex weekly settles Thursday 3 September on the BSE.",
+      "source_locator": "2026-09-01-daily-brief.html#s4"
+    },
+    {
+      "section_code": "s5",
+      "section_number": 5,
+      "section_title": "Global Cues, Currency &amp; Commodities",
+      "section_group": "B",
+      "content": "\u00a75\nGlobal Cues, Currency &amp; Commodities\nInstrument\nLevel\nChange\nWhat it means for Indian equities\nBrent crude\n$91.28\n+0.87%\nThe dominant variable.\nSecond straight rise; directly negative for the import bill, the rupee and input costs\nDow Jones\n53,006.90\n\u20110.34%\nSettled after India closed \u2014 a cue for tomorrow, not a driver of today\nNasdaq Composite\n26,133.64\n\u20110.90%\nTech sold on the same Iran headline; a mild negative for Indian IT tomorrow after its strong run\nUSD/INR\n\u2014\nnot retrieved\nNot available at publication \u2014 rising oil normally weakens the rupee\nDollar index (DXY)\n\u2014\nnot retrieved\nNot available at publication\nUS 10Y yield\n\u2014\nnot retrieved\nNot available at publication\nUS closes settle\nafter\nthe Indian market shuts \u2014 cues for the\nnext\nsession, not drivers of this one. The exception today is oil: the Hormuz escalation broke during Indian hours, so Brent was a live input rather than an overnight one.",
+      "source_locator": "2026-09-01-daily-brief.html#s5"
+    },
+    {
+      "section_code": "s6",
+      "section_number": 6,
+      "section_title": "Index Market Structure",
+      "section_group": "C",
+      "content": "\u00a76\nIndex Market Structure\n6a \u00b7 The index board\nIndex\nClose\n1D %\n1W %\n1M %\n3M %\nNIFTY 50\n24,055.80\n\u22120.10\n\u22121.15\n\u22121.34\n+2.88\nNIFTY 100\n25,157.40\n\u22120.31\n\u22121.34\n\u22121.29\n+3.13\nNIFTY 500\n23,339.90\n\u22120.47\n\u22121.15\n\u22120.51\n+4.02\nNIFTY MIDCAP 100\n63,334.50\n\u22121.39\n\u22121.29\n+0.67\n+4.12\nNIFTY SMLCAP 100\n19,886.25\n\u22120.23\n\u22120.10\n+2.83\n+10.60\nNIFTY NEXT 50\n72,874.75\n\u22121.20\n\u22122.19\n\u22121.05\n+4.22\nNifty 50 day:\nopen 24,077.55 \u00b7 high 24,143.15 \u00b7 low 23,952.55 \u00b7 close 24,055.80 \u00b7 range 190.60 pts, closing in\nthe middle\nof it.\nTable shows 1M trailing, not month-to-date (MTD).\n6b \u00b7 Sector performance\nSector\n1D %\n1W\n1M\n3M\nNIFTY METAL\n\u22120.03\n\u22121.4%\n+3.7%\n\u22122.3%\nNIFTY IT\n+0.98\n+2.4%\n+2.6%\n+5.5%\nNIFTY PSU BANK\n\u22121.21\n\u22121.1%\n+1.7%\n+6.2%\nNIFTY PHARMA\n\u22121.45\n+0.9%\n+1.0%\n+10.7%\nNIFTY PVT BANK\n\u22120.87\n+1.1%\n+0.9%\n+6.5%\nNIFTY BANK\n\u22121.06\n\u22120.2%\n+0.2%\n+7.0%\nNIFTY HEALTHCARE\n\u22121.60\n+0.4%\n\u22120.5%\n+9.2%\nNIFTY CONSR DURBL\n\u22121.40\n\u22122.4%\n\u22120.5%\n+15.6%\nNIFTY AUTO\n\u22121.22\n\u22122.5%\n\u22120.9%\n+10.0%\nNIFTY OIL AND GAS\n+0.35\n\u22120.7%\n\u22120.9%\n\u22120.1%\nNIFTY REALTY\n\u22121.42\n\u22122.9%\n\u22121.1%\n+16.0%\nNIFTY FIN SERVICE\n\u22121.10\n\u22120.9%\n\u22122.2%\n+4.0%\nNIFTY MEDIA\n+0.26\n\u22123.0%\n\u22123.5%\n+9.4%\nNIFTY FMCG\n+0.94\n\u22122.6%\n\u22125.4%\n\u22123.7%\nAll Indices Ranked by 1-month return.\nThe index board understates the day badly. Nifty fell 0.10% while\nMidcap 100 fell 1.39%\nand Next 50 fell 1.20% \u2014 the damage was one layer below the headline index.",
+      "source_locator": "2026-09-01-daily-brief.html#s6"
+    },
+    {
+      "section_code": "s7",
+      "section_number": 7,
+      "section_title": "Breadth &amp; Participation",
+      "section_group": "C",
+      "content": "\u00a77\nBreadth &amp; Participation\nIndex\nA/D\nToday\nA/D\nD-1\nA/D\nD-2\nA/D\n1W ago\n%>20D\nToday\n%>20D\nD-1\n%>20D\nD-2\n%>20D\n1W ago\nNIFTY 100\n(100)\n0.53\n0.67\n1.00\n1.94\n26\n42\n37\n42\nNIFTY 200\n(200)\n0.45\n0.79\n0.78\n1.82\n28\n46\n39\n47\nNIFTY 50\n(50)\n0.67\n0.67\n1.58\n2.13\n26\n36\n28\n36\nNIFTY 500\n(500)\n0.64\n0.56\n0.83\n1.02\n33\n41\n41\n45\nNIFTY AUTO\n(15)\n0.36\n0.75\n0.50\n2.00\n20\n47\n53\n67\nNIFTY BANK\n(14)\n0.27\n1.80\n0.86\n1.00\n29\n71\n21\n29\nNIFTY CAPITAL GOODS\n(50)\n0.66\n0.47\n1.00\n0.85\n38\n52\n48\n58\nNIFTY CONSR DURBL\n(13)\n0.18\n0.86\n0.18\n2.25\n38\n46\n54\n46\nNIFTY FIN SERVICE\n(20)\n0.19\n1.22\n0.46\n1.50\n20\n40\n30\n30\nNIFTY FMCG\n(15)\n1.50\n0.15\n0.36\n1.50\n0\n7\n7\n13\nNIFTY HEALTHCARE\n(20)\n0.54\n1.00\n3.00\n3.00\n45\n60\n50\n40\nNIFTY HOSPITALS\n(13)\n0.63\n1.17\n1.60\n3.33\n23\n54\n46\n31\nNIFTY IT\n(10)\n2.33\n0.43\n\u2014\n2.33\n90\n60\n50\n30\nNIFTY MEDIA\n(10)\n0.43\n0.11\n0.67\n1.00\n20\n20\n40\n50\nNIFTY METAL\n(15)\n0.88\n0.25\n2.00\n0.67\n53\n53\n67\n73\nNIFTY MIDCAP 100\n(100)\n0.38\n0.92\n0.61\n1.70\n29\n49\n41\n51\nNIFTY MIDCAP 150\n(150)\n0.48\n0.73\n0.61\n1.31\n31\n45\n39\n51\nNIFTY NEXT 50\n(50)\n0.41\n0.67\n0.63\n1.78\n26\n48\n46\n48\nNIFTY OIL AND GAS\n(15)\n0.88\n1.14\n0.88\n1.14\n27\n40\n20\n53\nNIFTY PHARMA\n(20)\n0.43\n0.82\n3.00\n1.86\n55\n65\n55\n45\nNIFTY PSU BANK\n(12)\n0.50\n0.33\n0.57\n3.00\n25\n33\n33\n42\nNIFTY PVT BANK\n(10)\n0.43\n1.50\n0.25\n0.25\n30\n70\n20\n20\nNIFTY REALTY\n(10)\n0.25\n0.43\n0.67\n0.67\n30\n40\n40\n70\nNIFTY SMLCAP 100\n(100)\n0.65\n0.27\n0.72\n0.89\n35\n40\n49\n49\nA/D D-1\nis the advance/decline for yesterday.\n%>20D D-1\nis the percentage of stocks in that index trading above their 20-day SMA, yesterday.\nA/D Today\ntells you how the index performed today \u2014 what the advance-to-decline ratio was.\n%>20D SMA\ntells you what percentage of stocks in that universe is trading above its 20-day simple moving average. Watch how the A/D ratio moved from last week to today, and how %>20D SMA moved over the same stretch \u2014 those two shaded pairs are the comparison this table exists for.\nA rising index with\nincreasing advances and more stocks above the 20D SMA\nmeans broader participation in the rally. A rising index on\nvery narrow participation\ncan instead mean index management, indecision, or only a few sectors doing the work while the rest of the market goes nowhere.\nThe single most important number in this report:\nthe share of Nifty 500 stocks above their 20-day average fell from 41% to 33% while the index moved 0.10%\n. Yesterday the same measure held flat as breadth collapsed; today it broke. Three sessions of negative advance/decline have now worked their way into the trend positions.\nSnapshots: 2026-09-01 \u00b7 2026-08-31 \u00b7 2026-08-28 \u00b7 2026-08-25. All percentages are whole numbers. The 5-day participation change and the full SMA ladder (20/50/100/200) are carried in the data pack and read in \u00a78 rather than shown here.",
+      "source_locator": "2026-09-01-daily-brief.html#s7"
+    },
+    {
+      "section_code": "s8",
+      "section_number": 8,
+      "section_title": "Sector Rotation",
+      "section_group": "C",
+      "content": "\u00a78\nSector Rotation\nRotating in\nInformation Technology\n\u2014 participation up an extraordinary\n60 points\nin five sessions, the largest rotation this report has recorded. IT rose 0.98% today while thirteen of fourteen sectors fell, and is up 2.36% on the week.\nPrivate Banks and Pharma\n\u2014 each up 10 points of participation over the week, though both fell today. Improving from a low base rather than leading.\nRotating out\nAuto\n\u2014 participation down\n47 points\nin five sessions, the worst on the board, and \u20112.48% on the week. Maruti fell 4.41% today. This was already deteriorating yesterday and accelerated.\nRealty\n\u2014 down 40 points, \u20112.89% on the week, \u20111.42% today. Second consecutive session as one of the worst.\nMedia\n\u2014 down 30 points and \u20113.02% on the week, extending a month-long decline with no base forming.\nOil & Gas\n\u2014 down 26 points despite rising crude, which is the counter-intuitive one: higher oil hurts refiners and marketers more than it helps producers in this index.\nMidcaps broadly\n\u2014 Midcap 100 and Next 50 both shed 22 points of participation. The broader market is where the selling actually landed.\nYesterday's defensive rotation has narrowed to a single sector.\nOn Monday, hospitals, pharma, healthcare and banks were all gaining participation. Today only IT is \u2014 and every other sector, including the defensives that led yesterday, lost ground. A rotation that narrows this fast is usually not a rotation; it is the market retreating to one hiding place.",
+      "source_locator": "2026-09-01-daily-brief.html#s8"
+    },
+    {
+      "section_code": "s9",
+      "section_number": 9,
+      "section_title": "Stock Scanners",
+      "section_group": "C",
+      "content": "\u00a79\nStock Scanners\nStrength \u2014 top 20 gainers\nSymbol\nIndustry\nLTP\n1D %\nVol\n\u00d714D\nVol\n\u00d763D\nRSI-14\nADX-14\n% from\n20SMA\nCAPLIPOINT\nHealthcare\n2,711.20\n+7.70\n9.23\n11.24\n63.6\n17.5\n+6.5\nENGINERSIN\nConstruction\n280.05\n+6.94\n8.26\n15.74\n73.8\n33.6\n+13.4\nWELCORP\nCapital Goods\n2,553.60\n+6.80\n1.04\n2.33\n83.0\n56.0\n+22.7\nVTL\nTextiles\n602.30\n+5.29\n12.89\n36.45\n50.6\n10.6\n+0.9\nJSL\nMetals & Mining\n734.00\n+4.54\n2.65\n2.10\n57.1\n12.1\n+1.6\nCPPLUS\nCapital Goods\n3,726.90\n+4.51\n1.57\n2.02\n58.8\n17.8\n+4.4\nITC\nFast Moving Consumer Goods\n266.60\n+4.34\n2.13\n2.21\n41.7\n36.5\n\u22122.6\nGRAPHITE\nCapital Goods\n732.90\n+4.32\n5.75\n5.35\n61.2\n32.3\n+2.4\nEIHOTEL\nConsumer Services\n294.45\n+4.30\n2.16\n1.95\n40.7\n30.2\n\u22122.5\nADANIGREEN\nPower\n1,265.00\n+4.12\n2.75\n1.75\n38.8\n23.5\n\u22124.4\nSAILIFE\nHealthcare\n1,518.10\n+4.00\n5.22\n5.32\n67.0\n31.7\n+5.0\nBLUEDART\nServices\n5,105.00\n+3.68\n3.23\n1.26\n54.0\n25.8\n+0.5\nPERSISTENT\nInformation Technology\n5,800.00\n+3.67\n1.20\n0.82\n60.8\n21.7\n+3.8\nBHARTIARTL\nTelecommunication\n1,877.20\n+3.60\n1.34\n1.50\n44.5\n23.9\n\u22122.7\nANTHEM\nHealthcare\n924.50\n+3.52\n1.79\n1.86\n66.4\n40.4\n+4.9\nEMAMILTD\nFast Moving Consumer Goods\n376.65\n+3.48\n1.55\n2.23\n37.8\n15.6\n\u22125.5\nADANIPORTS\nServices\n1,647.50\n+3.41\n1.56\n1.74\n41.8\n25.4\n\u22122.1\nHSCL\nChemicals\n680.85\n+3.28\n1.48\n1.28\n42.1\n27.9\n\u22125.8\nNAUKRI\nConsumer Services\n1,356.00\n+3.27\n1.14\n0.70\n60.7\n39.8\n+2.1\nMPHASIS\nInformation Technology\n2,505.50\n+3.22\n2.29\n1.68\n59.6\n11.4\n+1.6\nWeakness \u2014 top 20 losers\nSymbol\nIndustry\nLTP\n1D %\nVol\n\u00d714D\nVol\n\u00d763D\nRSI-14\nADX-14\n% from\n20SMA\nKEI\nCapital Goods\n5,348.00\n\u22126.83\n2.02\n1.70\n44.6\n27.2\n\u22125.1\nPOLYCAB\nCapital Goods\n8,895.50\n\u22125.82\n2.16\n1.98\n42.8\n12.5\n\u22123.0\nHFCL\nTelecommunication\n236.64\n\u22125.00\n0.73\n0.52\n57.4\n28.5\n+4.1\nPAYTM\nFinancial Services\n1,633.50\n\u22124.87\n0.68\n0.74\n58.7\n46.1\n+2.0\nKALYANKJIL\nConsumer Durables\n573.00\n\u22124.66\n1.53\n0.59\n45.4\n26.2\n\u22124.9\nSHRIRAMFIN\nFinancial Services\n1,059.10\n\u22124.58\n1.72\n1.12\n42.4\n18.0\n\u22125.2\nMARUTI\nAutomobile and Auto Components\n12,950.00\n\u22124.41\n3.09\n2.11\n31.5\n19.0\n\u22125.6\nBIKAJI\nFast Moving Consumer Goods\n598.30\n\u22124.38\n3.35\n4.18\n37.3\n24.5\n\u22122.7\nICICIPRULI\nFinancial Services\n495.45\n\u22124.18\n1.66\n1.29\n43.2\n17.0\n\u22122.2\nHCG\nHealthcare\n704.40\n\u22123.94\n1.61\n1.00\n36.2\n21.9\n\u22128.5\nNESTLEIND\nFast Moving Consumer Goods\n1,438.20\n\u22123.90\n1.55\n1.29\n42.4\n18.6\n\u22123.2\nPRESTIGE\nRealty\n1,570.00\n\u22123.86\n1.47\n0.98\n44.3\n13.8\n\u22121.8\nAIIL\nFinancial Services\n539.30\n\u22123.85\n1.14\n0.60\n45.6\n26.3\n\u22124.1\nCAMS\nFinancial Services\n752.00\n\u22123.84\n0.72\n0.81\n44.7\n17.7\n\u22122.1\nMAXHEALTH\nHealthcare\n1,003.00\n\u22123.75\n1.38\n1.40\n41.4\n25.8\n\u22121.9\nLTF\nFinancial Services\n309.05\n\u22123.72\n1.88\n1.56\n45.6\n13.1\n\u22122.2\nVMM\nConsumer Services\n106.55\n\u22123.70\n0.66\n1.09\n45.7\n23.2\n\u22121.1\nABCAPITAL\nFinancial Services\n394.45\n\u22123.65\n0.85\n0.67\n42.4\n11.6\n\u22123.3\nBHEL\nCapital Goods\n426.55\n\u22123.64\n0.85\n0.59\n54.4\n27.3\n+1.7\nAEGISLOG\nOil Gas & Consumable Fuels\n1,219.30\n\u22123.58\n1.58\n0.45\n41.2\n24.2\n\u22127.7\nFull active universe.\nRSI-14\nmeasures how stretched a move is (above 70 is hot, below 30 is washed out).\nADX-14\nmeasures how strong a trend is, regardless of direction \u2014 above 30 is a real trend. Two volume multiples: \u00d714 catches a fresh spike, \u00d763 is the structural baseline.\nNote the Adani names on the gainers list \u2014\nAdani Green +4.12% and Adani Ports +3.41%\n. Yesterday's report named an Adani rebound as the specific test of whether Monday's \u20b91.4 lakh crore fall was a mechanical MSCI rebalance rather than news. It rebounded.",
+      "source_locator": "2026-09-01-daily-brief.html#s9"
+    },
+    {
+      "section_code": "s10",
+      "section_number": 10,
+      "section_title": "Momentum Composite",
+      "section_group": "C",
+      "content": "\u00a710\nMomentum Composite\nTable 1 \u2014 Fresh Entry\n#\nSymbol\nLTP\n1D %\nVol \u00d714\nVol \u00d763\n5D %\n3wk\nScore\n1\nENGINERSIN\n280.05\n+6.94\n8.26\n15.74\n+11.85\n\u2713\n97.5\n2\nCAPLIPOINT\n2,711.20\n+7.70\n9.23\n11.24\n+9.69\n\u2713\n95.8\n3\nWELCORP\n2,553.60\n+6.80\n1.04\n2.33\n+8.87\n\u2713\n87.7\n4\nVTL\n602.30\n+5.29\n12.89\n36.45\n+0.16\n\u2713\n82.0\n5\nGRAPHITE\n732.90\n+4.32\n5.75\n5.35\n+4.02\n\u2713\n80.8\n6\nSAILIFE\n1,518.10\n+4.00\n5.22\n5.32\n+4.30\n\u2713\n78.6\n7\nJSL\n734.00\n+4.54\n2.65\n2.10\n+4.65\n\u2713\n75.2\n8\nCPPLUS\n3,726.90\n+4.51\n1.57\n2.02\n+9.82\n\u2717\n66.6\n9\nPIRAMALFIN\n2,226.10\n\u22123.23\n2.94\n3.41\n+2.06\n\u2713\n65.9\n10\nANTHEM\n924.50\n+3.52\n1.79\n1.86\n+5.69\n\u2713\n65.6\n11\nBIKAJI\n598.30\n\u22124.38\n3.35\n4.18\n\u22120.25\n\u2717\n64.4\n12\nMARUTI\n12,950.00\n\u22124.41\n3.09\n2.11\n\u22125.32\n\u2717\n63.3\n13\nEMAMILTD\n376.65\n+3.48\n1.55\n2.23\n\u22126.47\n\u2717\n62.5\n14\nBALRAMCHIN\n668.85\n\u22123.55\n0.60\n2.15\n+0.11\n\u2713\n62.3\n15\nSBFC\n99.95\n+1.14\n3.44\n7.11\n+7.74\n\u2713\n62.3\n16\nPOLYCAB\n8,895.50\n\u22125.82\n2.16\n1.98\n\u22122.23\n\u2717\n60.7\n17\nADANIENSOL\n1,382.00\n\u22122.50\n1.43\n2.63\n\u221213.33\n\u2717\n59.7\n18\nITC\n266.60\n+4.34\n2.13\n2.21\n\u22121.77\n\u2717\n58.9\n19\nEIHOTEL\n294.45\n+4.30\n2.16\n1.95\n\u22122.74\n\u2717\n57.2\n20\nKEI\n5,348.00\n\u22126.83\n2.02\n1.70\n\u22124.29\n\u2717\n56.7\nFilter: daily move \u2265 1.05% and volume \u2265 1.25\u00d7 the 63-day average. Scoring: 35% daily move \u00b7 25% volume expansion vs the 63-day average \u00b7 15% weekly move \u00b7 15% weekly volume expansion \u00b7 10% three-week trend. The filter is on\nabsolute\nmove, so a faller can rank high \u2014 on volume expansion, not strength.\nTable 2 \u2014 Continued Momentum\nSymbol\nLTP\n1D %\n1W %\nVol \u00d714\n% from 20SMA\n% from 50SMA\nRSI-14\nWeekly RSI\nDIVISLAB\n9,165.00\n\u22123.19\n+4.81\n1.15\n+5.7\n+18.0\n70.1\n85.5\nURBANCO\n167.63\n+0.31\n\u22120.97\n0.50\n+9.9\n+19.1\n74.5\n70.3\nLENSKART\n663.75\n+0.20\n+1.19\n0.56\n+6.8\n+15.7\n73.3\n71.5\nYATHARTH\n974.80\n\u22122.70\n+5.61\n0.73\n+16.4\n+34.1\n79.6\n70.2\nWELCORP\n2,553.60\n+6.80\n+8.87\n1.04\n+22.7\n+43.1\n83.0\n94.5\nATHERENERG\n1,725.60\n+0.46\n+19.88\n1.90\n+14.1\n+30.4\n78.7\n82.2\nBAJAJ-AUTO\n12,361.00\n+1.90\n+3.64\n2.11\n+5.0\n+12.2\n73.3\n78.1\nAPLAPOLLO\n2,234.00\n+0.48\n+4.43\n1.05\n+6.4\n+15.5\n75.3\n67.1\nAPARINDS\n17,400.00\n\u22121.71\n+2.35\n0.61\n+2.6\n+12.8\n60.3\n71.5\nPTCIL\n22,755.00\n+2.90\n+7.76\n0.91\n+13.2\n+22.1\n73.1\n75.8\nCRAFTSMAN\n11,253.00\n+0.49\n+8.46\n2.58\n+5.8\n+13.8\n69.8\n73.7\nPOLICYBZR\n1,829.20\n\u22122.44\n+1.72\n1.41\n+4.5\n+10.4\n63.7\n63.3\nGLAXO\n2,996.10\n\u22121.77\n+1.10\n0.36\n+5.9\n+14.3\n65.1\n68.8\nWELSPUNLIV\n198.41\n+1.12\n+4.26\n0.35\n+11.7\n+16.9\n75.9\n76.4\nCOFORGE\n1,988.90\n+0.18\n+5.08\n0.94\n+7.2\n+19.8\n73.0\n72.2\nCYIENT\n1,164.60\n\u22120.87\n+18.95\n0.73\n+24.4\n+31.0\n84.3\n71.0\nTHELEELA\n575.35\n+0.87\n+3.69\n0.47\n+8.2\n+14.1\n73.8\n72.4\nKOTAKBANK\n425.00\n+1.34\n+5.83\n0.59\n+5.9\n+8.0\n71.5\n62.4\nANTHEM\n924.50\n+3.52\n+5.69\n1.79\n+4.9\n+13.1\n66.4\n72.4\nJYOTICNC\n989.10\n\u22120.59\n\u22120.09\n0.46\n+8.1\n+17.6\n65.6\n64.5\nAlready in a confirmed trend \u2014 a different question from Table 1, so not scored the same way. All of: daily RSI > 60, Supertrend bullish, MACD histogram > 0, ADX > 30, weekly RSI > 40.\nIn both tables:\nWELCORP, ANTHEM. A name entering momentum\nand\nalready in a confirmed trend is a stronger signal than either alone.\nPossible triggers\nADANIGREEN, ADANIPORTS\n\u2014 Rebounded +4.12% and +3.41% after Monday's MSCI rebalance selloff, confirming that fall as mechanical rather than fundamental \u2014 the specific test yesterday's report set.\nMARUTI, SHRIRAMFIN\n\u2014 Among the heaviest Nifty 50 losers, with auto and financials leading the decline on renewed Middle East tension.\nKEI, POLYCAB\n\u2014 The two largest cable and wire names fell together, \u20116.83% and \u20115.82% \u2014 a sector-specific move rather than part of the broad decline.\nOnly names with a specific, dated catalyst are listed. The rest moved without one, which is itself information.",
+      "source_locator": "2026-09-01-daily-brief.html#s10"
+    },
+    {
+      "section_code": "s11",
+      "section_number": 11,
+      "section_title": "FII / DII Flows",
+      "section_group": "C",
+      "content": "\u00a711\nFII / DII Flows\nDate\nFII buy\nFII sell\nFII net\nDII buy\nDII sell\nDII net\n2026-09-01\n17,807.53\n16,664.15\n+1,143.38\n15,635.49\n13,788.55\n+1,846.94\n2026-08-31\n60,025.88\n68,011.76\n\u22127,985.88\n19,730.38\n15,141.50\n+4,588.88\n2026-08-28\n13,263.62\n18,303.42\n\u22125,039.80\n16,539.38\n11,355.45\n+5,183.93\n2026-08-27\n15,277.00\n15,575.00\n\u2212298.00\n19,606.00\n14,628.00\n+4,977.00\n2026-08-26\n17,520.00\n17,018.00\n+503.00\n17,710.00\n11,285.00\n+6,425.00\n2026-08-25\n13,259.03\n11,665.50\n+1,593.53\n14,280.18\n14,049.92\n+230.26\n2026-08-24\n12,333.00\n11,151.00\n+1,182.00\n15,337.00\n12,844.00\n+2,493.00\nNSE cash market, \u20b9 crore. Last 7 sessions.\nComparison windows\nWindow\nFII net\nDII net\nToday\n+1,143.38\n+1,846.94\nThis week\n\u221211,677.30\n+23,021.75\nLast week\n+2,057.53\n+12,359.26\nMonth to date\n+1,143.38\n+1,846.94\nToday's FII figure ranks\n28 of 36\nsessions from the most negative; DII ranks\n16 of 36\nfrom the most negative.\nForeign investors flipped to buyers, and the temptation is to read too much into it.\nAfter Monday's \u20b97,985.88 Cr sale \u2014 the heaviest in the retained window \u2014 they bought \u20b91,143.38 Cr today, ranking a merely ordinary 28th of 36 sessions. Domestic institutions added \u20b91,846.94 Cr, modest by their own August standard. Two things argue for caution. First, this was expiry day, when settlement mechanics move cash-market prints in ways that say little about conviction. Second, the week as a whole still shows foreign investors\nselling \u20b911,677 Cr\nagainst domestic buying of \u20b923,022 Cr. One session does not reverse that. What it does do is remove the extreme: yesterday the flow component of the regime score was near its floor, today it is mid-range, and that alone lifted the composite.",
+      "source_locator": "2026-09-01-daily-brief.html#s11"
+    },
+    {
+      "section_code": "s12",
+      "section_number": 12,
+      "section_title": "What Changed Today",
+      "section_group": "D",
+      "content": "\u00a712\nWhat Changed Today\nThe flat close is the misleading part\nNifty \u20110.10%, but stocks above their 20-day average fell from 41% to 33%.\nThe largest one-day drop in that measure this report has recorded.\nThree consecutive sessions of negative breadth have now reached the trend positions.\nThe damage was one layer down\nMidcap 100 \u20111.39% and Nifty Bank \u20111.06% against an index that barely moved.\nShriram Finance \u20114.58%, Maruti \u20114.41%.\nSmallcap held up better at \u20110.23%.\nTwo calls from yesterday held\nExpiry settled inside the projected band, and the Adani names rebounded as the mechanical-rebalance reading predicted.\nSettled 24,055.80 against a 24,000\u201324,200 pin scenario given ~55%.\nAdani Green +4.12%, Adani Ports +3.41%.\nRotation narrowed to one sector\nIT gained 60 points of participation in five sessions. Every other sector lost ground today.\nYesterday four sectors were gaining; today one is.\nAuto \u201147 and Realty \u201140 are the mirror image.\nRegime rose on one input only\n42.5 from 39.1, almost entirely because foreign investors stopped selling.\nBreadth got worse in the same session.\n37.9 excluding volatility.\nOil is now the standing variable\nBrent up 3.4% in two sessions to $91.28 as Hormuz hostilities resumed.\nIt has outweighed a 7.8% GDP print two days running.\nNo scheduled release to position around.",
+      "source_locator": "2026-09-01-daily-brief.html#s12"
+    },
+    {
+      "section_code": "s13",
+      "section_number": 13,
+      "section_title": "Futures, Options &amp; Expiry",
+      "section_group": "D",
+      "content": "\u00a713\nFutures, Options &amp; Expiry\nIndex futures\nInstrument\nClose\nChange\nOI\nOI change\nBasis\nPattern\nNIFTY 26SEP FUT\n24,081.00\n\u2212170.40\n16,271,450\n+4,92,505\n25.20\nShort buildup \u2014 price down, open interest up\nBANKNIFTY 26SEP FUT\n57,566.20\n\u2212321.00\n1,999,290\n+11,910\n156.60\nShort buildup \u2014 price down, open interest up\nNext weekly chain \u2014 expiry Tuesday 8 September (ATM \u00b16 strikes)\nCALL OI\nCE Close\nSTRIKE\nPUT OI\nPE Close\n53,560\n294.05\n23750\n901,160\n46.20\n570,830\n253.60\n23800\n3,022,630\n57.80\n118,300\n218.00\n23850\n728,000\n71.30\n1,374,880\n185.00\n23900\n3,361,085\n89.00\n730,080\n155.00\n23950\n1,120,665\n106.85\n5,851,625\n130.20\n24000\n5,398,315\n130.15\n2,170,935\n107.30\n24050\n1,301,235\n158.95\n6,500,195\n85.95\n24100\n3,504,475\n187.90\n4,182,035\n66.25\n24150\n680,290\n220.40\n7,448,545\n53.15\n24200\n3,488,160\n255.00\n2,679,950\n41.35\n24250\n593,385\n293.90\n5,056,805\n32.00\n24300\n1,486,355\n335.00\n1,893,255\n25.00\n24350\n200,395\n375.95\nNext weekly chain \u2014 expiry Tuesday 8 September (ATM \u00b16 strikes)\nPut/Call Ratio\n0.67\n38.63M calls against 25.79M puts \u2014 a sharp move from last week's 0.971. Call writers now outnumber put writers by three to two, the most one-sided reading this report has recorded.\nMax Pain\n24050\nthe strike where option writers lose least, and it sits\n5.8 points below\na 24,055.80 close. The market has settled essentially on top of it.\nCrossover Strike\n24000\nputs outweigh calls only below 24,000 now. Last week the crossover sat at 24,100; it has fallen a hundred points, meaning the entire chain above spot is call-heavy.\nLast week's chain was balanced around a pin. This one is\nceiling-heavy\n. The put/call crossover has dropped from 24,100 to 24,000, so every strike above spot is dominated by call writers, and the PCR has fallen from 0.971 to\n0.667\n\u2014 the most one-sided reading this report has seen. Max pain at 24,050 sits almost exactly on spot, which normally argues for a quiet drift, but the walls have tightened around it: a\n7.45M call wall at 24,200\nis only 144 points above, against a\n5.40M put floor at 24,000\njust 56 points below. Both index futures added open interest on falling prices \u2014 short buildup on each \u2014 and the Nifty premium\ncollapsed from 164.60 points to 25.20\n, which is the clearest single signal in this section. A premium that thin says the futures market has stopped paying up for time.\nSettlement scenarios\nGrind between the walls\n~50%\nTrigger: Oil stabilises below $92, no fresh Hormuz headline\nDrift in 24,000\u201324,200 with the call wall capping rallies. Max pain sits on spot, so there is little pull in either direction.\nSignal:\nan open inside today's range with Brent flat.\nFloor breaks\n~30%\nTrigger: Brent extends toward $95, or bank breadth keeps falling\n24,000 has now been tested intraday on two consecutive sessions (lows 23,993.60 and 23,952.55). A third test with participation still falling is likely to go through, opening 23,800.\nSignal:\nNifty Bank losing 57,000 early.\nSqueeze on the shorts\n~20%\nTrigger: A Hormuz de-escalation headline\nBoth futures books added shorts today. A genuine oil reversal forces them out fast, and the 24,200 call wall becomes the target.\nSignal:\nthe Nifty futures premium widening back above 100 points.\nThe premium collapse is the number to carry forward.\nNifty September futures traded at a 164.60-point premium to spot on Monday and 25.20 today. Futures premium reflects what traders will pay to hold a position over time; when it compresses that fast while open interest\nrises\n, it means the new positions are short. Both indices show the same pattern. Set against a PCR of 0.667, the derivatives market is positioned more bearishly than the flat index close suggests.",
+      "source_locator": "2026-09-01-daily-brief.html#s13"
+    },
+    {
+      "section_code": "s14",
+      "section_number": 14,
+      "section_title": "Tomorrow's Action Plan",
+      "section_group": "D",
+      "content": "\u00a714\nTomorrow's Action Plan\nWhether 24,000 survives a third test\nConfirms if: holding above it with advance/decline back over 1.0 would mark this week's floor as real\nDenies it if: the low has been 23,993.60 then 23,952.55 on consecutive days \u2014 a third probe with participation still falling likely breaks through toward 23,800\nWhether IT's rotation is real or a hiding place\nConfirms if: IT holding its 60-point participation gain while another sector starts improving would make it a genuine rotation\nDenies it if: IT giving back participation with nothing else improving would mean the market simply had nowhere else to go\nWhether the 20-day participation slide continues\nConfirms if: a bounce back above 38% would mark today's 33% as an expiry-day artefact\nDenies it if: a second consecutive fall would confirm that three sessions of negative breadth have broken the trend, regardless of what the index does\nWhether foreign buying persists past expiry\nConfirms if: a second session of net buying would suggest Monday's \u20b97,986 Cr sale was tied to the MSCI rebalance\nDenies it if: a return to selling would confirm today as expiry mechanics, and the week's \u20b911,677 Cr outflow as the real trend\nDated events in the next three sessions.\nThursday 3 September\n\u2014 weekly Sensex options expiry on the BSE (lot 20).\nTuesday 8 September\n\u2014 next weekly Nifty expiry.\nBrent and the Strait of Hormuz remain the live unscheduled variable, and have now outweighed domestic data two sessions running.\nBull triggers\nNifty holds\n24,000\non a third test with advance/decline above 1.0\nBrent retreats below $89\nNifty futures premium widens back above 100 points\nA second consecutive session of foreign buying\nParticipation above the 20-day average recovers past 38%\nBear triggers\nA close below\n23,952.55\n, today's low and beneath the 24,000 put floor\nBrent extends toward $95 on further Hormuz escalation\nNifty Bank loses 57,000\nParticipation falls for a second session from today's 33%\nAuto extends its 47-point five-day participation collapse\nThe one thing to carry into tomorrow.\nThe index closed almost exactly where it opened the week, and that flat line is hiding a market that is quietly getting narrower \u2014 participation down from 41% to 33% in a session, thirteen of fourteen sectors losing ground, and a derivatives book that has moved from balanced to distinctly ceiling-heavy. Two of yesterday's calls held, which is worth something. But nothing in today's data argues that the deterioration underneath has stopped, and oil is still climbing.\nMost readers open at the index level and stop there \u2014 which is the habit that makes a narrow market look healthy.\n1\nStart with participation, not the index\nOpen \u00a77. Which direction is the number of stocks above their 20-day average moving? That is the market\u2019s direction of travel, not the index close.\n2\nThen check the index against it\nIf the Nifty rose but fewer stocks are above their 20-day average than yesterday, participation is falling inside a rising index. That divergence is the most important thing on the page.\n3\nRead sector leadership across timeframes\nIn \u00a76b, compare each sector\u2019s 1-day move against its 1-week and 1-month bars. A sector strong on the day but weak on the month is a bounce. A sector strong on all three is a trend.\n4\nCross-check each sector\u2019s move against its own breadth\nA sector that rose today but whose participation column is falling has a narrow move \u2014 a few stocks doing the work. \u00a76b row next to \u00a77 row is the comparison.\n5\nGo straight to the flagged sectors\nThe pack has already joined breadth to the scanners for you. Read \u00a77\u2019s notable flags and \u00a79\u2019s scanner names together \u2014 that join is already done.\n6\nAsk whether the money agrees with the positioning\nCompare \u00a711 (what institutions bought and sold) with \u00a713 (where the derivatives positioning sits). Conviction shows when both point the same way.",
+      "source_locator": "2026-09-01-daily-brief.html#s14"
+    },
+    {
+      "section_code": "notes",
+      "section_number": null,
+      "section_title": "Data notes",
+      "section_group": "D",
+      "content": "\u00a7\u203a\nData notes\nThis edition carries 1 data caveat.\nflow table holds 36 sessions; the 60-session rank is computed over what exists\nCoverage 100.0% \u2014 516 stocks and 23 indices priced.",
+      "source_locator": "2026-09-01-daily-brief.html#notes"
+    }
+  ],
+  "entities": {
+    "stocks": [],
+    "sectors": [],
+    "themes": []
+  },
+  "metrics": {
+    "market": [
+      {
+        "indicator": "Nifty 50",
+        "value": "24,055.80",
+        "change": "\u221224.60 \u00b7 \u22120.10%",
+        "source_locator": "2026-09-01-daily-brief.html#s1"
+      },
+      {
+        "indicator": "Sensex",
+        "value": "76,944.28",
+        "change": "\u221212.99 \u00b7 \u22120.02%",
+        "source_locator": "2026-09-01-daily-brief.html#s1"
+      },
+      {
+        "indicator": "Nifty Bank",
+        "value": "57,409.60",
+        "change": "\u2212615.35 \u00b7 \u22121.06%",
+        "source_locator": "2026-09-01-daily-brief.html#s1"
+      },
+      {
+        "indicator": "India VIX",
+        "value": "11.49",
+        "change": "+0.30",
+        "source_locator": "2026-09-01-daily-brief.html#s1"
+      },
+      {
+        "indicator": "FII net \u00b7 cash",
+        "value": "+1,143.38",
+        "change": "\u20b9 Cr",
+        "source_locator": "2026-09-01-daily-brief.html#s1"
+      },
+      {
+        "indicator": "DII net \u00b7 cash",
+        "value": "+1,846.94",
+        "change": "\u20b9 Cr",
+        "source_locator": "2026-09-01-daily-brief.html#s1"
+      },
+      {
+        "indicator": "Breadth \u00b7 N500",
+        "value": "193:302",
+        "change": "A/D 0.64",
+        "source_locator": "2026-09-01-daily-brief.html#s1"
+      },
+      {
+        "indicator": "Brent crude",
+        "value": "$91.28",
+        "change": "+0.87%",
+        "source_locator": "2026-09-01-daily-brief.html#s1"
+      },
+      {
+        "indicator": "Gold (MCX)",
+        "value": "\u2014",
+        "change": "not retrieved",
+        "source_locator": "2026-09-01-daily-brief.html#s1"
+      },
+      {
+        "indicator": "Silver (MCX)",
+        "value": "\u2014",
+        "change": "not retrieved",
+        "source_locator": "2026-09-01-daily-brief.html#s1"
+      },
+      {
+        "indicator": "Aluminium (MCX)",
+        "value": "\u2014",
+        "change": "not retrieved",
+        "source_locator": "2026-09-01-daily-brief.html#s1"
+      },
+      {
+        "indicator": "Copper (MCX)",
+        "value": "\u2014",
+        "change": "not retrieved",
+        "source_locator": "2026-09-01-daily-brief.html#s1"
+      },
+      {
+        "index_name": "NIFTY 50",
+        "close": "24,055.80",
+        "change_1d": "\u22120.10",
+        "change_1w": "\u22121.15",
+        "change_1m": "\u22121.34",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      },
+      {
+        "index_name": "NIFTY 100",
+        "close": "25,157.40",
+        "change_1d": "\u22120.31",
+        "change_1w": "\u22121.34",
+        "change_1m": "\u22121.29",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      },
+      {
+        "index_name": "NIFTY 500",
+        "close": "23,339.90",
+        "change_1d": "\u22120.47",
+        "change_1w": "\u22121.15",
+        "change_1m": "\u22120.51",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      },
+      {
+        "index_name": "NIFTY MIDCAP 100",
+        "close": "63,334.50",
+        "change_1d": "\u22121.39",
+        "change_1w": "\u22121.29",
+        "change_1m": "+0.67",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      },
+      {
+        "index_name": "NIFTY SMLCAP 100",
+        "close": "19,886.25",
+        "change_1d": "\u22120.23",
+        "change_1w": "\u22120.10",
+        "change_1m": "+2.83",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      },
+      {
+        "index_name": "NIFTY NEXT 50",
+        "close": "72,874.75",
+        "change_1d": "\u22121.20",
+        "change_1w": "\u22122.19",
+        "change_1m": "\u22121.05",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      },
+      {
+        "index_name": "NIFTY METAL",
+        "close": "\u22120.03",
+        "change_1d": "\u22121.4%",
+        "change_1w": "+3.7%",
+        "change_1m": "\u22122.3%",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      },
+      {
+        "index_name": "NIFTY IT",
+        "close": "+0.98",
+        "change_1d": "+2.4%",
+        "change_1w": "+2.6%",
+        "change_1m": "+5.5%",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      },
+      {
+        "index_name": "NIFTY PSU BANK",
+        "close": "\u22121.21",
+        "change_1d": "\u22121.1%",
+        "change_1w": "+1.7%",
+        "change_1m": "+6.2%",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      },
+      {
+        "index_name": "NIFTY PHARMA",
+        "close": "\u22121.45",
+        "change_1d": "+0.9%",
+        "change_1w": "+1.0%",
+        "change_1m": "+10.7%",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      },
+      {
+        "index_name": "NIFTY PVT BANK",
+        "close": "\u22120.87",
+        "change_1d": "+1.1%",
+        "change_1w": "+0.9%",
+        "change_1m": "+6.5%",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      },
+      {
+        "index_name": "NIFTY BANK",
+        "close": "\u22121.06",
+        "change_1d": "\u22120.2%",
+        "change_1w": "+0.2%",
+        "change_1m": "+7.0%",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      },
+      {
+        "index_name": "NIFTY HEALTHCARE",
+        "close": "\u22121.60",
+        "change_1d": "+0.4%",
+        "change_1w": "\u22120.5%",
+        "change_1m": "+9.2%",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      },
+      {
+        "index_name": "NIFTY CONSR DURBL",
+        "close": "\u22121.40",
+        "change_1d": "\u22122.4%",
+        "change_1w": "\u22120.5%",
+        "change_1m": "+15.6%",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      },
+      {
+        "index_name": "NIFTY AUTO",
+        "close": "\u22121.22",
+        "change_1d": "\u22122.5%",
+        "change_1w": "\u22120.9%",
+        "change_1m": "+10.0%",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      },
+      {
+        "index_name": "NIFTY OIL AND GAS",
+        "close": "+0.35",
+        "change_1d": "\u22120.7%",
+        "change_1w": "\u22120.9%",
+        "change_1m": "\u22120.1%",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      },
+      {
+        "index_name": "NIFTY REALTY",
+        "close": "\u22121.42",
+        "change_1d": "\u22122.9%",
+        "change_1w": "\u22121.1%",
+        "change_1m": "+16.0%",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      },
+      {
+        "index_name": "NIFTY FIN SERVICE",
+        "close": "\u22121.10",
+        "change_1d": "\u22120.9%",
+        "change_1w": "\u22122.2%",
+        "change_1m": "+4.0%",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      },
+      {
+        "index_name": "NIFTY MEDIA",
+        "close": "+0.26",
+        "change_1d": "\u22123.0%",
+        "change_1w": "\u22123.5%",
+        "change_1m": "+9.4%",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      },
+      {
+        "index_name": "NIFTY FMCG",
+        "close": "+0.94",
+        "change_1d": "\u22122.6%",
+        "change_1w": "\u22125.4%",
+        "change_1m": "\u22123.7%",
+        "source_locator": "2026-09-01-daily-brief.html#s6"
+      }
+    ],
+    "stocks": [],
+    "sectors": [
+      {
+        "sector": "NIFTY 100(100)",
+        "ad_today": "0.53",
+        "pct_above_20dma": "26",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY 200(200)",
+        "ad_today": "0.45",
+        "pct_above_20dma": "28",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY 50(50)",
+        "ad_today": "0.67",
+        "pct_above_20dma": "26",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY 500(500)",
+        "ad_today": "0.64",
+        "pct_above_20dma": "33",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY AUTO(15)",
+        "ad_today": "0.36",
+        "pct_above_20dma": "20",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY BANK(14)",
+        "ad_today": "0.27",
+        "pct_above_20dma": "29",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY CAPITAL GOODS(50)",
+        "ad_today": "0.66",
+        "pct_above_20dma": "38",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY CONSR DURBL(13)",
+        "ad_today": "0.18",
+        "pct_above_20dma": "38",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY FIN SERVICE(20)",
+        "ad_today": "0.19",
+        "pct_above_20dma": "20",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY FMCG(15)",
+        "ad_today": "1.50",
+        "pct_above_20dma": "0",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY HEALTHCARE(20)",
+        "ad_today": "0.54",
+        "pct_above_20dma": "45",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY HOSPITALS(13)",
+        "ad_today": "0.63",
+        "pct_above_20dma": "23",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY IT(10)",
+        "ad_today": "2.33",
+        "pct_above_20dma": "90",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY MEDIA(10)",
+        "ad_today": "0.43",
+        "pct_above_20dma": "20",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY METAL(15)",
+        "ad_today": "0.88",
+        "pct_above_20dma": "53",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY MIDCAP 100(100)",
+        "ad_today": "0.38",
+        "pct_above_20dma": "29",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY MIDCAP 150(150)",
+        "ad_today": "0.48",
+        "pct_above_20dma": "31",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY NEXT 50(50)",
+        "ad_today": "0.41",
+        "pct_above_20dma": "26",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY OIL AND GAS(15)",
+        "ad_today": "0.88",
+        "pct_above_20dma": "27",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY PHARMA(20)",
+        "ad_today": "0.43",
+        "pct_above_20dma": "55",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY PSU BANK(12)",
+        "ad_today": "0.50",
+        "pct_above_20dma": "25",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY PVT BANK(10)",
+        "ad_today": "0.43",
+        "pct_above_20dma": "30",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY REALTY(10)",
+        "ad_today": "0.25",
+        "pct_above_20dma": "30",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      },
+      {
+        "sector": "NIFTY SMLCAP 100(100)",
+        "ad_today": "0.65",
+        "pct_above_20dma": "35",
+        "source_locator": "2026-09-01-daily-brief.html#s7"
+      }
+    ],
+    "flows": [],
+    "fno": [],
+    "flexible": []
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}

@@ -1,0 +1,325 @@
+{
+  "report": {
+    "type": "sector",
+    "title": "CAPITAL GOODS (LARGE) Sector Review",
+    "date": "2026-09-04",
+    "headline": "",
+    "standfirst": "",
+    "subtitle": "RAJAN SECTOR EARNINGS REVIEW \u2022 Q1 FY27 \u2022 SECTOR #2",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "capital-goods-large-q1fy27-sector-review.html",
+    "source_hash": "69ca807d155b0e7fba85d943265c0019135f3532c06c1796757af6e7817253c1"
+  },
+  "sections": [
+    {
+      "section_code": "thesis",
+      "section_title": "Sector Synthesis & Thesis",
+      "content": "The Large Capital Goods Sector in India is undergoing a powerful multi-year structural expansion driven by a twin engine:\nGovernment-led energy grid & railway capex alongside private industrial capacity additions\n(metals, cement, data centers, electronics).\nWith sector order books standing at an all-time high of\n\u20b91.85 Lakh Cr\n(~3.4x revenue coverage), companies with high technology intensity (ABB, Siemens, Cummins) are commanding premium pricing power and expanding margins above historical averages.",
+      "source_locator": "capital-goods-large-q1fy27-sector-review.html#.synth"
+    }
+  ],
+  "entities": {
+    "stocks": [
+      {
+        "symbol": "SIE",
+        "company_name": "SIE",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+18.5%)": "\u20b95,020 Cr",
+          "OPM (+210 bps)": "15.2%",
+          "Order Backlog": "\u20b946,800 Cr",
+          "Net Profit (+28.4%)": "\u20b9585 Cr"
+        },
+        "bullets": [
+          "Energy and Smart Infrastructure segments led growth; high-voltage transformer orders up 32%.",
+          "Proposed demerger of Energy business on track to unlock shareholder value by late 2026.",
+          "Substantial treasury reserves yielding \u20b9180 Cr interest income in Q1."
+        ],
+        "flags": [
+          "Grid Automation Leader",
+          "Demerger Catalyst",
+          "Parent Royalty Cost"
+        ],
+        "source_locator": "capital-goods-large-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "194ef570-0ef3-466b-a855-83b7416dc09f",
+            "raw_name": "SIE",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "69ca807d155b0e7fba85d943265c0019135f3532c06c1796757af6e7817253c1",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "ABB",
+        "company_name": "ABB",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+22.4%)": "\u20b93,690 Cr",
+          "OPM (+280 bps)": "18.6%",
+          "Order Backlog": "\u20b910,400 Cr",
+          "Net Profit (+35.2%)": "\u20b9445 Cr"
+        },
+        "bullets": [
+          "Motion and Electrification segments posted record margins due to premium product pricing.",
+          "Data center, railway electrification, and clean energy orders contributed 40%+ of fresh inflows.",
+          "Zero net debt with ROCE expanding to an industry-leading 31.5%."
+        ],
+        "flags": [
+          "31.5% ROCE",
+          "Data Center Play",
+          "High P/E Multiples"
+        ],
+        "source_locator": "capital-goods-large-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "c47aa0db-d493-41fe-b1e5-c23abb7619d9",
+            "raw_name": "ABB",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "69ca807d155b0e7fba85d943265c0019135f3532c06c1796757af6e7817253c1",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "BHEL",
+        "company_name": "BHEL",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+26.1%)": "\u20b95,485 Cr",
+          "OPM (+140 bps)": "8.2%",
+          "Order Backlog": "\u20b91,32,000 Cr",
+          "Net Profit (+82.5%)": "\u20b9215 Cr"
+        },
+        "bullets": [
+          "Turnaround supported by massive thermal power plant orders (NTPC, DVC, Adani Power).",
+          "Order book reached historical high of \u20b91.32 Lakh Cr, providing 4.5 years of revenue visibility.",
+          "Working capital optimization underway as state discom payment speed improves."
+        ],
+        "flags": [
+          "\u20b91.32L Cr Order Book",
+          "Thermal Renaissance",
+          "Execution Speed Risk"
+        ],
+        "source_locator": "capital-goods-large-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "313c8c30-d991-4cb7-b751-1b761e49fe1a",
+            "raw_name": "BHEL",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "69ca807d155b0e7fba85d943265c0019135f3532c06c1796757af6e7817253c1",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "CUM",
+        "company_name": "CUM",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+15.2%)": "\u20b92,310 Cr",
+          "OPM (+190 bps)": "20.4%",
+          "Powergen Revenue Share": "68%",
+          "Net Profit (+24.1%)": "\u20b9395 Cr"
+        },
+        "bullets": [
+          "CPCB IV+ compliant engine adoption driving realization gains across powergen portfolio.",
+          "Data center and healthcare infrastructure demand for high-horsepower gensets surged.",
+          "Exports to Middle East and Africa showing steady sequential volume recovery."
+        ],
+        "flags": [
+          "CPCB IV+ Monopoly",
+          "Data Center Boom",
+          "Export Market Slowdown"
+        ],
+        "source_locator": "capital-goods-large-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "8dceab00-5c90-4b96-aea3-5f0a1e8668f0",
+            "raw_name": "CUM",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "69ca807d155b0e7fba85d943265c0019135f3532c06c1796757af6e7817253c1",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "TMX",
+        "company_name": "TMX",
+        "guidance_delivery": "IN-LINE",
+        "metrics": {
+          "Q1 Revenue (+14.8%)": "\u20b92,180 Cr",
+          "OPM (+120 bps)": "8.8%",
+          "Order Backlog": "\u20b911,200 Cr",
+          "Net Profit (+16.5%)": "\u20b9148 Cr"
+        },
+        "bullets": [
+          "Green energy solutions (biomass boilers, solar EPC, green hydrogen) segment order inflow +28%.",
+          "Chemicals business margins normalized following temporary raw material price deflation.",
+          "Industrial sewage treatment and air pollution control equipment orders remain robust."
+        ],
+        "flags": [
+          "Green Transition Leader",
+          "Clean Tech Orders",
+          "Lower Margin EPC Mix"
+        ],
+        "source_locator": "capital-goods-large-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "e13e3382-d7a5-42bd-81de-71cbcadf221d",
+            "raw_name": "TMX",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "69ca807d155b0e7fba85d943265c0019135f3532c06c1796757af6e7817253c1",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "AIA",
+        "company_name": "AIA",
+        "guidance_delivery": "IN-LINE",
+        "metrics": {
+          "Q1 Revenue (+12.1%)": "\u20b91,250 Cr",
+          "OPM (+160 bps)": "21.5%",
+          "Mining Grinding Media Mix": "72%",
+          "Net Profit (+14.2%)": "\u20b9245 Cr"
+        },
+        "bullets": [
+          "Gold and copper mining activity across Latin America and Australia driving high-chrome media sales.",
+          "Conversion of forged media users to high-chrome mill internals accelerating globally.",
+          "Net cash pile of \u20b92,800 Cr with zero debt providing anti-fragile balance sheet protection."
+        ],
+        "flags": [
+          "Mining Replacement Moat",
+          "\u20b92,800 Cr Cash",
+          "Global Freight Costs"
+        ],
+        "source_locator": "capital-goods-large-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "2b4cf96b-7320-4cea-8548-f37916984a24",
+            "raw_name": "AIA",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "69ca807d155b0e7fba85d943265c0019135f3532c06c1796757af6e7817253c1",
+            "status": "pending"
+          }
+        }
+      }
+    ],
+    "sectors": [
+      {
+        "name": "CAPITAL GOODS (LARGE)",
+        "period": "Q1 FY27",
+        "source_locator": "capital-goods-large-q1fy27-sector-review.html#head"
+      }
+    ],
+    "themes": []
+  },
+  "metrics": {
+    "market": [],
+    "stocks": [],
+    "sectors": [],
+    "flows": [],
+    "fno": [],
+    "flexible": [
+      {
+        "category": "scissor_analysis",
+        "entity": "Siemens India",
+        "source_locator": "capital-goods-large-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "ABB India",
+        "source_locator": "capital-goods-large-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "BHEL",
+        "source_locator": "capital-goods-large-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Cummins India",
+        "source_locator": "capital-goods-large-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Thermax",
+        "source_locator": "capital-goods-large-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "AIA Engineering",
+        "source_locator": "capital-goods-large-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TOP CONVICTION BUY",
+        "stock": "Siemens India",
+        "target": "Target: \u20b94,550 | Upside: +14%",
+        "rationale": "Grid automation leader, 15%+ OPM, energy business demerger catalyst to unlock shareholder value.",
+        "source_locator": "capital-goods-large-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "PREMIUM COMPOUNDER",
+        "stock": "ABB India",
+        "target": "Target: \u20b98,400 | Upside: +13%",
+        "rationale": "31.5% ROCE, dominant in data center electrification, zero debt balance sheet with high pricing power.",
+        "source_locator": "capital-goods-large-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TURNAROUND BUY",
+        "stock": "BHEL",
+        "target": "Target: \u20b9495 | Upside: +15%",
+        "rationale": "\u20b91.32 Lakh Cr order backlog, thermal power BTG monopoly, rapid earnings acceleration in FY27.",
+        "source_locator": "capital-goods-large-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "ACCUMULATE ON DIPS",
+        "stock": "Cummins India",
+        "target": "Target: \u20b95,600 | Upside: +11%",
+        "rationale": "CPCB IV+ pricing power, data center genset boom, high cash flow generation.",
+        "source_locator": "capital-goods-large-q1fy27-sector-review.html#.call"
+      }
+    ]
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}

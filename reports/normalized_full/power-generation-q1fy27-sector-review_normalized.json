@@ -1,0 +1,284 @@
+{
+  "report": {
+    "type": "sector",
+    "title": "POWER GENERATION Sector Review",
+    "date": "2026-09-04",
+    "headline": "",
+    "standfirst": "",
+    "subtitle": "RAJAN SECTOR EARNINGS REVIEW \u2022 Q1 FY27 \u2022 SECTOR #12",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "power-generation-q1fy27-sector-review.html",
+    "source_hash": "9c9d62c4fa270835200a4b1ab268dc88aa7b4cecaad86db210f6c41948d4d691"
+  },
+  "sections": [
+    {
+      "section_code": "thesis",
+      "section_title": "Sector Synthesis & Thesis",
+      "content": "India's Power Generation sector is undergoing a massive dual growth phase:\nbase-load thermal power plants running at maximum capacity while utility renewable energy (solar, wind, hydro, BESS) scales exponentially\n.\nPower utilities with guaranteed regulated equity returns (\nNTPC\n) and green transition leaders (\nTata Power, JSW Energy\n) offer superior long-term institutional returns.",
+      "source_locator": "power-generation-q1fy27-sector-review.html#.synth"
+    }
+  ],
+  "entities": {
+    "stocks": [
+      {
+        "symbol": "NTPC",
+        "company_name": "NTPC",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+14.5%)": "\u20b948,500 Cr",
+          "OPM (+150 bps)": "28.5%",
+          "Coal Plant PLF": "78.5%",
+          "Net Profit (+22.1%)": "\u20b95,480 Cr"
+        },
+        "bullets": [
+          "Regulated equity base expanded to \u20b985,000+ Cr, guaranteeing stable 15.5% post-tax ROE earnings compounding.",
+          "NTPC Green Energy (NGEL) operational RE capacity reached 3.8 GW; 10+ GW under construction pipeline.",
+          "Captive coal mining output grew +28% YoY to 9.2 MMT, reducing fuel supply costs."
+        ],
+        "flags": [
+          "15.5% Regulated ROE",
+          "NGEL IPO Unlock",
+          "ESG Carbon Footprint"
+        ],
+        "source_locator": "power-generation-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "88420941-7b46-427b-94a7-2ca254c59058",
+            "raw_name": "NTPC",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "9c9d62c4fa270835200a4b1ab268dc88aa7b4cecaad86db210f6c41948d4d691",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "TPW",
+        "company_name": "TPW",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+17.8%)": "\u20b917,200 Cr",
+          "OPM (+120 bps)": "22.4%",
+          "RE Capacity": "5.6 GW",
+          "Net Profit (+31.2%)": "\u20b91,180 Cr"
+        },
+        "bullets": [
+          "Mundra UMPP operating profitability supported by Section 11 cost pass-through tariffs.",
+          "Tata Power Solar Rooftop and EV Charging infrastructure revenues grew +35% YoY.",
+          "Odisha Discom turnaround complete; T&D losses reduced below regulatory targets."
+        ],
+        "flags": [
+          "Solar Rooftop Monopoly",
+          "RE Transition Leader",
+          "Indonesian Coal Price Drift"
+        ],
+        "source_locator": "power-generation-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "695874b9-61fe-470b-ba60-5f41dcc04da8",
+            "raw_name": "TPW",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "9c9d62c4fa270835200a4b1ab268dc88aa7b4cecaad86db210f6c41948d4d691",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "JSWE",
+        "company_name": "JSWE",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+22.4%)": "\u20b93,850 Cr",
+          "OPM (+180 bps)": "34.2%",
+          "Operational Capacity": "7.5 GW",
+          "Net Profit (+42.5%)": "\u20b9525 Cr"
+        },
+        "bullets": [
+          "Mytrah renewable assets integration complete, boosting wind/solar generation output.",
+          "Kutehr 240 MW Hydro project commissioning underway; total capacity target of 10 GW by FY27.",
+          "Energy Storage System (BESS) and Pumped Storage Hydro (PSP) order pipeline expanding."
+        ],
+        "flags": [
+          "34.2% Peak OPM",
+          "Pumped Storage Leader",
+          "Capex Debt Build-Up"
+        ],
+        "source_locator": "power-generation-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "0da7f930-b13f-488b-b327-8925b64caa37",
+            "raw_name": "JSWE",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "9c9d62c4fa270835200a4b1ab268dc88aa7b4cecaad86db210f6c41948d4d691",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "APW",
+        "company_name": "APW",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+26.5%)": "\u20b915,450 Cr",
+          "OPM (+240 bps)": "38.5%",
+          "Thermal Capacity": "16.8 GW",
+          "Net Profit (+48.2%)": "\u20b93,910 Cr"
+        },
+        "bullets": [
+          "Highest sector EBITDA margin (38.5%) driven by Mundra and Godda thermal plant dispatches.",
+          "Godda 1,600 MW Ultra-Supercritical power plant supplying Bangladesh cross-border grid.",
+          "Deleveraging balance sheet with strong operational cash flow generation."
+        ],
+        "flags": [
+          "38.5% Peak Margin",
+          "Godda Cross-Border Cashflow",
+          "Geopolitical Exposure"
+        ],
+        "source_locator": "power-generation-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "70f392a2-f206-45c3-8367-f1d972c8794a",
+            "raw_name": "APW",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "9c9d62c4fa270835200a4b1ab268dc88aa7b4cecaad86db210f6c41948d4d691",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "TOR",
+        "company_name": "TOR",
+        "guidance_delivery": "IN-LINE",
+        "metrics": {
+          "Q1 Revenue (+13.2%)": "\u20b97,250 Cr",
+          "OPM (+100 bps)": "24.1%",
+          "Installed Capacity": "4.3 GW",
+          "Net Profit (+18.4%)": "\u20b9585 Cr"
+        },
+        "bullets": [
+          "Ahmedabad, Surat, and Bhiwandi distribution franchise areas posted stable 8%+ power volume growth.",
+          "LNG gas-based power generation plants operated under merchant spot market demand peaks.",
+          "Renewable energy portfolio expansion on track with 1.5 GW under development."
+        ],
+        "flags": [
+          "Low T&D Loss Moat",
+          "Stable Utility Cashflow",
+          "LNG Price Volatility"
+        ],
+        "source_locator": "power-generation-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "26df1e77-a7dd-4fe8-b819-13c6bb476a5d",
+            "raw_name": "TOR",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "9c9d62c4fa270835200a4b1ab268dc88aa7b4cecaad86db210f6c41948d4d691",
+            "status": "pending"
+          }
+        }
+      }
+    ],
+    "sectors": [
+      {
+        "name": "POWER GENERATION",
+        "period": "Q1 FY27",
+        "source_locator": "power-generation-q1fy27-sector-review.html#head"
+      }
+    ],
+    "themes": []
+  },
+  "metrics": {
+    "market": [],
+    "stocks": [],
+    "sectors": [],
+    "flows": [],
+    "fno": [],
+    "flexible": [
+      {
+        "category": "scissor_analysis",
+        "entity": "NTPC",
+        "source_locator": "power-generation-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Tata Power",
+        "source_locator": "power-generation-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "JSW Energy",
+        "source_locator": "power-generation-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Adani Power",
+        "source_locator": "power-generation-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Torrent Power",
+        "source_locator": "power-generation-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TOP CONVICTION BUY",
+        "stock": "NTPC",
+        "target": "Target: \u20b9395 | Upside: +18.8%",
+        "rationale": "15.5% regulated ROE equity compounding, 78.5% thermal PLF, NTPC Green Energy IPO value unlock.",
+        "source_locator": "power-generation-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "HIGH QUALITY BUY",
+        "stock": "Tata Power",
+        "target": "Target: \u20b9435 | Upside: +18.2%",
+        "rationale": "Solar rooftop retail monopoly, 5.6 GW RE capacity, Mundra cost pass-through tariff relief.",
+        "source_locator": "power-generation-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "ACCUMULATE",
+        "stock": "JSW Energy",
+        "target": "Target: \u20b9635 | Upside: +17.6%",
+        "rationale": "34.2% peak EBITDA margin, Mytrah RE integration, 10 GW capacity target by FY27.",
+        "source_locator": "power-generation-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TACTICAL ACCUMULATE",
+        "stock": "Adani Power",
+        "target": "Target: \u20b9245 | Upside: +18.2%",
+        "rationale": "38.5% industry-best margin, Godda cross-border export cashflow, balance sheet deleveraging.",
+        "source_locator": "power-generation-q1fy27-sector-review.html#.call"
+      }
+    ]
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}

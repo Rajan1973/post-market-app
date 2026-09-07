@@ -1,0 +1,284 @@
+{
+  "report": {
+    "type": "sector",
+    "title": "EMS (ELECTRONICS MANUFACTURING SERVICES) Sector Review",
+    "date": "2026-09-04",
+    "headline": "",
+    "standfirst": "",
+    "subtitle": "RAJAN SECTOR EARNINGS REVIEW \u2022 Q1 FY27 \u2022 SECTOR #5",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "ems-q1fy27-sector-review.html",
+    "source_hash": "2eafdc8d525bf144b3dce592f825cd1175d41bbe583ab1f15373b64367635bc3"
+  },
+  "sections": [
+    {
+      "section_code": "thesis",
+      "section_title": "Sector Synthesis & Thesis",
+      "content": "The Indian Electronics Manufacturing Services (EMS) Sector is experiencing a historic structural boom anchored by global\nChina+1 diversification, domestic PLI incentives, and rapid localization of consumer electronics, automotive EVs, and defence avionics\n.\nWhile low-margin consumer assembly players (Dixon) win on sheer volume scale and PLI subsidies, specialized EMS champions (Kaynes, Cyient DLM) command superior gross margins (10-15% OPM) by offering\nend-to-end original design manufacturing (ODM) and high-reliability box builds\n.",
+      "source_locator": "ems-q1fy27-sector-review.html#.synth"
+    }
+  ],
+  "entities": {
+    "stocks": [
+      {
+        "symbol": "DIX",
+        "company_name": "DIX",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+48.5%)": "\u20b96,580 Cr",
+          "OPM (+140 bps)": "4.2%",
+          "Mobile Segment Share": "74%",
+          "Net Profit (+58.2%)": "\u20b9215 Cr"
+        },
+        "bullets": [
+          "Mobile & EMS segment revenue doubled YoY, driven by Xiaomi and Transsion smartphone assembly contracts.",
+          "Ismartu acquisition integration completed; laptop & tablet PLI manufacturing ramping up.",
+          "Component backward integration (display modules, camera modules) expanding long-term margin potential."
+        ],
+        "flags": [
+          "Undisputed EMS Leader",
+          "PLI Champion",
+          "Low Gross Margin"
+        ],
+        "source_locator": "ems-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "ede55afb-60f3-4878-a457-c59499ad9478",
+            "raw_name": "DIX",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "2eafdc8d525bf144b3dce592f825cd1175d41bbe583ab1f15373b64367635bc3",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "KAY",
+        "company_name": "KAY",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+38.2%)": "\u20b9642 Cr",
+          "OPM (+210 bps)": "15.4%",
+          "Order Backlog": "\u20b95,100 Cr",
+          "Net Profit (+45.1%)": "\u20b972 Cr"
+        },
+        "bullets": [
+          "Industry-leading OPM (15.4%) driven by high-reliability industrial, automotive, and railway electronics box-builds.",
+          "OSAT semiconductor assembly plant in Sanand, Gujarat progressing towards commercial trial runs.",
+          "Order book expanded to \u20b95,100 Cr, providing strong multi-year revenue visibility."
+        ],
+        "flags": [
+          "15.4% Peak Sector OPM",
+          "OSAT Semiconductor Play",
+          "High Working Capital"
+        ],
+        "source_locator": "ems-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "69ef6052-a48d-4cda-b3d8-2f69726b9ada",
+            "raw_name": "KAY",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "2eafdc8d525bf144b3dce592f825cd1175d41bbe583ab1f15373b64367635bc3",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "SYR",
+        "company_name": "SYR",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+28.1%)": "\u20b9585 Cr",
+          "OPM (+110 bps)": "7.8%",
+          "Auto & Industrial Mix": "52%",
+          "Net Profit (+32.4%)": "\u20b938 Cr"
+        },
+        "bullets": [
+          "Automotive EV electronics and smart meter PCBA assembly leading topline growth.",
+          "Johari Digital acquisition synergies boosting high-margin healthcare devices export mix.",
+          "Working capital optimization reducing inventory days by 12 days in Q1."
+        ],
+        "flags": [
+          "Diversified Client Base",
+          "Medical Electronics",
+          "Consumer Mix Pressure"
+        ],
+        "source_locator": "ems-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "b7e9f7c0-3c81-4e26-92d6-be654b8cf7ae",
+            "raw_name": "SYR",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "2eafdc8d525bf144b3dce592f825cd1175d41bbe583ab1f15373b64367635bc3",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "CYI",
+        "company_name": "CYI",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+31.4%)": "\u20b9365 Cr",
+          "OPM (+180 bps)": "10.2%",
+          "Aerospace & Defence Mix": "45%",
+          "Net Profit (+39.5%)": "\u20b928 Cr"
+        },
+        "bullets": [
+          "High-precision aerospace & defence electronics assembly driving margin expansion.",
+          "Key client additions in global avionics and industrial robotics verticals.",
+          "Clean balance sheet supported by net IPO proceeds, fueling Mysuru facility expansion."
+        ],
+        "flags": [
+          "Aerospace & Defence Niche",
+          "High Margin Box Build",
+          "Client Concentration"
+        ],
+        "source_locator": "ems-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "47d64c4f-a4b1-48b9-80af-08bee5b4545d",
+            "raw_name": "CYI",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "2eafdc8d525bf144b3dce592f825cd1175d41bbe583ab1f15373b64367635bc3",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "AVA",
+        "company_name": "AVA",
+        "guidance_delivery": "IN-LINE",
+        "metrics": {
+          "Q1 Revenue (+24.5%)": "\u20b9298 Cr",
+          "OPM (+150 bps)": "9.6%",
+          "US Export Share": "55%",
+          "Net Profit (+28.0%)": "\u20b922 Cr"
+        },
+        "bullets": [
+          "US export order execution recovering smoothly across clean energy and industrial power.",
+          "Full box-build system integration mix expanded to 44% of revenues.",
+          "New facility in Chennai fully operational, ramping up high-reliability PCB manufacturing."
+        ],
+        "flags": [
+          "High US Export Share",
+          "Box Build Focus",
+          "US Macro Sensitivity"
+        ],
+        "source_locator": "ems-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "7d686c70-a7bd-4a39-aad7-ee26793b3191",
+            "raw_name": "AVA",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "2eafdc8d525bf144b3dce592f825cd1175d41bbe583ab1f15373b64367635bc3",
+            "status": "pending"
+          }
+        }
+      }
+    ],
+    "sectors": [
+      {
+        "name": "EMS (ELECTRONICS MANUFACTURING SERVICES)",
+        "period": "Q1 FY27",
+        "source_locator": "ems-q1fy27-sector-review.html#head"
+      }
+    ],
+    "themes": []
+  },
+  "metrics": {
+    "market": [],
+    "stocks": [],
+    "sectors": [],
+    "flows": [],
+    "fno": [],
+    "flexible": [
+      {
+        "category": "scissor_analysis",
+        "entity": "Dixon Technologies",
+        "source_locator": "ems-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Kaynes Technology",
+        "source_locator": "ems-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Syrma SGS Tech",
+        "source_locator": "ems-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Cyient DLM",
+        "source_locator": "ems-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Avalon Technologies",
+        "source_locator": "ems-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TOP CONVICTION BUY",
+        "stock": "Kaynes Technology",
+        "target": "Target: \u20b94,150 | Upside: +15%",
+        "rationale": "Industry peak 15.4% OPM, \u20b95,100 Cr order book, Sanand OSAT semiconductor assembly catalyst.",
+        "source_locator": "ems-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "SCALE CHAMPION BUY",
+        "stock": "Dixon Technologies",
+        "target": "Target: \u20b916,200 | Upside: +14%",
+        "rationale": "Undisputed leader in Indian mobile & IT hardware manufacturing, massive PLI beneficiary.",
+        "source_locator": "ems-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "DEFENCE NICHE BUY",
+        "stock": "Cyient DLM",
+        "target": "Target: \u20b9980 | Upside: +14%",
+        "rationale": "45% Aerospace & Defence mix, strong export visibility, expanding Mysuru facility.",
+        "source_locator": "ems-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "ACCUMULATE ON DIPS",
+        "stock": "Syrma SGS Technology",
+        "target": "Target: \u20b91,680 | Upside: +15%",
+        "rationale": "Auto & medical electronics growth, Johari Digital acquisition synergies driving export mix.",
+        "source_locator": "ems-q1fy27-sector-review.html#.call"
+      }
+    ]
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}

@@ -1,0 +1,243 @@
+{
+  "report": {
+    "type": "sector",
+    "title": "PLATFORM FINTECH Sector Review",
+    "date": "2026-09-04",
+    "headline": "",
+    "standfirst": "",
+    "subtitle": "RAJAN SECTOR EARNINGS REVIEW \u2022 Q1 FY27 \u2022 SECTOR #10",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "platform-fintech-q1fy27-sector-review.html",
+    "source_hash": "ffa8d076af38d2a6a81d6085d9be0334a924eb3208583e400d226630443674fc"
+  },
+  "sections": [
+    {
+      "section_code": "thesis",
+      "section_title": "Sector Synthesis & Thesis",
+      "content": "Indian Platform Fintech & Consumer Internet companies have crossed the inflection point from cash burn to sustainable net profitability.\nZomato (Blinkit)\nand\nPB Fintech (Policybazaar)\nrepresent premier market monopolies with immense operating leverage and ad monetization potential over FY27-FY28.",
+      "source_locator": "platform-fintech-q1fy27-sector-review.html#.synth"
+    }
+  ],
+  "entities": {
+    "stocks": [
+      {
+        "symbol": "PBF",
+        "company_name": "PBF",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+34.5%)": "\u20b91,310 Cr",
+          "Contribution Margin (+220 bps)": "39.5%",
+          "Total Insurance Premium": "\u20b94,800 Cr",
+          "Net Profit (+82.1%)": "\u20b9112 Cr"
+        },
+        "bullets": [
+          "Core online insurance platform renewal revenue surging; renewal business operates at 85%+ contribution margin.",
+          "Paisabazaar credit disbursal business normalizing with improved risk-adjusted spreads.",
+          "New Initiatives (PB Partners POSP & Gulf Operations) turning contribution margin positive."
+        ],
+        "flags": [
+          "High Renewal Margin",
+          "Fintech Profit Leader",
+          "Unsecured Credit Exposure"
+        ],
+        "source_locator": "platform-fintech-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "e92b8374-c1f1-4a7c-b212-fa4b4798fbf3",
+            "raw_name": "PBF",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "ffa8d076af38d2a6a81d6085d9be0334a924eb3208583e400d226630443674fc",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "PAY",
+        "company_name": "PAY",
+        "guidance_delivery": "IN-LINE",
+        "metrics": {
+          "Q1 Revenue (+18.2%)": "\u20b91,950 Cr",
+          "Contribution Margin (+140 bps)": "56.2%",
+          "Merchant Devices (Soundbox)": "1.15 Cr",
+          "Adjusted EBITDA": "\u20b988 Cr"
+        },
+        "bullets": [
+          "Merchant payment subscription revenue recovering steadily post regulatory transition.",
+          "Soundbox and Card Machine deployments expanding across Tier-2/3 retail merchants.",
+          "Financial Services (loan distribution with bank partners) resuming growth trajectory."
+        ],
+        "flags": [
+          "Soundbox Monopoly",
+          "Positive EBITDA",
+          "Regulatory Friction"
+        ],
+        "source_locator": "platform-fintech-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "8b9111a3-15ee-4096-bd3d-0c0af650b1a4",
+            "raw_name": "PAY",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "ffa8d076af38d2a6a81d6085d9be0334a924eb3208583e400d226630443674fc",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "NYK",
+        "company_name": "NYK",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+23.8%)": "\u20b91,780 Cr",
+          "Gross Margin (+120 bps)": "44.1%",
+          "BPC GMV (+26.2%)": "\u20b92,450 Cr",
+          "Net Profit (+48.5%)": "\u20b934 Cr"
+        },
+        "bullets": [
+          "Beauty & Personal Care (BPC) vertical top-line growth accelerated to +26% YoY with expanding gross margins.",
+          "Fashion segment contribution margin improving through reduced fulfillment costs and higher average order value.",
+          "Superstore B2B distribution scaling fast, connecting 150,000+ retail beauty stores."
+        ],
+        "flags": [
+          "BPC Brand Equity",
+          "Ad Income Monetization",
+          "Fashion Segment Competition"
+        ],
+        "source_locator": "platform-fintech-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "0988ad4a-e8f7-48cc-97b7-ee4d87ffe20e",
+            "raw_name": "NYK",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "ffa8d076af38d2a6a81d6085d9be0334a924eb3208583e400d226630443674fc",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "ZOM",
+        "company_name": "ZOM",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+37.4%)": "\u20b94,210 Cr",
+          "Contribution Margin (+280 bps)": "28.4%",
+          "Blinkit Dark Stores": "1,120",
+          "Net Profit (+110%)": "\u20b9285 Cr"
+        },
+        "bullets": [
+          "Blinkit Quick Commerce GOV surged +115% YoY; dark store economics turning EBITDA positive.",
+          "Food Delivery GOV grew steady +21% YoY with platform fee increases boosting take-rates.",
+          "Going Out (Hyperpure B2B & Events) scaling revenue contribution cleanly."
+        ],
+        "flags": [
+          "Blinkit Market Monopoly",
+          "Net Profit Acceleration",
+          "Dark Store Capex Intensity"
+        ],
+        "source_locator": "platform-fintech-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "5876ca7f-b81e-4936-898f-fde38fd7003d",
+            "raw_name": "ZOM",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "ffa8d076af38d2a6a81d6085d9be0334a924eb3208583e400d226630443674fc",
+            "status": "pending"
+          }
+        }
+      }
+    ],
+    "sectors": [
+      {
+        "name": "PLATFORM FINTECH",
+        "period": "Q1 FY27",
+        "source_locator": "platform-fintech-q1fy27-sector-review.html#head"
+      }
+    ],
+    "themes": []
+  },
+  "metrics": {
+    "market": [],
+    "stocks": [],
+    "sectors": [],
+    "flows": [],
+    "fno": [],
+    "flexible": [
+      {
+        "category": "scissor_analysis",
+        "entity": "PB Fintech (Policybazaar)",
+        "source_locator": "platform-fintech-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Paytm (One97 Comm)",
+        "source_locator": "platform-fintech-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Nykaa (FSN E-Commerce)",
+        "source_locator": "platform-fintech-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Zomato (Blinkit)",
+        "source_locator": "platform-fintech-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TOP CONVICTION BUY",
+        "stock": "Zomato (Blinkit)",
+        "target": "Target: \u20b9315 | Upside: +18.9%",
+        "rationale": "Blinkit quick commerce hyper-growth (+115%), food delivery take-rate expansion, net profit compounding.",
+        "source_locator": "platform-fintech-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "HIGH QUALITY BUY",
+        "stock": "PB Fintech",
+        "target": "Target: \u20b92,180 | Upside: +18.7%",
+        "rationale": "Policybazaar 85%+ renewal margin, insurance digital monopoly, surging net profit (+82%).",
+        "source_locator": "platform-fintech-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "ACCUMULATE",
+        "stock": "Nykaa",
+        "target": "Target: \u20b9390 | Upside: +17.3%",
+        "rationale": "BPC market leadership, expanding ad revenue contribution, turning fashion segment profitable.",
+        "source_locator": "platform-fintech-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TACTICAL RECOVERY WATCH",
+        "stock": "Paytm",
+        "target": "Target: \u20b91,920 | Upside: +15.7%",
+        "rationale": "Soundbox subscription recovery, positive EBITDA, monitor regulatory clearances.",
+        "source_locator": "platform-fintech-q1fy27-sector-review.html#.call"
+      }
+    ]
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}

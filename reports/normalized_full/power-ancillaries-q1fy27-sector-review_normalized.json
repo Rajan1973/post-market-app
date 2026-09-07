@@ -1,0 +1,243 @@
+{
+  "report": {
+    "type": "sector",
+    "title": "POWER ANCILLARIES Sector Review",
+    "date": "2026-09-04",
+    "headline": "",
+    "standfirst": "",
+    "subtitle": "RAJAN SECTOR EARNINGS REVIEW \u2022 Q1 FY27 \u2022 SECTOR #11",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "power-ancillaries-q1fy27-sector-review.html",
+    "source_hash": "51a10507cdbd6498328a69e523ac957a5a2fa5ba9030ee963e3179d1641235bd"
+  },
+  "sections": [
+    {
+      "section_code": "thesis",
+      "section_title": "Sector Synthesis & Thesis",
+      "content": "India's Power Ancillaries sector is in the midst of a multi-year super-cycle driven by\nrenewable grid transmission expansion and national smart meter replacement (250M units target)\n.\nMarket leaders with technology moats (\nTRIL for EHV Transformers, Genus for Smart Meters, Schneider for Substation Switchgear\n) offer high earnings visibility backed by record order books.",
+      "source_locator": "power-ancillaries-q1fy27-sector-review.html#.synth"
+    }
+  ],
+  "entities": {
+    "stocks": [
+      {
+        "symbol": "TRIL",
+        "company_name": "TRIL",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+38.2%)": "\u20b9580 Cr",
+          "OPM (+240 bps)": "15.2%",
+          "Order Book": "\u20b93,550 Cr",
+          "Net Profit (+68.4%)": "\u20b952 Cr"
+        },
+        "bullets": [
+          "765kV transformer orders from Power Grid and private RE developers surged +45% YoY.",
+          "Capacity expansion to 45,000 MVA operational; export orders from Americas expanding.",
+          "Net Debt reduced significantly following working capital optimization."
+        ],
+        "flags": [
+          "765kV EHV Leader",
+          "Export Order Momentum",
+          "CRGO Steel Raw Mat Risk"
+        ],
+        "source_locator": "power-ancillaries-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "8bb0e87b-8462-48b1-b0f8-6cf9fc4ef264",
+            "raw_name": "TRIL",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "51a10507cdbd6498328a69e523ac957a5a2fa5ba9030ee963e3179d1641235bd",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "SCH",
+        "company_name": "SCH",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+29.5%)": "\u20b9640 Cr",
+          "OPM (+180 bps)": "16.8%",
+          "Order Book": "\u20b91,850 Cr",
+          "Net Profit (+42.1%)": "\u20b968 Cr"
+        },
+        "bullets": [
+          "Data center and industrial power infrastructure demand driving high-margin switchgear sales.",
+          "Parent MNC technology access supporting SF6-free eco-friendly medium voltage products.",
+          "Export dispatches to Middle East and South East Asia scaling rapidly."
+        ],
+        "flags": [
+          "MNC Tech Moat",
+          "16.8% Peak OPM",
+          "Parent Royalty Cost"
+        ],
+        "source_locator": "power-ancillaries-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "51456f99-7dc4-422a-a1e7-f4e648983f70",
+            "raw_name": "SCH",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "51a10507cdbd6498328a69e523ac957a5a2fa5ba9030ee963e3179d1641235bd",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "HPL",
+        "company_name": "HPL",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+26.1%)": "\u20b9445 Cr",
+          "OPM (+130 bps)": "13.5%",
+          "Order Book": "\u20b92,400 Cr",
+          "Net Profit (+54.2%)": "\u20b928 Cr"
+        },
+        "bullets": [
+          "Metering division dispatches surged +32% YoY under RDSS discom execution.",
+          "Switchgear and Wire/Cable consumer retail divisions posted steady double-digit growth.",
+          "Commercial manufacturing facility operating at 85%+ capacity utilization."
+        ],
+        "flags": [
+          "Smart Meter Pureplay",
+          "Order Book 5x Revenue",
+          "Discom Receivable Days"
+        ],
+        "source_locator": "power-ancillaries-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "c324d3a4-a24c-467f-bda4-272e7a2a7148",
+            "raw_name": "HPL",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "51a10507cdbd6498328a69e523ac957a5a2fa5ba9030ee963e3179d1641235bd",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "GEN",
+        "company_name": "GEN",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+32.0%)": "\u20b9585 Cr",
+          "OPM (+150 bps)": "12.8%",
+          "Largest Smart Meter Pipeline": "\u20b911,000 Cr",
+          "Net Profit (+61.2%)": "\u20b941 Cr"
+        },
+        "bullets": [
+          "Largest market share in India's RDSS smart metering program (AMISP contract pipeline \u20b911,000 Cr).",
+          "Strategic investment partner GIC financing concessionaire project equity requirements.",
+          "Smart meter production capacity expanded to 15 Million units per annum."
+        ],
+        "flags": [
+          "\u20b911k Cr Order Pipeline",
+          "GIC Equity Backing",
+          "Working Capital Drag"
+        ],
+        "source_locator": "power-ancillaries-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "229d3980-5f70-464a-97c5-531c12d54724",
+            "raw_name": "GEN",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "51a10507cdbd6498328a69e523ac957a5a2fa5ba9030ee963e3179d1641235bd",
+            "status": "pending"
+          }
+        }
+      }
+    ],
+    "sectors": [
+      {
+        "name": "POWER ANCILLARIES",
+        "period": "Q1 FY27",
+        "source_locator": "power-ancillaries-q1fy27-sector-review.html#head"
+      }
+    ],
+    "themes": []
+  },
+  "metrics": {
+    "market": [],
+    "stocks": [],
+    "sectors": [],
+    "flows": [],
+    "fno": [],
+    "flexible": [
+      {
+        "category": "scissor_analysis",
+        "entity": "Transformers & Rectifiers",
+        "source_locator": "power-ancillaries-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Schneider Electric Infra",
+        "source_locator": "power-ancillaries-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "HPL Electric & Power",
+        "source_locator": "power-ancillaries-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Genus Power Infra",
+        "source_locator": "power-ancillaries-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TOP CONVICTION BUY",
+        "stock": "Transformers & Rectifiers",
+        "target": "Target: \u20b9920 | Upside: +19.5%",
+        "rationale": "765kV EHV transformer monopoly, export expansion, 38.2% revenue growth delivery.",
+        "source_locator": "power-ancillaries-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "HIGH GROWTH BUY",
+        "stock": "Genus Power Infra",
+        "target": "Target: \u20b9480 | Upside: +18.6%",
+        "rationale": "\u20b911,000 Cr smart meter pipeline, GIC equity partnership, massive RDSS scheme tailwind.",
+        "source_locator": "power-ancillaries-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "ACCUMULATE",
+        "stock": "Schneider Electric Infra",
+        "target": "Target: \u20b91,050 | Upside: +16.8%",
+        "rationale": "MNC technology moat, 16.8% OPM, data center and industrial power infrastructure beneficiary.",
+        "source_locator": "power-ancillaries-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TACTICAL ACCUMULATE",
+        "stock": "HPL Electric & Power",
+        "target": "Target: \u20b9620 | Upside: +17.2%",
+        "rationale": "Smart meter dispatches scaling (+32%), order book 5x TTM revenue, switchgear retail growth.",
+        "source_locator": "power-ancillaries-q1fy27-sector-review.html#.call"
+      }
+    ]
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}

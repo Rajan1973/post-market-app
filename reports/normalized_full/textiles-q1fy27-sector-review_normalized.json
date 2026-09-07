@@ -1,0 +1,284 @@
+{
+  "report": {
+    "type": "sector",
+    "title": "TEXTILES & APPAREL Sector Review",
+    "date": "2026-09-04",
+    "headline": "",
+    "standfirst": "",
+    "subtitle": "RAJAN SECTOR EARNINGS REVIEW \u2022 Q1 FY27 \u2022 SECTOR #14",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "textiles-q1fy27-sector-review.html",
+    "source_hash": "423a34cb26c5bb5413e5690db2e8f110a8eedefb53bee9c5463c54600031f585"
+  },
+  "sections": [
+    {
+      "section_code": "thesis",
+      "section_title": "Sector Synthesis & Thesis",
+      "content": "Indian Textiles & Apparel sector is entering a multi-year export expansion cycle supported by\nUS restocking, Bangladesh order shift, and upcoming UK/EU FTAs\n.\nLow-cost integrated players (\nKPR Mill, Gokaldas Exports, Welspun Living\n) represent high-conviction institutional picks.",
+      "source_locator": "textiles-q1fy27-sector-review.html#.synth"
+    }
+  ],
+  "entities": {
+    "stocks": [
+      {
+        "symbol": "KPR",
+        "company_name": "KPR",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+18.5%)": "\u20b91,850 Cr",
+          "OPM (+150 bps)": "20.2%",
+          "Garment Dispatches": "38 M Pcs",
+          "Net Profit (+22.1%)": "\u20b9245 Cr"
+        },
+        "bullets": [
+          "Garment export volume grew +21% YoY; processing capacity expansion operational.",
+          "100% captive green wind & solar power sourcing maintaining industry-lowest production cost.",
+          "Ethanol and Sugar division contributing stable non-textile cash flow."
+        ],
+        "flags": [
+          "100% Green Power",
+          "20.2% Peak OPM",
+          "Cotton Inventory Holding"
+        ],
+        "source_locator": "textiles-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "46ce4443-4317-4e19-92bd-7338099e9e9a",
+            "raw_name": "KPR",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "423a34cb26c5bb5413e5690db2e8f110a8eedefb53bee9c5463c54600031f585",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "TRI",
+        "company_name": "TRI",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+16.2%)": "\u20b91,740 Cr",
+          "OPM (+120 bps)": "15.1%",
+          "Export Revenue Share": "62.0%",
+          "Net Profit (+28.5%)": "\u20b9148 Cr"
+        },
+        "bullets": [
+          "Home Textiles (Bath & Bed Linen) revenue surged +18% YoY driven by US retailer orders.",
+          "Paper & Chemicals business delivered steady 22%+ operating margins.",
+          "Capacity expansion in Sheeting & Towels operating at 82% capacity utilization."
+        ],
+        "flags": [
+          "Home Textile Scale",
+          "Paper Division Cashflow",
+          "Yarn Margin Volatility"
+        ],
+        "source_locator": "textiles-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "8d02cebb-118c-416b-abde-30cfcb3336bc",
+            "raw_name": "TRI",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "423a34cb26c5bb5413e5690db2e8f110a8eedefb53bee9c5463c54600031f585",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "WEL",
+        "company_name": "WEL",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+21.4%)": "\u20b92,420 Cr",
+          "OPM (+180 bps)": "15.8%",
+          "Export Share": "84.0%",
+          "Net Profit (+38.2%)": "\u20b9210 Cr"
+        },
+        "bullets": [
+          "US Market share in Terry Towels and Bed Linen expanded to record high levels.",
+          "Domestic retail brand (Welspun & Spaces) revenue grew +24% YoY across Indian metros.",
+          "Advanced Textiles (Spunlace) division scaling operational profitability."
+        ],
+        "flags": [
+          "US Retail Monopoly",
+          "Domestic Brand Expansion",
+          "US Macro Sensitivity"
+        ],
+        "source_locator": "textiles-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "f79946bd-de7f-4beb-befe-55cb811e9567",
+            "raw_name": "WEL",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "423a34cb26c5bb5413e5690db2e8f110a8eedefb53bee9c5463c54600031f585",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "GOK",
+        "company_name": "GOK",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+31.0%)": "\u20b9920 Cr",
+          "OPM (+210 bps)": "12.5%",
+          "Export Revenue Share": "88.5%",
+          "Net Profit (+52.4%)": "\u20b968 Cr"
+        },
+        "bullets": [
+          "Atraco and Matrix acquisitions integration complete, unlocking low-cost African manufacturing base.",
+          "Apparel export volumes surged +34% YoY as global brands shift orders away from Bangladesh.",
+          "Madhya Pradesh new garment plant running at peak 90%+ capacity utilization."
+        ],
+        "flags": [
+          "Atraco Acquisition Growth",
+          "Fastest Topline (+31%)",
+          "Labour Cost Inflation"
+        ],
+        "source_locator": "textiles-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "da30f2cb-6136-4818-9731-187c913726c1",
+            "raw_name": "GOK",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "423a34cb26c5bb5413e5690db2e8f110a8eedefb53bee9c5463c54600031f585",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "RAY",
+        "company_name": "RAY",
+        "guidance_delivery": "IN-LINE",
+        "metrics": {
+          "Q1 Revenue (+12.5%)": "\u20b91,280 Cr",
+          "OPM (+140 bps)": "18.5%",
+          "Exclusive Retail Stores": "1,500+",
+          "Net Profit (+19.2%)": "\u20b9135 Cr"
+        },
+        "bullets": [
+          "Branded Textile & Apparel retail business delivered steady 12%+ top-line growth.",
+          "Garmenting export division reported high capacity utilization under long-term global contracts.",
+          "Corporate demerger into Lifestyle & Real Estate units unlocking shareholder value."
+        ],
+        "flags": [
+          "Domestic Retail Monopoly",
+          "Value Unlocking Demerger",
+          "Wedding Season Timing"
+        ],
+        "source_locator": "textiles-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "ebdb90be-49fd-42e2-8294-f39791790ee2",
+            "raw_name": "RAY",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "423a34cb26c5bb5413e5690db2e8f110a8eedefb53bee9c5463c54600031f585",
+            "status": "pending"
+          }
+        }
+      }
+    ],
+    "sectors": [
+      {
+        "name": "TEXTILES & APPAREL",
+        "period": "Q1 FY27",
+        "source_locator": "textiles-q1fy27-sector-review.html#head"
+      }
+    ],
+    "themes": []
+  },
+  "metrics": {
+    "market": [],
+    "stocks": [],
+    "sectors": [],
+    "flows": [],
+    "fno": [],
+    "flexible": [
+      {
+        "category": "scissor_analysis",
+        "entity": "KPR Mill",
+        "source_locator": "textiles-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Trident",
+        "source_locator": "textiles-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Welspun Living",
+        "source_locator": "textiles-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Gokaldas Exports",
+        "source_locator": "textiles-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Raymond",
+        "source_locator": "textiles-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TOP CONVICTION BUY",
+        "stock": "KPR Mill",
+        "target": "Target: \u20b91,410 | Upside: +18.8%",
+        "rationale": "100% green power captive moat, 20.2% peak OPM, garment export expansion champion.",
+        "source_locator": "textiles-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "HIGH GROWTH BUY",
+        "stock": "Gokaldas Exports",
+        "target": "Target: \u20b9940 | Upside: +19.1%",
+        "rationale": "Fastest growth (+31%), Atraco acquisition synergies, major beneficiary of Bangladesh order reallocation.",
+        "source_locator": "textiles-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "ACCUMULATE",
+        "stock": "Welspun Living",
+        "target": "Target: \u20b9248 | Upside: +18.9%",
+        "rationale": "US retail market share leader, 84% export share, expanding domestic consumer brand.",
+        "source_locator": "textiles-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TACTICAL ACCUMULATE",
+        "stock": "Trident",
+        "target": "Target: \u20b928.5 | Upside: +18.0%",
+        "rationale": "Home textiles recovery, high-margin paper division cash flows, capacity utilization scaling.",
+        "source_locator": "textiles-q1fy27-sector-review.html#.call"
+      }
+    ]
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}

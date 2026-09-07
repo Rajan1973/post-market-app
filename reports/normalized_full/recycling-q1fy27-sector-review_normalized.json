@@ -1,0 +1,64 @@
+{
+  "report": {
+    "type": "sector",
+    "title": "Recycling & Waste Management Sector Review",
+    "date": "2026-09-04",
+    "headline": "",
+    "standfirst": "",
+    "subtitle": "Institutional Equity Research \u2022 Q1 FY27 Sector Earnings Review",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "recycling-q1fy27-sector-review.html",
+    "source_hash": "690194ff385b2684f57cfeda915cd69979215d25e7de0291be887ee9b7455a3f"
+  },
+  "sections": [],
+  "entities": {
+    "stocks": [],
+    "sectors": [
+      {
+        "name": "Recycling & Waste Management",
+        "period": "Q1 FY27",
+        "source_locator": "recycling-q1fy27-sector-review.html#head"
+      }
+    ],
+    "themes": []
+  },
+  "metrics": {
+    "market": [],
+    "stocks": [],
+    "sectors": [],
+    "flows": [],
+    "fno": [],
+    "flexible": [
+      {
+        "category": "scissor_analysis",
+        "entity": "Gravita India",
+        "source_locator": "recycling-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Ganesha Ecosphere",
+        "source_locator": "recycling-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Pondy Oxides",
+        "source_locator": "recycling-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Antony Waste",
+        "source_locator": "recycling-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Tinna Rubber",
+        "source_locator": "recycling-q1fy27-sector-review.html#.scissor"
+      }
+    ]
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}

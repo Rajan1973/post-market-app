@@ -1,0 +1,276 @@
+{
+  "report": {
+    "type": "sector",
+    "title": "HOSPITAL CHAINS Sector Review",
+    "date": "2026-09-04",
+    "headline": "",
+    "standfirst": "",
+    "subtitle": "RAJAN SECTOR EARNINGS REVIEW \u2022 Q1 FY27 \u2022 SECTOR #7",
+    "period_start": null,
+    "period_end": null,
+    "source_file": "hospital-chains-q1fy27-sector-review.html",
+    "source_hash": "3a2d44747bce97099ebad49bb3bd202f58baf8eda6f9e77ba9f591d733301f0e"
+  },
+  "sections": [
+    {
+      "section_code": "thesis",
+      "section_title": "Sector Synthesis & Thesis",
+      "content": "The Indian Hospital Sector is benefiting from structural tailwinds: rising lifestyle disease burden, expanding private insurance coverage, and growing international medical tourism.\nOrganized chains with strong clinical moats (\nMax, Apollo, Medanta\n) are capitalizing on high pricing power and brownfield capacity additions to generate ROCE >20% and sustainable double-digit earnings growth.",
+      "source_locator": "hospital-chains-q1fy27-sector-review.html#.synth"
+    }
+  ],
+  "entities": {
+    "stocks": [
+      {
+        "symbol": "APO",
+        "company_name": "APO",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+15.2%)": "\u20b95,080 Cr",
+          "Healthcare OPM (+120 bps)": "24.1%",
+          "ARPOB (\u20b9/day)": "\u20b958,900",
+          "Net Profit (+28.4%)": "\u20b9315 Cr"
+        },
+        "bullets": [
+          "Healthcare Services revenue grew +14% YoY; bed occupancy sustained at strong 68% levels.",
+          "Apollo 2.0 digital platform break-even roadmap progressing with GMV scale.",
+          "Oncology & Organ Transplant procedures expanded +19% YoY, boosting ARPOB by +8.2%."
+        ],
+        "flags": [
+          "Pan-India Network",
+          "Pharmacy Monetization",
+          "Digital 2.0 Spend"
+        ],
+        "source_locator": "hospital-chains-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": true,
+          "entity_id": "b8c9539c-5f32-5653-b102-702da0727f4a",
+          "confidence": 0.85,
+          "matched_alias": "APLAPOLLO"
+        }
+      },
+      {
+        "symbol": "MAX",
+        "company_name": "MAX",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+20.1%)": "\u20b91,980 Cr",
+          "OPM (+160 bps)": "27.2%",
+          "Peak ARPOB (\u20b9/day)": "\u20b978,500",
+          "Net Profit (+22.1%)": "\u20b9365 Cr"
+        },
+        "bullets": [
+          "Industry-leading ARPOB (\u20b978,500/day) driven by metro NCR/Mumbai focus and high-end tertiary care mix.",
+          "Acquisitions (Sahyadri/St. Stephen's expansion) integration on track; bed capacity doubling over 4 years.",
+          "Institutional payor mix reduced to <10%, maximizing cash and TPA commercial realization."
+        ],
+        "flags": [
+          "Highest ARPOB",
+          "27.2% Industry Margin",
+          "Integration Execution"
+        ],
+        "source_locator": "hospital-chains-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "de028118-b157-427f-9e7e-b9da92602c28",
+            "raw_name": "MAX",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "3a2d44747bce97099ebad49bb3bd202f58baf8eda6f9e77ba9f591d733301f0e",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "FOR",
+        "company_name": "FOR",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+14.5%)": "\u20b91,850 Cr",
+          "OPM (+110 bps)": "19.8%",
+          "ARPOB (\u20b9/day)": "\u20b957,200",
+          "Net Profit (+32.1%)": "\u20b9174 Cr"
+        },
+        "bullets": [
+          "Hospital business revenue up +15.5% YoY with ARPOB expanding +7.8% YoY.",
+          "Diagnostics business (SRL / Agilus) recovery underway with margin expansion.",
+          "Brownfield bed addition of 1,400+ beds underway across key NCR & Bengaluru units."
+        ],
+        "flags": [
+          "IHH Support",
+          "Agilus Turnaround",
+          "Legal/Land Overhang"
+        ],
+        "source_locator": "hospital-chains-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "1c2ddca0-343f-41bc-a759-e5ad8e11b46b",
+            "raw_name": "FOR",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "3a2d44747bce97099ebad49bb3bd202f58baf8eda6f9e77ba9f591d733301f0e",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "NH",
+        "company_name": "NH",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+16.8%)": "\u20b91,340 Cr",
+          "OPM (+140 bps)": "22.5%",
+          "ARPOB (\u20b9/day)": "\u20b946,100",
+          "Net Profit (+19.4%)": "\u20b9205 Cr"
+        },
+        "bullets": [
+          "Cayman Islands unit posted robust high-margin revenue; India core hospital revenue up +14%.",
+          "Cost-efficient healthcare model delivering superior asset turnover and return on capital.",
+          "New specialty units in Kolkata and Bengaluru scaling operational profitability."
+        ],
+        "flags": [
+          "Cayman High Cashflow",
+          "Cost Efficient",
+          "Lower ARPOB vs Metro Peers"
+        ],
+        "source_locator": "hospital-chains-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "21830772-467d-46ee-8ac0-2f1a614b7cb3",
+            "raw_name": "NH",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "3a2d44747bce97099ebad49bb3bd202f58baf8eda6f9e77ba9f591d733301f0e",
+            "status": "pending"
+          }
+        }
+      },
+      {
+        "symbol": "MED",
+        "company_name": "MED",
+        "guidance_delivery": "BEAT",
+        "metrics": {
+          "Q1 Revenue (+22.4%)": "\u20b9960 Cr",
+          "OPM (+180 bps)": "25.4%",
+          "ARPOB (\u20b9/day)": "\u20b965,400",
+          "Net Profit (+35.6%)": "\u20b9132 Cr"
+        },
+        "bullets": [
+          "Noida new hospital ramp-up accelerating; Lucknow and Patna hospitals reaching peak EBITDA margins.",
+          "Gurugram flagship hospital maintained high 62%+ occupancy with expanding clinical specialties.",
+          "Outpatient (OPD) footfalls grew +16% YoY with strong international patient volumes."
+        ],
+        "flags": [
+          "Super-Specialty Moat",
+          "Fastest Growth",
+          "Single Location Dominance"
+        ],
+        "source_locator": "hospital-chains-q1fy27-sector-review.html#.c",
+        "entity_resolution": {
+          "resolved": false,
+          "entity_id": null,
+          "confidence": 0.0,
+          "unresolved_record": {
+            "id": "5bc8498b-bd27-4cdd-8213-8c567e756145",
+            "raw_name": "MED",
+            "entity_type": "stock",
+            "candidate_matches": [],
+            "confidence": 0.0,
+            "source_report_id": "3a2d44747bce97099ebad49bb3bd202f58baf8eda6f9e77ba9f591d733301f0e",
+            "status": "pending"
+          }
+        }
+      }
+    ],
+    "sectors": [
+      {
+        "name": "HOSPITAL CHAINS",
+        "period": "Q1 FY27",
+        "source_locator": "hospital-chains-q1fy27-sector-review.html#head"
+      }
+    ],
+    "themes": []
+  },
+  "metrics": {
+    "market": [],
+    "stocks": [],
+    "sectors": [],
+    "flows": [],
+    "fno": [],
+    "flexible": [
+      {
+        "category": "scissor_analysis",
+        "entity": "Apollo Hospitals",
+        "source_locator": "hospital-chains-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Max Healthcare",
+        "source_locator": "hospital-chains-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Fortis Healthcare",
+        "source_locator": "hospital-chains-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Narayana Hrudayalaya",
+        "source_locator": "hospital-chains-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "scissor_analysis",
+        "entity": "Global Health (Medanta)",
+        "source_locator": "hospital-chains-q1fy27-sector-review.html#.scissor"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TOP CONVICTION BUY",
+        "stock": "Max Healthcare",
+        "target": "Target: \u20b91,180 | Upside: +19.8%",
+        "rationale": "Industry-best ARPOB (\u20b978,500), 27.2% EBITDA margin, aggressive brownfield expansion pipeline.",
+        "source_locator": "hospital-chains-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "HIGH QUALITY BUY",
+        "stock": "Apollo Hospitals",
+        "target": "Target: \u20b910,200 | Upside: +17.9%",
+        "rationale": "Pan-India market dominance, pharmacy monetization, 2.0 digital platform value unlocking.",
+        "source_locator": "hospital-chains-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "ACCUMULATE",
+        "stock": "Global Health (Medanta)",
+        "target": "Target: \u20b91,750 | Upside: +19.0%",
+        "rationale": "Fastest growth (+22.4%), high super-specialty brand equity, upcoming Noida mega-hospital trigger.",
+        "source_locator": "hospital-chains-q1fy27-sector-review.html#.call"
+      },
+      {
+        "category": "valuation_call",
+        "rating": "TACTICAL ACCUMULATE",
+        "stock": "Fortis Healthcare",
+        "target": "Target: \u20b91,060 | Upside: +17.1%",
+        "rationale": "Steady ARPOB growth, Agilus diagnostics recovery, 1,400 bed addition pipeline.",
+        "source_locator": "hospital-chains-q1fy27-sector-review.html#.call"
+      }
+    ]
+  },
+  "narrative": [],
+  "events": [],
+  "signals": [],
+  "relationships": []
+}
