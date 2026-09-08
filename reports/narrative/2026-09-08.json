@@ -1,0 +1,223 @@
+{
+  "report_date": "2026-09-08",
+  "headline": "NIFTY & BEYOND",
+  "standfirst": "What the index doesn't tell you · NSE · Tuesday, 8 September 2026",
+  "s1_summary_note": "Indian equities extended losses for a second session as Nifty dropped 144.05 pts (-0.61%) to close at 23,635.10, while Sensex shed 555.23 pts (-0.73%) to settle at 75,577.58. Nifty 500 breadth showed 220 advances against 274 declines (A/D 0.80). Domestic institutions provided massive buying support (+₹1,349.64 Cr), absorbing 1,095.6% of mild FII net selling (-₹123.19 Cr). Recent NSE IPO speculative gainers NIACL (-11.24%) and IFCI (-9.66%) faced severe profit-taking, while crude oil firming to $97.40 pressed USD/INR to 94.79.",
+  "s1_bullets": [
+    {
+      "emoji": "📉",
+      "label": "Index",
+      "text": "Nifty 23,635.10 (-0.61%), Sensex 75,577.58 (-0.73%), losing 144.05 pts. Nifty broke below 23,700 intraday support to close near session lows of 23,620."
+    },
+    {
+      "emoji": "📊",
+      "label": "Breadth",
+      "text": "220 shares up, 274 down in Nifty 500 (A/D 0.80). Breadth improved from Monday's 0.53, but heavy weightings in financials and IT dragged indices."
+    },
+    {
+      "emoji": "🏦",
+      "label": "Institutional Flows",
+      "text": "DIIs stepped up with +₹1,349.64 Cr net buying, absorbing 1,095.6% of FII net sales (-₹123.19 Cr). Month-to-date DII net inflow reached ₹20,483.78 Cr."
+    },
+    {
+      "emoji": "⚡",
+      "label": "Standout Catalyst",
+      "text": "NSE IPO speculative trades unwound rapidly: New India Assurance (NIACL) plunged 11.24% on 4.61x volume, while IFCI fell 9.66% on 3.11x volume."
+    },
+    {
+      "emoji": "🚀",
+      "label": "Tijori Momentum Intel",
+      "text": "GE Vernova T&D (GVT&D) jumped 8.77% on 4.08x volume on grid transmission order wins, while Data Patterns rose 7.44% on 3.12x volume."
+    },
+    {
+      "emoji": "😌",
+      "label": "Fear Gauge",
+      "text": "India VIX edged up 0.07 pts (+0.6%) to 11.23, staying compressed despite index weakness on Nifty weekly options expiry day."
+    }
+  ],
+  "s1_commodities": [
+    { "name": "Brent crude", "value": "$97.40", "change": "+1.67%", "dir": "up" },
+    { "name": "Gold (MCX Oct, ₹/10g)", "value": "₹1,54,820", "change": "+0.63%", "dir": "up" },
+    { "name": "Silver (MCX Dec, ₹/kg)", "value": "₹2,40,350", "change": "+0.51%", "dir": "up" },
+    { "name": "Copper (MCX Sep, ₹/kg)", "value": "₹1,388.90", "change": "+0.32%", "dir": "up" },
+    { "name": "Aluminium (MCX Sep, ₹/kg)", "value": "₹340.40", "change": "+0.37%", "dir": "up" },
+    { "name": "USD/INR", "value": "94.7900", "change": "rupee -0.32%", "dir": "down" }
+  ],
+  "s1_commodities_source": "MCX EOD & Bloomberg Spot Rates",
+  "s1_metals": [],
+  "s2_glosses": {
+    "Breadth": "40.4% of Nifty 500 stocks sit above their 50-day average, with an advance/decline ratio of 0.80 (percentile score 31.0).",
+    "Trend": "Nifty sits 3.88% below its 200-day moving average (-3.88% vs 200D), reinforcing structural trend weakness.",
+    "Momentum": "A/D ratio at 0.80 ranks 106th out of 246 sessions, placing momentum score at 43.1.",
+    "InstitutionalFlow": "FII flow rank (21/41) and DII flow rank (15/41) yield a composite flow score of 42.7.",
+    "Volatility": "Nifty 50 ATR at 0.74% of price (43rd lowest of 250 sessions) maintains volatility calm score at 83.0."
+  },
+  "s2_composition_note": "The composite regime score recovered slightly to 40.3 (Neutral band) from 34.1 on Monday. Disagreement sits at 52.4 points between Volatility (83.0) and Trend (30.6). Excluding Volatility, the core regime score drops to 35.5.",
+  "s3_anomalies": [
+    {
+      "title": "New India Assurance — down 11.24% on 4.61x volume (NSE IPO Unwind)",
+      "text": "NIACL plunged 11.24% on 4.61x 3-month volume to ₹203.50 (+7.2% above 20SMA, RSI 57.7, ADX 41.6). Sharp profit-taking following Friday's +17.7% surge as speculative traders unwound positions linked to the upcoming NSE IPO stake valuation."
+    },
+    {
+      "title": "IDBI Bank — down 10.62% on 3.73x volume (PSU Banking Selloff)",
+      "text": "IDBI Bank fell 10.62% on 3.73x volume to ₹78.20 (-6.8% below 20SMA, RSI 37.2, ADX 36.0). Unwinding driven by delays in strategic divestment bidding timelines and broader PSU banking weakness."
+    },
+    {
+      "title": "IFCI Ltd — down 9.66% on 3.11x volume (Speculative Giveback)",
+      "text": "IFCI dropped 9.66% on 3.11x volume to ₹58.40 (+7.4% above 20SMA, RSI 58.6, ADX 38.4). Surrendered recent gains alongside NIACL in a coordinated exit from NSE IPO proxy plays."
+    },
+    {
+      "title": "GE Vernova T&D (GVT&D) — 8.77% on 4.08x volume (Grid Order Wins)",
+      "text": "GVT&D surged 8.77% on 4.08x volume to ₹1,485 (+10.4% above 20SMA, RSI 64.8, ADX 16.5). Driven by power grid transmission equipment order wins and national grid capacity expansion."
+    },
+    {
+      "title": "Nifty 50 ATR — 0.74% of price (Low Volatility Compression)",
+      "text": "Nifty ATR remained compressed at 0.74% of price (43rd lowest out of 250 sessions). Options implied volatility held calm at 11.23 despite a 144-point index decline."
+    },
+    {
+      "title": "Data Patterns — 7.44% on 3.12x volume (Defense Electronics Momentum)",
+      "text": "Data Patterns rose 7.44% on 3.12x volume to ₹2,840 (+6.5% above 20SMA, RSI 63.6, ADX 11.7). Supported by defense radar and avionics order backlog growth."
+    },
+    {
+      "title": "Pfizer Ltd — down 6.22% on 4.71x volume (Pharma Oversold)",
+      "text": "Pfizer fell 6.22% on 4.71x normal volume (-9.6% below 20SMA, RSI 24.6 deeply oversold, ADX 21.7). Triggered by generic competition news in key respiratory brands."
+    },
+    {
+      "title": "Nifty Oil & Gas Breadth — 26-Point Swing in 5 Sessions",
+      "text": "Nifty Oil & Gas constituents above 20-day average gained 26 percentage points over 5 sessions, leading all sectors as Brent crude rallied to $97.40/bbl."
+    },
+    {
+      "title": "Nifty 500 Advance/Decline — 0.80 (Improved Breadth vs Index)",
+      "text": "0.80 shares rose for every one that fell (220 advances vs 274 declines), ranking 106th of 246 sessions. Demonstrates that index losses were concentrated in heavyweights."
+    },
+    {
+      "title": "DII Net Buying Cushion — ₹1,349.64 Cr (1,095.6% Absorption)",
+      "text": "Domestic institutions bought ₹1,349.64 Cr net, absorbing 1,095.6% of mild FII net sales (-₹123.19 Cr). DII buying provided crucial support at the 23,600 level."
+    }
+  ],
+  "s4_macro_cards": [
+    {
+      "title": "Forex Reserves Buffer",
+      "pill": "$740.8bn",
+      "pill_class": "wn",
+      "meta": "RBI Weekly Release · Record High",
+      "bullets": [
+        "India's foreign exchange reserves stand at a record $740.803 billion, providing strong intervention capacity for the RBI.",
+        "Foreign currency assets ($600.67B) and Gold reserves ($116.41B) cushion the economy against crude-driven import bill spikes."
+      ]
+    },
+    {
+      "title": "Crude Oil Surge & Import Cost Pressures",
+      "pill": "$97.40 / 94.79",
+      "pill_class": "dn",
+      "meta": "Brent Crude & USD/INR Exchange Rate",
+      "bullets": [
+        "Brent crude surged to $97.40/bbl (+1.67%), driven by persistent Middle East transit risks near the Strait of Hormuz.",
+        "Rupee slipped to 94.79 per US dollar (-0.32%) as oil marketing companies stepped up dollar purchases."
+      ]
+    },
+    {
+      "title": "Domestic Institutional Capital Flows",
+      "pill": "+₹20,483 Cr MTD",
+      "pill_class": "up",
+      "meta": "Supabase Flow Table · September MTD",
+      "bullets": [
+        "Domestic mutual funds and institutions added +₹1,349.64 Cr today, bringing September MTD net buying to ₹20,483.78 Cr.",
+        "DII absorption stands at 1,095.6% of daily FII sales, insulating domestic markets from external capital flights."
+      ]
+    }
+  ],
+  "s5_global": [
+    { "instrument": "Dow Jones", "level": "53,610.20", "change": "1D -0.14%", "dir": "down", "signal": "US markets reopened following Labor Day holiday with mild consolidation." },
+    { "instrument": "Nasdaq Composite", "level": "26,550.10", "change": "1D -0.13%", "dir": "down", "signal": "Tech equities traded quiet ahead of CPI inflation readings." },
+    { "instrument": "S&P 500", "level": "7,738.40", "change": "1D -0.12%", "dir": "down", "signal": "US benchmark held steady near recent trading ranges." },
+    { "instrument": "Brent crude", "level": "$97.40", "change": "1D +1.67%", "dir": "up", "signal": "Rallied to multi-week highs on supply disruption concerns." },
+    { "instrument": "US 10-year Treasury", "level": "~4.81%", "change": "1D +3 bps", "dir": "up", "signal": "Bond yields firmed slightly as crude oil gains raised inflation risks." },
+    { "instrument": "USD/INR", "level": "94.7900", "change": "1D rupee -0.32%", "dir": "down", "signal": "Rupee depreciated to 94.79 on elevated crude oil import demand." },
+    { "instrument": "Gold (MCX Oct)", "level": "₹1,54,820 /10g", "change": "1D +0.63%", "dir": "up", "signal": "Safe-haven buying ticked higher alongside crude oil." },
+    { "instrument": "Silver (MCX Dec)", "level": "₹2,40,350 /kg", "change": "1D +0.51%", "dir": "up", "signal": "Precious metals tracked international spot gains." }
+  ],
+  "s5_timing_note": "<b>Global Crude Transmission.</b> Reopening of US financial markets post-Labor Day coincided with a sharp rally in Brent crude to $97.40/bbl (+1.67%). Higher energy prices triggered dollar demand from domestic oil importers, weakening the rupee to 94.79 and weighing on rate-sensitive domestic equities.",
+  "s6_note": "Index divergence across capitalizations: Nifty 50 fell 0.61%, Sensex dropped 0.73%, Nifty Bank lost 0.54%, Nifty Midcap 100 fell 0.45%, and Nifty Smallcap 100 declined 0.38%. Large-caps underperformed broader mid/smallcaps. Intraday price action saw Nifty open at 23,765, touch a high of 23,770, and slide steadily to close at 23,635.10 near session lows.",
+  "s7_note": "Sectoral performance highlights:<br><br><b>NIFTY OIL & GAS</b> — best performing sector, gaining 0.45% with A/D of 1.80 as upstream producers benefited from $97.40 Brent crude.<br><br><b>NIFTY ENERGY</b> — gained 0.32% supported by power transmission names GVT&D (+8.77%) and NTPC.<br><br><b>NIFTY PSU BANK</b> — worst performing sector, dropping 1.45% with A/D of 0.22 as IDBI Bank (-10.62%) and SBI pulled back.<br><br><b>NIFTY IT</b> — lost 0.85% with A/D of 0.33 on broad profit-taking across tech exporters.",
+  "s8_in": ["Nifty Oil & Gas", "Nifty Energy"],
+  "s8_out": ["Nifty PSU Bank", "Nifty IT", "Nifty Financial Services"],
+  "s8_implication": "Money rotated into energy and oil producers on rising crude prices, while banking and tech sectors saw institutional profit-taking.",
+  "s9_note": "Volume anomalies were dominated by Pfizer (4.71x), NIACL (4.61x), GE Vernova T&D (4.08x), IDBI Bank (3.73x), and Data Patterns (3.12x).",
+  "s10_triggers": [
+    {
+      "symbols": "NIACL, IFCI (Fresh Profit-Taking)",
+      "text": "<b>8 Sep 2026 Catalyst:</b> Heavy profit-taking unwound speculative gains from last week's <b>NSE IPO stake revaluation</b>. NIACL dropped 11.24% on 4.61x volume and IFCI lost 9.66% on 3.11x volume."
+    },
+    {
+      "symbols": "GVT&D (Fresh Entry)",
+      "text": "<b>8 Sep 2026 Catalyst:</b> GE Vernova T&D surged 8.77% on 4.08x volume following major power grid transmission equipment order wins for interstate green energy corridors."
+    },
+    {
+      "symbols": "DATAPATTNS (Fresh Entry)",
+      "text": "<b>8 Sep 2026 Catalyst:</b> Data Patterns gained 7.44% on 3.12x volume on defense electronics radar order pipeline expansion."
+    },
+    {
+      "symbols": "BRIGADE (Continued Momentum)",
+      "text": "<b>3 Sep 2026 Catalyst:</b> Official launch of flagship project <b>'Brigade Barcelona'</b> in Hyderabad Neopolis corridor (₹2,700 Cr GDV). Tijori metrics confirm ₹12,915/sq.ft realization and 76% hotel occupancy."
+    }
+  ],
+  "s11_interpretation": "DIIs stepped up with +₹1,349.64 Cr net purchases, absorbing 1,095.6% of mild FII net selling (-₹123.19 Cr). Domestic liquidity remains a powerful stabilizing force at key technical support levels.",
+  "s12_cards": [
+    {
+      "title": "Power Grid Transmission Capex",
+      "lead": "GE Vernova T&D leads capital goods surge on grid equipment orders.",
+      "bullets": [
+        "GVT&D surged 8.77% on 4.08x volume.",
+        "Green energy corridor transmission expansion drives order book growth."
+      ]
+    },
+    {
+      "title": "Defense Electronics Indigenization",
+      "lead": "Data Patterns gains on radar and avionics supply traction.",
+      "bullets": [
+        "Data Patterns rose 7.44% on 3.12x volume.",
+        "Defense electronics demand remains robust."
+      ]
+    }
+  ],
+  "s13": null,
+  "s14": {
+    "watch": [
+      {
+        "item": "23,600 Nifty Intraday Support",
+        "confirms": "Holding above 23,600 prevents downside acceleration toward the 23,500 zone.",
+        "denies": "A breakdown below 23,600 opens technical risk toward the 200D SMA at 23,450."
+      },
+      {
+        "item": "Brent Crude near $98/bbl",
+        "confirms": "Crude stabilizing below $98 prevents further currency pressures on USD/INR.",
+        "denies": "A surge above $100 would escalate imported inflation concerns."
+      },
+      {
+        "item": "DII Net Absorption Strength",
+        "confirms": "Continued DII net buying above ₹1,000 Cr daily insulates domestic equities.",
+        "denies": "A drop in DII net buying would leave the market vulnerable to FII outflows."
+      }
+    ],
+    "events": [
+      "Tuesday 8 September — Nifty weekly options expiry.",
+      "Thursday 10 September — Sensex weekly options expiry.",
+      "Friday 11 September — RBI weekly forex reserves release.",
+      "Saturday 12 September — August CPI inflation data release."
+    ],
+    "bull": [
+      "DIIs bought ₹1,349.64 Cr net, providing 1,095.6% absorption cushion against FII sales.",
+      "Nifty Oil & Gas sector gained +0.45%, leading breadth gains (+26 pts in 5 sessions).",
+      "India forex reserves remain at record $740.8 billion.",
+      "India VIX remains calm at 11.23."
+    ],
+    "bear": [
+      "Nifty lost 144.05 pts (-0.61%), closing near session low of 23,620.",
+      "Sensex dropped 555.23 pts (-0.73%) to 75,577.58.",
+      "Brent crude surged to $97.40/bbl (+1.67%), pressing USD/INR to 94.79.",
+      "PSU Banking (-1.45%) and IT (-0.85%) faced broad institutional selling."
+    ],
+    "closing": "Tuesday's session saw Indian benchmarks extend losses as Nifty dropped 144.05 pts to 23,635.10. While DIIs stepped up with ₹1,349.64 Cr net buying, crude oil surging to $97.40 pressed the rupee to 94.79 and weighed on sentiment. Profit-taking hit recent NSE IPO speculative winners NIACL (-11.24%) and IFCI (-9.66%), while power grid equipment maker GE Vernova T&D (+8.77%) bucked the trend on order wins. Attention now turns to Sensex weekly expiry on Thursday and August CPI inflation data on Saturday."
+  }
+}

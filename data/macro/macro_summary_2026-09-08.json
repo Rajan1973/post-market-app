@@ -1,0 +1,857 @@
+{
+  "date": "2026-09-08",
+  "indicators": {
+    "gst_collection": {
+      "name": "GST Collection",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "gst_collection____(crores)": {
+      "name": "GST Collection    (Crores)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "personal_loans___outstanding": {
+      "name": "Personal Loans - Outstanding",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "credit_card___outstanding_yoy_growth____(%)": {
+      "name": "Credit Card - Outstanding YoY Growth    (%)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "credit_card___outstanding____(rs_billion)": {
+      "name": "Credit Card - Outstanding    (Rs Billion)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "housing_loan_outstanding___yoy_growth____(%)": {
+      "name": "Housing Loan Outstanding - YoY Growth    (%)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "housing_loans___outstanding____(rs_billion)": {
+      "name": "Housing Loans - Outstanding    (RS Billion)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "credit_card_transaction_value": {
+      "name": "Credit Card Transaction Value",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "credit_card_transaction_value____(crores)": {
+      "name": "Credit Card Transaction Value    (Crores)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "airline_traffic___domestic": {
+      "name": "Airline Traffic - Domestic",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "passengers_carried_per_month____(lakhs)": {
+      "name": "Passengers Carried Per Month    (Lakhs)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "spicejet": {
+      "name": "Spicejet",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "indigo": {
+      "name": "Indigo",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "passenger_car___retail_sales": {
+      "name": "Passenger Car - Retail Sales",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "maruti_suzuki": {
+      "name": "Maruti Suzuki",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": "176971"
+    },
+    "tata_motors": {
+      "name": "Tata Motors",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": "65253"
+    },
+    "m&m": {
+      "name": "M&M",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": "59257"
+    },
+    "passenger_vehicle_sold____(nos)": {
+      "name": "Passenger Vehicle Sold    (Nos)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "two_wheeler____retail_sales": {
+      "name": "Two Wheeler  - Retail Sales",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "bajaj_auto": {
+      "name": "Bajaj Auto",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": "201898"
+    },
+    "eicher_motors": {
+      "name": "Eicher Motors",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": "114204"
+    },
+    "tvs_motors": {
+      "name": "TVS Motors",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": "433796"
+    },
+    "hero_motorcorp": {
+      "name": "Hero MotorCorp",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": "542305"
+    },
+    "two_wheelers_sold____(no's)": {
+      "name": "Two Wheelers Sold    (No's)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "foreign_tourist_arrivals": {
+      "name": "Foreign Tourist Arrivals",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "foreign_tourist_arrivals____(number)": {
+      "name": "Foreign Tourist Arrivals    (Number)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "cpi": {
+      "name": "CPI",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "cpi_inflation___urban____(%)": {
+      "name": "CPI Inflation - Urban    (%)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "cpi_inflation___rural____(%)": {
+      "name": "CPI Inflation - Rural    (%)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "net_growth___merchandise_imports": {
+      "name": "Net Growth - Merchandise Imports",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "growth___merchandise_exports____(number)": {
+      "name": "Growth - Merchandise Exports    (Number)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "growth___merchandise_imports____(%)": {
+      "name": "Growth - Merchandise Imports    (%)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "growth___oil_imports____(%)": {
+      "name": "Growth - Oil Imports    (%)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "freight_index___yoy_growth": {
+      "name": "Freight Index - YoY Growth",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "railway_freight___yoy_growth____(%)": {
+      "name": "Railway Freight - YoY Growth    (%)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "railway_freight___tonnes_originated____(mn_tonnes)": {
+      "name": "Railway Freight - Tonnes Originated    (Mn Tonnes)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "e_way_bills_generated___yoy_growth____(%)": {
+      "name": "E-Way Bills Generated - YoY Growth    (%)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "e_way_bills_generated____(crores)": {
+      "name": "E-Way Bills Generated    (Crores)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "life_insurance_premiums": {
+      "name": "Life Insurance Premiums",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "reliance_nippon": {
+      "name": "Reliance Nippon",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "edelweiss_life": {
+      "name": "Edelweiss Life",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "kotak_life": {
+      "name": "Kotak Life",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "aditya_birla": {
+      "name": "Aditya Birla",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "bajaj_finserv": {
+      "name": "Bajaj Finserv",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "max_financial_services": {
+      "name": "Max Financial Services",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "icici_life": {
+      "name": "ICICI Life",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": "9.9"
+    },
+    "sbi_life": {
+      "name": "SBI LIfe",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "hdfc_life": {
+      "name": "HDFC Life",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "lic": {
+      "name": "LIC",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "monthly_new_business_performance____(crs)": {
+      "name": "Monthly New Business Performance    (Crs)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "general_insurance_premiums": {
+      "name": "General Insurance Premiums",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "sundaram_finance_limited": {
+      "name": "Sundaram Finance Limited",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "religare_enterprises_limited": {
+      "name": "Religare Enterprises Limited",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "kotak_mahindra_bank_limited": {
+      "name": "Kotak Mahindra Bank Limited",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "aditya_birla_capital_limited": {
+      "name": "Aditya Birla Capital Limited",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "state_bank_of_india_limited": {
+      "name": "State Bank of India Limited",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "bajaj_finserv_limited": {
+      "name": "Bajaj Finserv Limited",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "general_insurance_corporation_of_india_limited": {
+      "name": "General Insurance Corporation Of India Limited",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "the_new_india_assurance_company_limited": {
+      "name": "The New India Assurance Company Limited",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "reliance_capital_limited": {
+      "name": "Reliance Capital Limited",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "icici_lombard": {
+      "name": "ICICI Lombard",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "monthly_gross_direct_premium_income____(crs)": {
+      "name": "Monthly Gross Direct Premium Income    (Crs)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "net_inflow___equity_funds": {
+      "name": "Net Inflow - Equity Funds",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "net_inflow___equity_funds____(crs)": {
+      "name": "Net Inflow - Equity Funds    (Crs)",
+      "category": "demand",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "credit_to_large_industry___outstanding": {
+      "name": "Credit to Large Industry - Outstanding",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "credit_to_msme___outstanding": {
+      "name": "Credit to MSME - Outstanding",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "production____coal": {
+      "name": "Production -  Coal",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "coal_production____(mil_tonnes)": {
+      "name": "Coal Production    (Mil Tonnes)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "coal_india_production": {
+      "name": "Coal India Production",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "production___crude_oil": {
+      "name": "Production - Crude Oil",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "crude_oil_production____(thsbar/day)": {
+      "name": "Crude Oil Production    (ThsBar/day)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "production____natural_gas": {
+      "name": "Production -  Natural Gas",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "natural_gas_production____(bcf/day)": {
+      "name": "Natural Gas Production    (bcf/day)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "production____petroleum_refinery": {
+      "name": "Production -  Petroleum Refinery",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "refinery_production____(mmt)": {
+      "name": "Refinery Production    (MMT)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "production____fertilizers": {
+      "name": "Production -  Fertilizers",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "monthly_fertilizer_production____(lakh_tonne)": {
+      "name": "Monthly Fertilizer Production    (Lakh Tonne)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "monthly_production___complex_fertilizer____(lakh_tonne)": {
+      "name": "Monthly Production - Complex Fertilizer    (Lakh Tonne)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "monthly_production___dap____(lakh_tonne)": {
+      "name": "Monthly Production - DAP    (Lakh Tonne)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "monthly_production___urea____(lakh_tonne)": {
+      "name": "Monthly Production - Urea    (Lakh Tonne)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "monthly_production___ssp____(lakh_tonne)": {
+      "name": "Monthly Production - SSP    (Lakh Tonne)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "monthly_production___amm_sulphate____(lakh_tonne)": {
+      "name": "Monthly Production - Amm Sulphate    (Lakh Tonne)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "production____steel": {
+      "name": "Production -  Steel",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "crude_steel_production____(mil_tonnes)": {
+      "name": "Crude Steel Production    (Mil Tonnes)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "production____cement": {
+      "name": "Production -  Cement",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "cement_production____(mil_tonnes)": {
+      "name": "Cement Production    (Mil Tonnes)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "production____electricity": {
+      "name": "Production -  Electricity",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "electricity_generation____(bil_units)": {
+      "name": "Electricity Generation    (Bil Units)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "electricity_generation___thermal____(bil_units)": {
+      "name": "Electricity Generation - Thermal    (Bil Units)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "electricity_generation___nuclear____(bil_units)": {
+      "name": "Electricity Generation - Nuclear    (Bil Units)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "electricity_generation___hydro____(bil_units)": {
+      "name": "Electricity Generation - Hydro    (Bil Units)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "commercial_vehicles___retail_sales": {
+      "name": "Commercial Vehicles - Retail Sales",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "commercial_vehicle_sold____(nos)": {
+      "name": "Commercial Vehicle Sold    (Nos)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "tractor_sales": {
+      "name": "Tractor Sales",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "total_tractor_sales____(nos)": {
+      "name": "Total Tractor Sales    (Nos)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "total_tractor_sales___export____(nos)": {
+      "name": "Total Tractor Sales - Export    (Nos)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "total_tractor_sales___domestic____(no's)": {
+      "name": "Total Tractor Sales - Domestic    (No's)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "wpi": {
+      "name": "WPI",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "wpi___manufactured_products____(%)": {
+      "name": "WPI - Manufactured Products    (%)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "wpi___fuel_&_power____(%)": {
+      "name": "WPI - Fuel & Power    (%)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "wpi___food____(%)": {
+      "name": "WPI - Food    (%)",
+      "category": "industry",
+      "latest_period": "Aug 26",
+      "value": null
+    },
+    "gdp": {
+      "name": "GDP",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": "7.8"
+    },
+    "gdp_growth___public_admin,_defence____(%)": {
+      "name": "GDP Growth - Public admin, Defence    (%)",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": "7.5"
+    },
+    "gdp_growth___finance,real_estate_&_professional_services____(%)": {
+      "name": "GDP Growth - Finance,Real Estate & Professional Services    (%)",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": "12.1"
+    },
+    "gdp_growth___trade,_hotels,_transport,_communication,broadcasting____(%)": {
+      "name": "GDP Growth - Trade, Hotels, Transport, Communication,Broadcasting    (%)",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": "8.5"
+    },
+    "gdp_growth___construction____(%)": {
+      "name": "GDP Growth - Construction    (%)",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": "7.7"
+    },
+    "gdp_growth___electricity,_gas__&_water____(%)": {
+      "name": "GDP Growth - Electricity, Gas  & Water    (%)",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": "8.9"
+    },
+    "gdp_growth___manufacturing____(%)": {
+      "name": "GDP Growth - Manufacturing    (%)",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": "9.2"
+    },
+    "gdp_growth___mining____(%)": {
+      "name": "GDP Growth - Mining    (%)",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": "-2.4"
+    },
+    "gdp_growth___agriculture____(%)": {
+      "name": "GDP Growth - Agriculture    (%)",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": "3.6"
+    },
+    "gdp___annualized____($_billion)": {
+      "name": "GDP - Annualized    ($ Billion)",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": "4026"
+    },
+    "fdi": {
+      "name": "FDI",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": null
+    },
+    "fdi___net_inflow____($_billion)": {
+      "name": "FDI - Net Inflow    ($ Billion)",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": null
+    },
+    "fdi___total_inflow____($_million)": {
+      "name": "FDI - Total Inflow    ($ million)",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": null
+    },
+    "foreign_exchange_reserves": {
+      "name": "Foreign Exchange Reserves",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": "-3.6"
+    },
+    "foreign_exchange_reserves____($_billion)": {
+      "name": "Foreign Exchange Reserves    ($ Billion)",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": "674"
+    },
+    "external_debt": {
+      "name": "External Debt",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": null
+    },
+    "total_external_debt____($_billion)": {
+      "name": "Total External Debt    ($ Billion)",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": null
+    },
+    "short_term_debt____(%)": {
+      "name": "Short Term Debt    (%)",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": null
+    },
+    "total_short_term_debt____($_billion)": {
+      "name": "Total Short Term Debt    ($ Billion)",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": null
+    },
+    "long_term_debt____(%)": {
+      "name": "Long Term Debt    (%)",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": null
+    },
+    "total_long_term_debt____($_billion)": {
+      "name": "Total Long Term Debt    ($ Billion)",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": null
+    },
+    "volume_growth___fmcg": {
+      "name": "Volume Growth - FMCG",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": null
+    },
+    "britannia": {
+      "name": "Britannia",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": "9.0"
+    },
+    "colgate_palmolive": {
+      "name": "Colgate Palmolive",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": "4.0"
+    },
+    "marico": {
+      "name": "Marico",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": "11.0"
+    },
+    "bajaj_consumer": {
+      "name": "Bajaj Consumer",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": null
+    },
+    "dabur_india": {
+      "name": "Dabur India",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": "5.0"
+    },
+    "godrej_consumer_products": {
+      "name": "Godrej Consumer Products",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": "9.0"
+    },
+    "jyothy_labs": {
+      "name": "Jyothy Labs",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": null
+    },
+    "hul": {
+      "name": "HUL",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": "5.0"
+    },
+    "emami": {
+      "name": "Emami",
+      "category": "gdp",
+      "latest_period": "Jun 26",
+      "value": null
+    }
+  },
+  "metals": [
+    {
+      "name": "Met Coke",
+      "ltp_vs_52w_high": "0%",
+      "change_1w": "8.1%",
+      "change_1m": "13.3%",
+      "change_3m": null
+    },
+    {
+      "name": "Ferro Chrome",
+      "ltp_vs_52w_high": "-4.7%",
+      "change_1w": "-0.2%",
+      "change_1m": "-0.7%",
+      "change_3m": null
+    },
+    {
+      "name": "Silico Manganese",
+      "ltp_vs_52w_high": "-2.3%",
+      "change_1w": "0.9%",
+      "change_1m": "2%",
+      "change_3m": null
+    },
+    {
+      "name": "Steel Flat",
+      "ltp_vs_52w_high": "0%",
+      "change_1w": "3.2%",
+      "change_1m": "6.9%",
+      "change_3m": null
+    },
+    {
+      "name": "Steel Long",
+      "ltp_vs_52w_high": "-4.7%",
+      "change_1w": "4%",
+      "change_1m": "10%",
+      "change_3m": null
+    },
+    {
+      "name": "Scrap",
+      "ltp_vs_52w_high": "-1.9%",
+      "change_1w": "-1.7%",
+      "change_1m": "8%",
+      "change_3m": null
+    },
+    {
+      "name": "Sponge Iron",
+      "ltp_vs_52w_high": "-3.4%",
+      "change_1w": "-3%",
+      "change_1m": "13.2%",
+      "change_3m": null
+    },
+    {
+      "name": "Billet",
+      "ltp_vs_52w_high": "-1.8%",
+      "change_1w": "-1.8%",
+      "change_1m": "8.9%",
+      "change_3m": null
+    }
+  ],
+  "highlights": [],
+  "compared_with_prev_date": "2026-09-07"
+}
