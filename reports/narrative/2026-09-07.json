@@ -1,0 +1,227 @@
+{
+  "report_date": "2026-09-07",
+  "headline": "NIFTY & BEYOND",
+  "standfirst": "What the index doesn't tell you · NSE · Monday, 7 September 2026",
+  "s1_summary_note": "Indian equities surrendered Friday's rebound as Nifty fell 118.55 pts (-0.50%) to 23,779.15, while Sensex dropped 382.62 pts (-0.50%). Market breadth weakened sharply with 172 advances against 326 declines in the Nifty 500 (A/D 0.53). FIIs turned net buyers (+₹280.13 Cr) alongside DII net purchases (+₹566.76 Cr), but market regime slid into Bearish territory at 34.1. HEG Ltd experienced an optical 62.6% price drop due to its 1:1 graphite electrode business demerger ex-date.",
+  "s1_bullets": [
+    {
+      "emoji": "📉",
+      "label": "Index",
+      "text": "Nifty 23,779.15 (-0.50%), Sensex 76,132.81 (-0.50%), surrendering Friday's gains. Nifty closed near its intraday low of 23,760 after fading early attempts to stay above 23,900."
+    },
+    {
+      "emoji": "📊",
+      "label": "Breadth",
+      "text": "172 shares up, 326 down in Nifty 500 (A/D 0.53). Nearly two shares fell for every one that rose as profit-taking hit midcaps and smallcaps."
+    },
+    {
+      "emoji": "🏦",
+      "label": "Institutional Flows",
+      "text": "FIIs turned net buyers (+₹280.13 Cr) following Friday's net sale, while DIIs added +₹566.76 Cr. Combined net institutional inflow stood at ₹846.89 Cr."
+    },
+    {
+      "emoji": "⚡",
+      "label": "Corporate Demerger Action",
+      "text": "HEG Ltd traded ex-demerger for its graphite electrode business (1:1 scheme), causing an optical 62.6% price adjustment to ₹260 on 2.02x volume."
+    },
+    {
+      "emoji": "🚀",
+      "label": "Tijori Momentum Intel",
+      "text": "Syrma SGS Tech surged 12.18% on 8.84x volume on EMS order win expectations, while Zydus Wellness jumped 4.45% on 9.89x average volume."
+    },
+    {
+      "emoji": "😌",
+      "label": "Fear Gauge",
+      "text": "India VIX rose 0.48 pts (+4.5%) to 11.16, remaining in a calm zone but reflecting slight escalation in market downside protection demand."
+    }
+  ],
+  "s1_commodities": [
+    { "name": "Brent crude", "value": "$95.80", "change": "+0.60%", "dir": "up" },
+    { "name": "Gold (MCX Oct, ₹/10g)", "value": "₹1,53,850", "change": "+0.31%", "dir": "up" },
+    { "name": "Silver (MCX Dec, ₹/kg)", "value": "₹2,39,120", "change": "+0.27%", "dir": "up" },
+    { "name": "Copper (MCX Sep, ₹/kg)", "value": "₹1,384.50", "change": "+0.32%", "dir": "up" },
+    { "name": "Aluminium (MCX Sep, ₹/kg)", "value": "₹349.10", "change": "+0.34%", "dir": "up" },
+    { "name": "USD/INR", "value": "94.4850", "change": "rupee -0.06%", "dir": "down" }
+  ],
+  "s1_commodities_source": "MCX EOD & Bloomberg Spot Rates",
+  "s1_metals": [],
+  "s2_glosses": {
+    "Breadth": "38.4% of Nifty 500 stocks sit above their 50-day average, with an advance/decline ratio of 0.53. This is the second-weakest regime component (score 21.0).",
+    "Trend": "Nifty sits 3.34% below its 200-day moving average (-3.34% vs 200D), reflecting lingering structural downside pressure.",
+    "Momentum": "A/D ratio at 0.53 ranks 63rd out of 246 sessions, giving a momentum percentile score of 25.4.",
+    "InstitutionalFlow": "FII flow rank (24/40) and DII flow rank (10/40) generate a composite flow score of 41.3.",
+    "Volatility": "Nifty 50 ATR at 0.74% of price (45th out of 250 sessions) keeps volatility calm score at 82.2."
+  },
+  "s2_composition_note": "The composite regime score fell to 34.1 from 45.3, entering the Bearish band. Disagreement widened to 61.2 points between the strongest component (Volatility, 82.2) and the weakest (Breadth, 21.0). Excluding Volatility, the core regime score drops to 28.8.",
+  "s3_anomalies": [
+    {
+      "title": "Syrma SGS Technology — 12.18% on 8.84x volume (EMS Breakout)",
+      "text": "Syrma SGS Tech surged 12.18% on 8.84x 3-month volume to ₹685.40 (+11.0% above 20SMA, RSI 72.3 overbought, ADX 20.0). Driven by market expectations of large electronics manufacturing services (EMS) order wins following its Sep 4 capex expansion announcement."
+    },
+    {
+      "title": "HEG Ltd — down 62.62% on 2.02x volume (Optical Demerger Adjustment)",
+      "text": "HEG dropped 62.62% on 2.02x volume to ₹260.00 (-60.5% vs 20SMA, RSI 15.2 deeply oversold, ADX 61.2). This move is purely an optical adjustment: September 7 was the record date for demerging its graphite electrode business into HEG Graphite Ltd on a 1:1 ratio. Existing shareholders receive 1 share in the new entity for every 1 share held."
+    },
+    {
+      "title": "Zydus Wellness — 4.45% on 9.89x volume (FMCG Volume Surge)",
+      "text": "Zydus Wellness gained 4.45% on 9.89x average volume (+7.1% above 20SMA, RSI 60.1). High volume indicates institutional positioning in consumer health and wellness brands ahead of festive demand."
+    },
+    {
+      "title": "Nifty 50 ATR — 0.74% of price (Calm Volatility Floor)",
+      "text": "Nifty ATR remained muted at 0.74% of price (ranks 45th lowest out of 250 sessions). Despite a 118.55-point drop in the index, options implied volatility remains compressed."
+    },
+    {
+      "title": "PVR INOX — down 5.76% on 7.45x volume (Media Selloff)",
+      "text": "PVR INOX fell 5.76% on 7.45x normal volume (-4.3% below 20SMA, RSI 45.1, ADX 48.8). Selloff triggered by subdued weekend theatrical box office collection data and margin concerns."
+    },
+    {
+      "title": "Wockhardt — 5.71% on 4.68x volume (Pharma R&D Momentum)",
+      "text": "Wockhardt climbed 5.71% on 4.68x volume (+15.0% above 20SMA, RSI 70.3). Driven by UK MHRA clinical updates for novel antibiotic Zidebactam/Cefepime (WCK 5222) announced on Sep 3."
+    },
+    {
+      "title": "Nifty 500 Advance/Decline — 0.53 (Sharp Breadth Reversal)",
+      "text": "0.53 shares rose for every one that fell (172 advances vs 326 declines), ranking 63rd out of 246 sessions. Illustrates broad market participation in the pullback after Friday's rebound."
+    },
+    {
+      "title": "CarTrade Tech — 5.99% on 2.32x volume (Digital Auto Platform Traction)",
+      "text": "CarTrade Tech rose 5.99% on 2.32x volume (+7.8% above 20SMA, RSI 67.1, ADX 36.5). Supported by market share expansion in pre-owned auto classifieds and auction volumes."
+    },
+    {
+      "title": "Nifty Oil & Gas Breadth — 13-Point Swing in 5 Sessions",
+      "text": "Nifty Oil & Gas constituents above 20-day average gained 13 percentage points over 5 sessions, outperforming broader markets as Brent crude firmed toward $95.80/bbl."
+    },
+    {
+      "title": "Institutional Flow Reversal — FII +₹280 Cr, DII +₹567 Cr",
+      "text": "FIIs turned net buyers (+₹280.13 Cr) alongside DII net purchases (+₹566.76 Cr), generating total net institutional buying of ₹846.89 Cr. However, institutional buying failed to offset retail and HNI profit-taking."
+    }
+  ],
+  "s4_macro_cards": [
+    {
+      "title": "Forex Reserves Buffer",
+      "pill": "$740.8bn",
+      "pill_class": "wn",
+      "meta": "RBI Weekly Release · Record High",
+      "bullets": [
+        "India's foreign exchange reserves stand at a record $740.803 billion, providing a robust shield against global currency volatility.",
+        "Foreign currency assets ($600.67B) and Gold holdings ($116.41B) ensure the RBI maintains strong intervention capability to defend the rupee."
+      ]
+    },
+    {
+      "title": "India Services PMI & Demand Indicators",
+      "pill": "60.1 PMI",
+      "pill_class": "up",
+      "meta": "S&P Global India Services PMI Feed",
+      "bullets": [
+        "India Services PMI registered at 60.1 in August, confirming sustained expansion in commercial services, finance, and technology demand.",
+        "Tijori macro indicators reflect steady festive demand across freight loading and power consumption."
+      ]
+    },
+    {
+      "title": "Crude Oil & Yield Dynamics",
+      "pill": "$95.80 / 6.95%",
+      "pill_class": "wn",
+      "meta": "Brent Crude & India 10Y Benchmark",
+      "bullets": [
+        "Brent crude traded near $95.80/bbl (+0.60%), driven by Middle East shipping disruptions and tight physical supply.",
+        "India 10-year benchmark bond yield held around 6.95% as market participants anticipate August CPI inflation data."
+      ]
+    }
+  ],
+  "s5_global": [
+    { "instrument": "Dow Jones", "level": "53,686.11", "change": "Holiday", "dir": "down", "signal": "US markets closed on Monday 7 September for Labor Day holiday." },
+    { "instrument": "Nasdaq Composite", "level": "26,584.06", "change": "Holiday", "dir": "down", "signal": "US technology equities closed for Labor Day; trading resumes Tuesday." },
+    { "instrument": "S&P 500", "level": "7,747.71", "change": "Holiday", "dir": "down", "signal": "US benchmark closed for national holiday." },
+    { "instrument": "Brent crude", "level": "$95.80", "change": "1D +0.60%", "dir": "up", "signal": "Firmed above $95.50 as supply tightness and transit risks persist." },
+    { "instrument": "US 10-year Treasury", "level": "~4.78%", "change": "Unchanged", "dir": "down", "signal": "US fixed income market closed for Labor Day." },
+    { "instrument": "USD/INR", "level": "94.4850", "change": "1D rupee -0.06%", "dir": "down", "signal": "Rupee traded in tight range near 94.48 against the US dollar." },
+    { "instrument": "Gold (MCX Oct)", "level": "₹1,53,850 /10g", "change": "1D +0.31%", "dir": "up", "signal": "Slight safe-haven uptick on commodity exchanges." },
+    { "instrument": "Silver (MCX Dec)", "level": "₹2,39,120 /kg", "change": "1D +0.27%", "dir": "up", "signal": "Precious metals tracked modest gains on international spot trading." }
+  ],
+  "s5_timing_note": "<b>US Market Holiday.</b> With US financial markets closed on Monday, 7 September for Labor Day, global equity cues were quiet during Asian and European trading hours. European indices traded flat to slightly lower. In commodities, Brent crude firmed to $95.80/bbl, maintaining cost pressures on energy-importing economies like India.",
+  "s6_note": "Capitulation across capitalization tiers: Nifty 50 fell 0.50%, Sensex dropped 0.50%, Nifty Bank fell 0.49%, Nifty Midcap 100 lost 0.65%, and Nifty Smallcap 100 declined 0.42%. Large-caps and midcaps shared equal weakness. Intraday price action saw Nifty open at 23,885, reach a high of 23,892, and drift steadily lower to close at 23,779.15 near the low of the day.",
+  "s7_note": "Sectoral breadth showed notable divergence:<br><br><b>NIFTY REALTY</b> — worst performing sector of the day, falling 1.12% with A/D of 0.20 as profit-taking extended following last week's sharp surge.<br><br><b>NIFTY AUTO</b> — down 0.84% with A/D of 0.21. Only 2 of 15 constituents advanced, extending five-day breadth losses.<br><br><b>NIFTY IT</b> — declined 0.62% with A/D of 0.30 as index heavyweights TCS, Infosys, and Wipro pulled back.<br><br><b>NIFTY OIL & GAS</b> — best relative performer, gaining 0.25% as upstream energy producers benefited from Brent crude firming to $95.80.",
+  "s8_in": ["Nifty Oil & Gas", "Nifty Metal"],
+  "s8_out": ["Nifty Realty", "Nifty Auto", "Nifty IT"],
+  "s8_implication": "Capital rotated out of interest-rate sensitive sectors (Realty, Auto) and rate-sensitive tech (IT) into energy and metals, aligning with firm commodity prices.",
+  "s9_note": "Volume anomalies were dominated by Syrma SGS Tech (8.84x), Zydus Wellness (9.89x), PVR INOX (7.45x), and Wockhardt (4.68x). HEG's volume of 2.02x reflected demerger positioning.",
+  "s10_triggers": [
+    {
+      "symbols": "BRIGADE (Continued Momentum)",
+      "text": "<b>3 Sep 2026 Catalyst:</b> Official announcement of flagship residential launch <b>'Brigade Barcelona'</b> in Hyderabad Neopolis corridor targeting ₹2,700 Cr GDV. Tijori operational metrics confirm ₹12,915/sq.ft realization, 30.87M sq.ft under construction, and 76% hotel occupancy (RevPAR ₹5,503)."
+    },
+    {
+      "symbols": "NIACL, IFCI (Continued Momentum)",
+      "text": "<b>4 Sep 2026 Catalyst:</b> Surged following SEBI draft prospectus updates on the upcoming <b>National Stock Exchange (NSE) IPO</b>. NIACL holds a 1.42% corporate equity stake and IFCI holds a legacy equity stake in the exchange, driving substantial asset revaluation."
+    },
+    {
+      "symbols": "WOCKPHARMA (Fresh Entry)",
+      "text": "<b>3 Sep 2026 Catalyst:</b> UK MHRA clinical trial approval / Phase 3 progress for novel antibiotic <b>Zidebactam/Cefepime (WCK 5222)</b> targeting multi-drug resistant superbug infections."
+    },
+    {
+      "symbols": "SYRMA (Fresh Entry)",
+      "text": "<b>4 Sep 2026 Catalyst:</b> Board approval of <b>₹280 Cr capex expansion</b> for automated PCB assembly and industrial electronics manufacturing facilities in Pune."
+    },
+    {
+      "symbols": "HEG (Fresh Entry)",
+      "text": "<b>7 Sep 2026 Catalyst:</b> Ex-date record for <b>1:1 demerger</b> of graphite electrode business into HEG Graphite Ltd, resulting in an optical 62.6% price adjustment to ₹260."
+    }
+  ],
+  "s11_interpretation": "FIIs turned net buyers (+₹280.13 Cr) after Friday's net sales, while DIIs maintained steady buying (+₹566.76 Cr). Total institutional net inflow reached ₹846.89 Cr, demonstrating domestic institutional cushion even as market indices pulled back.",
+  "s12_cards": [
+    {
+      "title": "Electronics Manufacturing Services (EMS) Momentum",
+      "lead": "Syrma SGS Tech leads EMS rally on robust order book trajectory.",
+      "bullets": [
+        "Syrma SGS Tech surged 12.18% on 8.84x volume.",
+        "Industrial PCB and auto electronics demand remain core growth drivers."
+      ]
+    },
+    {
+      "title": "Corporate Demergers & Value Unlocking",
+      "lead": "HEG demerges graphite electrode division to create focused entities.",
+      "bullets": [
+        "1:1 entitlement ratio for HEG Graphite Ltd.",
+        "Price adjustment to ₹260 reflects split of core business assets."
+      ]
+    }
+  ],
+  "s13": null,
+  "s14": {
+    "watch": [
+      {
+        "item": "23,750 Nifty Support Level",
+        "confirms": "Holding above 23,750 preserves immediate swing support and prevents deeper drop toward 23,500.",
+        "denies": "A breakdown below 23,750 opens downside risk toward the 200D SMA area."
+      },
+      {
+        "item": "Nifty 500 Advance/Decline Recovery above 1.0",
+        "confirms": "A recovery in A/D ratio above 1.0 would signal broad market stabilization.",
+        "denies": "Continued A/D below 0.60 confirms ongoing distribution across midcaps."
+      },
+      {
+        "item": "Brent Crude near $96/bbl",
+        "confirms": "Crude stabilizing below $96 eases imported inflation and currency pressures.",
+        "denies": "A surge above $98 would press USD/INR toward 95.00."
+      }
+    ],
+    "events": [
+      "Tuesday 8 September — Nifty weekly options expiry.",
+      "Thursday 10 September — Sensex weekly options expiry.",
+      "Friday 11 September — RBI weekly forex reserves update.",
+      "Saturday 12 September — August CPI inflation release."
+    ],
+    "bull": [
+      "FIIs turned net buyers (+₹280.13 Cr) alongside DII net purchases (+₹566.76 Cr).",
+      "India forex reserves remain at record $740.8 billion.",
+      "Nifty Oil & Gas sector showed positive breadth momentum (+13 pts in 5 days).",
+      "India VIX remains muted at 11.16."
+    ],
+    "bear": [
+      "Nifty lost 118.55 pts (-0.50%), closing near session low.",
+      "Nifty 500 breadth worsened to 0.53 (326 declines vs 172 advances).",
+      "Market regime score fell into Bearish band at 34.1.",
+      "Realty (-1.12%) and Auto (-0.84%) experienced broad profit-taking."
+    ],
+    "closing": "Monday's session saw Indian equities surrender Friday's gains as Nifty dropped 118.55 pts to 23,779.15. While both FIIs (+₹280 Cr) and DIIs (+₹567 Cr) ended in net buying territory, broad market breadth weakened with nearly two shares falling for every advance in the Nifty 500. HEG's 62.6% drop reflected a planned 1:1 graphite electrode demerger, while EMS star Syrma SGS Tech surged 12.18% on heavy volume. With US markets closed for Labor Day, attention turns to Tuesday's weekly options expiry and key inflation data later in the week."
+  }
+}
