@@ -323,8 +323,8 @@ def s4(nv):
             for c in cards
         ) + "</div>"
     else:
-        body = pending("Macro &amp; Policy", "Web search at report time. Nothing in Supabase feeds this section.")
-    return f'<section id="s4">{sec_head("4","Macro &amp; Policy Dashboard")}{body}</section>'
+        body = pending("Macro & Policy", "Web search at report time. Nothing in Supabase feeds this section.")
+    return f'<section id="s4">{sec_head("4","Macro & Policy Dashboard")}{body}</section>'
 
 
 def s5(nv):
@@ -340,10 +340,10 @@ def s5(nv):
         head = f'<tr>{th("Instrument")}{th("Level",True)}{th("Change",True)}<th>What it means for Indian equities</th></tr>'
         body = make_table(head, body_rows, 640)
     else:
-        body = pending("Global cues, currency &amp; commodities", "Web search at report time.")
+        body = pending("Global cues, currency & commodities", "Web search at report time.")
     timing = nv.get("s5_timing_note") or \
         "US index closes settle <b>after</b> the Indian close. They are cues for the <i>next</i> session, not drivers of this one."
-    return (f'<section id="s5">{sec_head("5","Global Cues, Currency &amp; Commodities")}'
+    return (f'<section id="s5">{sec_head("5","Global Cues, Currency & Commodities")}'
             f'{body}<div class="callout gap">{timing}</div></section>')
 
 
@@ -485,7 +485,7 @@ def s7(p, nv):
                           f'is not written up separately in &sect;7 and &sect;9.</em></p>'
                           f'<div class="grid3">{cards}</div>')
 
-    return (f'<section id="s7">{sec_head("7","Breadth &amp; Participation")}'
+    return (f'<section id="s7">{sec_head("7","Breadth & Participation")}'
             f'{make_table(head_row, rows_html, 640, "compact")}'
             f'<p class="cap"><b>A/D D-1</b> is the advance/decline for yesterday. '
             f'<b>%&gt;20D D-1</b> is the percentage of stocks in that index trading above their 20-day SMA, yesterday.<br><br>'
@@ -734,8 +734,8 @@ def s12(p, nv):
 def s13(nv):
     a = nv.get("s13")
     if not a:
-        return (f'<section id="s13">{sec_head("13","Futures, Options &amp; Expiry")}'
-                f'{pending("Futures &amp; Options", "Sourced at report time via Tijori + Web.")}'
+        return (f'<section id="s13">{sec_head("13","Futures, Options & Expiry")}'
+                f'{pending("Futures & Options", "Sourced at report time via Tijori + Web.")}'
                 f'</section>')
 
     # Futures table
@@ -795,7 +795,7 @@ def s13(nv):
     note_block = f'<div class="callout">{a.get("note","")}</div>' if a.get("note") else ""
     expiry_banner = f'<p class="cap"><em>{esc(a.get("chain_title",""))}</em></p>' if a.get("chain_title") else ""
 
-    return (f'<section id="s13">{sec_head("13","Futures, Options &amp; Expiry")}'
+    return (f'<section id="s13">{sec_head("13","Futures, Options & Expiry")}'
             f'<h3>Index futures</h3>'
             f'{make_table(fut_head, fut_rows, 720)}'
             f'<h3>{esc(a.get("chain_title","Weekly option chain"))}</h3>'
